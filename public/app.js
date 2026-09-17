@@ -1,4 +1,4 @@
-import { spriteEl } from "./sprites.js?v=2";
+import { spriteEl } from "./sprites.js?v=3";
 
 const app = document.getElementById("app");
 const SAVE_KEY = "hearthlands.save.v1";
@@ -158,24 +158,17 @@ function landing() {
 }
 
 function boxArt() {
-  // A little 2-3-2 hex board with the Peat Bog in the middle, as the rules say.
-  const board = [["barley_rise", "flax_fields"], ["wicker_marsh", "peat_bog", "mutton_downs"], ["loamfields", "brine_flats"]];
   return h(
     "header",
     { class: "box" },
     h("h1", { class: "logo" }, h("img", { src: "/art/logo.webp", alt: "Hearthlands: Age of Tillage", width: "1080", height: "540" })),
     h("p", { class: "eyebrow" }, "A Game of Soil, Strategy & Spite"),
     h(
-      "div",
-      { class: "board", "aria-hidden": "true" },
-      board.map((row) => h("div", { class: "board-row" }, row.map((id) => h("img", { src: `/art/${id}.webp`, alt: "", class: "tile" }))))
-    ),
-    h(
       "ul",
       { class: "box-stats" },
       h("li", {}, h("b", {}, "2–5"), "Tillers"),
       h("li", {}, h("b", {}, "21+"), "Ages"),
-      h("li", {}, h("b", {}, "45 min*"), "Playtime")
+      h("li", {}, h("b", {}, "20 min*"), "Playtime")
     ),
     h("p", { class: "asterisk" }, "*not including Rules Tutorial")
   );

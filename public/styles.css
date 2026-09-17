@@ -77,7 +77,7 @@ body {
   color: var(--parchment);
   padding: 0 0 16px;
 }
-.box .eyebrow { margin: 6px 0 0; }
+.box .eyebrow { margin: 10px 0 0; }
 .eyebrow {
   font: 600 13px var(--display);
   letter-spacing: 0.18em;
@@ -92,10 +92,6 @@ body {
   height: auto;
   filter: drop-shadow(0 8px 18px rgba(0, 0, 0, 0.55));
 }
-.board { margin: 12px auto 0; width: min(100%, 196px); }
-.board-row { display: flex; justify-content: center; gap: 2px; }
-.board-row + .board-row { margin-top: -5.5%; }
-.board .tile { width: calc((100% - 4px) / 3); height: auto; display: block; filter: drop-shadow(0 3px 4px rgba(0, 0, 0, 0.45)); }
 .box-stats {
   list-style: none;
   padding: 0;

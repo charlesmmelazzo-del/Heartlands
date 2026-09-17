@@ -95,7 +95,7 @@ Review the content and write a document of suggested changes with these sections
    every single page of it. We are genuinely impressed, a little worried, and very grateful."
    Then: "Show this screen to your server for A Free Shot of Malört, awarded to [NAME]." Suggest
    improvements to that copy, and to the landing page tagline ("A Game of Soil, Strategy &
-   Spite", "2–5 Tillers · Ages 21+ · 45 min* · *not including Rules Tutorial").
+   Spite", "2–5 Tillers · Ages 21+ · 20 min* · *not including Rules Tutorial").
 
 6. TOP 10 CHANGES
    If we only make ten changes, which ones, in priority order?
