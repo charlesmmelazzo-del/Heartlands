@@ -25,7 +25,7 @@ Guests type in their name (plus up to 4 friends' names) and tap "Begin the Game.
 a Rules Tutorial, one short screen at a time, with a "Next" button and no skip button.
 
 THE JOKE
-The tutorial is 3,000 pages long. It starts out sounding like a completely real, normal board
+The tutorial is up to 3,000 pages long (the bar can shorten it; shorter games skip evenly through the same deck, so the escalation still happens, just faster). It starts out sounding like a completely real, normal board
 game rulebook, then gradually gets more complicated, then fussy, then absurd, and finally
 completely unhinged. If anyone actually taps through all 3,000 pages, the game admits the ruse
 and awards them a free shot of Malört (a famously bitter Chicago liqueur) with their name on the

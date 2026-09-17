@@ -7,12 +7,20 @@ Malört, with their name on the screen so staff can check ID.
 
 ## How it works
 
-- **No database.** Progress is a signed token kept in the guest's browser. Closing the tab and
-  coming back resumes where they left off.
+- **No database server.** Each guest's progress is a signed token in their browser, so closing
+  the tab and coming back resumes where they left off. Settings, games and winners go in one
+  small JSON file (`data/hearthlands.json` locally, a Railway volume in production).
 - **Cheat-resistant.** The rulebook and the ending live only on the server. Each "Next" is checked
   server-side: the token can't be edited, pages can't be skipped, and each page has to stay on
   screen for at least `MIN_DWELL_MS`. The victory screen shows the guest's name, a live clock
   (so a screenshot is obviously stale), the finish time, and a claim code.
+- **Admin page at `/admin`.** Shows games started, winners (with a "Mark shot poured" button),
+  everyone's progress and measured tapping pace, and sets the game length.
+- **Adjustable length, same escalation.** Admin picks "minutes to finish" × "pages per minute".
+  A game deals evenly spaced cards from the full 3,000-card deck, so a short game still goes from
+  believable to absurd, just faster. A game keeps the length it started with.
+  Measured top speed: an auto-clicker gets 60 pages/min (Next unlocks after ~1 sec), and a
+  human mashing Next gets roughly 40–45.
 - **Escalating content.** `lib/handwritten.js` has the straight-faced intro and the interludes.
   `lib/lore.js` has tiered phrase lists that `lib/content.js` combines into pages.
 
@@ -22,30 +30,37 @@ Malört, with their name on the screen so staff can check ID.
 npm start
 ```
 
-Open http://localhost:3000. To test the ending quickly:
+Open http://localhost:3000, and http://localhost:3000/admin for the admin page:
 
 ```bash
-TOTAL_SCREENS=30 MIN_DWELL_MS=300 npm start
+ADMIN_PASSWORD=pick-one npm start
 ```
+
+To test the ending quickly, sign in to the admin page and set 1 minute × 60 pages/min (60 pages).
 
 ## Scripts
 
 - `npm run check` renders all pages, fails on broken placeholders, and prints samples per tier.
+  `node scripts/check.js 3 300` checks a 300-page game.
 - `npm run export` writes `docs/RULEBOOK.txt` (everything) and `docs/RULEBOOK-SAMPLER.txt`.
 
 ## Deploy on Railway
 
 1. Push this repo to GitHub.
 2. Railway → New Project → Deploy from GitHub repo → pick it. It detects Node and runs `npm start`.
-3. Variables → add `TOKEN_SECRET` = a long random string. **Required:** without it, every guest's
-   progress resets whenever Railway restarts the app. Never change it after launch.
-4. Settings → Networking → Generate Domain. That URL goes in the QR code.
+3. Variables → add:
+   - `TOKEN_SECRET` = a long random string. **Required:** without it, every guest's progress
+     resets whenever Railway restarts the app. Never change it after launch.
+   - `ADMIN_PASSWORD` = the password for `/admin`.
+4. Right-click the service → **Attach Volume**, mount path `/data`. **Required:** without it, the
+   winners list and settings are wiped on every deploy. (Railway tells the app where the volume is.)
+5. Settings → Networking → Generate Domain. That URL goes in the QR code.
 
 Optional variables:
 
 | Variable | Default | What it does |
 |---|---|---|
-| `TOTAL_SCREENS` | `3000` | Length of the tutorial |
+| `DATA_DIR` | volume path | Where the data file lives, if not using a Railway volume |
 | `MIN_DWELL_MS` | `900` | Minimum time on each page before Next counts |
 | `TZ_DISPLAY` | `America/Chicago` | Time zone for the clock on the victory screen |
 

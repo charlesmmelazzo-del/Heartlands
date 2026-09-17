@@ -1,8 +1,10 @@
 // Writes the whole rulebook to docs/RULEBOOK.txt for proofreading, plus a
 // shorter docs/RULEBOOK-SAMPLER.txt (intro + every 12th page) for AI reviewers.
-// Usage: node scripts/export.js [Player1 Player2 ...]
+// Usage: [PAGES=3000] node scripts/export.js [Player1 Player2 ...]
 import fs from "node:fs";
-import { renderScreen, tierAt, TOTAL_SCREENS } from "../lib/content.js";
+import { renderScreen, tierAt, MASTER_SIZE } from "../lib/content.js";
+
+const TOTAL_SCREENS = Number(process.env.PAGES) || MASTER_SIZE;
 import { INTRO } from "../lib/handwritten.js";
 
 const players = process.argv.slice(2).length ? process.argv.slice(2) : ["Mike", "Dana", "Rosa"];
@@ -17,12 +19,12 @@ function build(include, title) {
   let chapter = 0;
   for (let i = 0; i < TOTAL_SCREENS; i++) {
     if (!include(i)) continue;
-    const s = renderScreen(i, players);
+    const s = renderScreen(i, players, TOTAL_SCREENS);
     if (s.chapter !== chapter) {
       chapter = s.chapter;
       out.push("", "=".repeat(70), `CHAPTER ${s.chapter} OF ${s.totalChapters}: ${s.chapterTitle}`, "=".repeat(70), "");
     }
-    const t = tierAt(i);
+    const t = tierAt(i, TOTAL_SCREENS);
     out.push(`--- Page ${s.page} · ${s.kind.toUpperCase()} · Tier ${t} (${TIER_NAMES[t]}) ---`);
     out.push(s.heading.toUpperCase());
     for (const p of s.body) out.push(p);

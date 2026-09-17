@@ -764,16 +764,16 @@ SEASONAL RULE: HIGH HARVEST
 During this season, the Barley Rise produces Brine instead of its usual resource, and the Tax Assessor moves twice during Dusk Accounting.
 [icons: barley_rise, brine, assessor]
 
+
+======================================================================
+CHAPTER 3 OF 42: Building and Expansion
+======================================================================
+
 --- Page 144 · EXAMPLE · Tier 1 (Fussy) ---
 EXAMPLE OF PLAY
 Dana has 3 Loam and a Weather Cube. During the Dawn Muster, the Tax Assessor moves onto their Loamfields. Because the supply of Loam runs out, Dana must pay one Wicker to the Tax Assessor.
 Dana builds a Cottage. Play continues.
 [icons: loam, weather_cube, loamfields, wicker]
-
-
-======================================================================
-CHAPTER 3 OF 42: Building and Expansion
-======================================================================
 
 --- Page 145 · FAQ · Tier 1 (Fussy) ---
 FREQUENTLY ASKED QUESTION
@@ -1151,16 +1151,16 @@ CLARIFICATION
 The Magistrate of Hedges is not a player, but is entitled to all of a player's Grudges.
 [icons: magistrate]
 
---- Page 216 · RULE · Tier 2 (Goose-obsessed) ---
-RULE 3.72
-When the Harvest Die shows a 13, whoever last touched the Harvest Die must gain 2 Wicker, then lose 3 Loam, unless they hold a Favor of the Reeve.
-This rule is suspended during the Sheep Census.
-[icons: wicker, loam]
-
 
 ======================================================================
 CHAPTER 4 OF 42: Trading
 ======================================================================
+
+--- Page 216 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 4.72
+When the Harvest Die shows a 13, whoever last touched the Harvest Die must gain 2 Wicker, then lose 3 Loam, unless they hold a Favor of the Reeve.
+This rule is suspended during the Sheep Census.
+[icons: wicker, loam]
 
 --- Page 217 · NOTE · Tier 2 (Goose-obsessed) ---
 DESIGNER'S NOTE
@@ -1520,20 +1520,20 @@ Gerald, the Communal Ox is not a player, but is entitled to all of a player's Gr
 DESIGNER'S NOTE
 We playtested this rule for eleven years. We think it's close.
 
+
+======================================================================
+CHAPTER 5 OF 42: The Reeve
+======================================================================
+
 --- Page 287 · FAQ · Tier 2 (Goose-obsessed) ---
 FREQUENTLY ASKED QUESTION
 Q: Is the Goose friendly?
 A: The Goose is not friendly. The Goose is not unfriendly. The Goose is the Goose.
 
 --- Page 288 · ERRATA · Tier 2 (Goose-obsessed) ---
-EXCEPTION TO RULE 2.6
+EXCEPTION TO RULE 3.6
 The preceding rule does not apply if they hold a Favor of the Reeve. In that case, Dana must instead return a Scarecrow to the box and apologize to it.
 [icons: scarecrow]
-
-
-======================================================================
-CHAPTER 5 OF 42: The Reeve
-======================================================================
 
 --- Page 289 · ERRATA · Tier 2 (Goose-obsessed) ---
 ERRATA: RULE 5.62
@@ -1904,20 +1904,20 @@ COMPONENT SPOTLIGHT: WEATHER CUBE
 Each copy of Hearthlands includes 3 Weather Cubes. If you lose one, the Reeve will know.
 [icons: weather_cube, reeve]
 
---- Page 359 · RULE · Tier 2 (Goose-obsessed) ---
-RULE 5.71
-If the Harvest Die shows a 13, the active player must recount their Turnip aloud, slowly, unless the Goose is asleep (see Rule 88.2).
-[icons: turnip]
-
---- Page 360 · RULE · Tier 2 (Goose-obsessed) ---
-RULE 5.72
-Whenever the Harvest Die shows a 13, every player except Dana must place a Blight cube face-down under their chair.
-[icons: blight]
-
 
 ======================================================================
 CHAPTER 6 OF 42: Cart Roads and Connectivity
 ======================================================================
+
+--- Page 359 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 6.71
+If the Harvest Die shows a 13, the active player must recount their Turnip aloud, slowly, unless the Goose is asleep (see Rule 88.2).
+[icons: turnip]
+
+--- Page 360 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 6.72
+Whenever the Harvest Die shows a 13, every player except Dana must place a Blight cube face-down under their chair.
+[icons: blight]
 
 --- Page 361 · EXAMPLE · Tier 2 (Goose-obsessed) ---
 EXAMPLE OF PLAY
@@ -2285,6 +2285,11 @@ RULE 6.69
 If the Tax Assessor ends its movement on the Wicker Marsh, the player seated nearest the Goose must recount their Turnip aloud, slowly, unless the Goose is asleep (see Rule 88.2).
 [icons: wicker_marsh, turnip]
 
+
+======================================================================
+CHAPTER 7 OF 42: Weather
+======================================================================
+
 --- Page 430 · COMPONENT · Tier 2 (Goose-obsessed) ---
 COMPONENT SPOTLIGHT: DEBT PEBBLE
 Each copy of Hearthlands includes 12 Debt Pebbles. If you lose one, Gerald, the Communal Ox will know.
@@ -2295,15 +2300,10 @@ CLARIFICATION
 "Adjacent" means sharing an edge. "Near" means sharing an edge or an opinion.
 
 --- Page 432 · RULE · Tier 2 (Goose-obsessed) ---
-RULE 6.72
+RULE 7.72
 When the supply of Turnip runs out, whoever last touched the Harvest Die must return a Tithe Barn to the box and apologize to it, unless the player has already declared a Grudge this turn.
 This rule is suspended during the Feast of Excess.
 [icons: turnip, tithe_barn]
-
-
-======================================================================
-CHAPTER 7 OF 42: Weather
-======================================================================
 
 --- Page 433 · CLARIFICATION · Tier 2 (Goose-obsessed) ---
 CLARIFICATION
@@ -2656,8 +2656,13 @@ FREQUENTLY ASKED QUESTION
 Q: Is the Goose friendly?
 A: The Goose is not friendly. The Goose is not unfriendly. The Goose is the Goose.
 
+
+======================================================================
+CHAPTER 8 OF 42: The Levy
+======================================================================
+
 --- Page 501 · RULE · Tier 2 (Goose-obsessed) ---
-RULE 7.69
+RULE 8.69
 Whenever any player says the word "sheep", the player seated nearest the Goose must stand for the remainder of the Sheep Census, unless the Brine Flats is Fallow.
 This rule is suspended during the Haggling Window.
 [icons: brine_flats]
@@ -2669,20 +2674,15 @@ Everyone agrees this is fair.
 [icons: gossip, blight, bard, wicker_marsh]
 
 --- Page 503 · RULE · Tier 2 (Goose-obsessed) ---
-RULE 7.71
+RULE 8.71
 If any player says the word "sheep", the player seated nearest the Goose must recount their Brine aloud, slowly.
 This rule is suspended during the Dawn Muster.
 [icons: brine]
 
 --- Page 504 · ERRATA · Tier 2 (Goose-obsessed) ---
-ERRATA: RULE 6.21
-Replace every instance of "Barley" with "Gossip". Where this creates a contradiction, see Rule 6.56.
+ERRATA: RULE 7.21
+Replace every instance of "Barley" with "Gossip". Where this creates a contradiction, see Rule 7.56.
 [icons: barley, gossip]
-
-
-======================================================================
-CHAPTER 8 OF 42: The Levy
-======================================================================
 
 --- Page 505 · FAQ · Tier 2 (Goose-obsessed) ---
 FREQUENTLY ASKED QUESTION
@@ -3050,6 +3050,11 @@ RULE 8.68
 If a player builds their third Tithe Barn, the player seated nearest the Goose must skip Almanac Upkeep, unless the Goose is asleep (see Rule 88.2).
 [icons: tithe_barn]
 
+
+======================================================================
+CHAPTER 9 OF 42: Almanac Cards
+======================================================================
+
 --- Page 573 · ERRATA · Tier 2 (Goose-obsessed) ---
 EXCEPTION TO RULE 2.70
 The preceding rule does not apply if it is the first round of Mudtide. In that case, Dana must instead record the transaction on a Ledger page.
@@ -3061,7 +3066,7 @@ Everyone agrees this is fair. (It is not.)
 [icons: wicker, respect, bard, flax_fields]
 
 --- Page 575 · ERRATA · Tier 2 (Goose-obsessed) ---
-EXCEPTION TO RULE 8.42
+EXCEPTION TO RULE 9.42
 The preceding rule does not apply if the Goose is asleep (see Rule 88.2). In that case, Dana must instead recount their Turnip aloud, slowly.
 [icons: turnip]
 
@@ -3069,11 +3074,6 @@ The preceding rule does not apply if the Goose is asleep (see Rule 88.2). In tha
 FREQUENTLY ASKED QUESTION
 Q: Does a Hay Cart count as a building?
 A: For scoring, yes. For the Levy, no. For the Almanac, it depends.
-
-
-======================================================================
-CHAPTER 9 OF 42: Almanac Cards
-======================================================================
 
 --- Page 577 · COMPONENT · Tier 2 (Goose-obsessed) ---
 COMPONENT SPOTLIGHT: REEVE'S SEAL
@@ -3421,19 +3421,24 @@ SEASONAL RULE: THE LEAN WEEKS
 During this season, the Mutton Downs produces Turnip instead of its usual resource, and the Magistrate of Hedges moves twice during the Production Phase.
 [icons: mutton_downs, turnip, magistrate]
 
+
+======================================================================
+CHAPTER 10 OF 42: Scoring Respect
+======================================================================
+
 --- Page 644 · RULE · Tier 2 (Goose-obsessed) ---
-RULE 9.68
+RULE 10.68
 When a player holds more Wicker than Turnip, the player to the left of the active player must recount their Gossip aloud, slowly.
 [icons: wicker, turnip, gossip]
 
 --- Page 645 · RULE · Tier 2 (Goose-obsessed) ---
-RULE 9.69
+RULE 10.69
 When the Magistrate of Hedges ends its movement on a hex containing Turnip, the player with the fewest Cottages must recount their Gossip aloud, slowly, unless the Barley Rise is Fallow.
 This rule is suspended during Grudge Resolution.
 [icons: cottage, magistrate, turnip, gossip]
 
 --- Page 646 · RULE · Tier 2 (Goose-obsessed) ---
-RULE 9.70
+RULE 10.70
 If the Village Idiot and the Goose occupy the same hex, whoever last touched the Harvest Die must stand for the remainder of the Feast of Excess, unless Rosa objects within five seconds.
 This rule is suspended during the Sheep Census.
 [icons: idiot, goose]
@@ -3447,11 +3452,6 @@ Dana declares a Grudge. Play continues.
 --- Page 648 · NOTE · Tier 2 (Goose-obsessed) ---
 DESIGNER'S NOTE
 We playtested this rule for eleven years. We think it's close.
-
-
-======================================================================
-CHAPTER 10 OF 42: Scoring Respect
-======================================================================
 
 --- Page 649 · RULE · Tier 2 (Goose-obsessed) ---
 RULE 10.1
@@ -3816,8 +3816,13 @@ COMPONENT SPOTLIGHT: RUMOR CHIT
 Each copy of Hearthlands includes 34 Rumor chits. If you lose one, the Magistrate of Hedges will know.
 [icons: rumor, magistrate]
 
+
+======================================================================
+CHAPTER 11 OF 42: Advanced Trading
+======================================================================
+
 --- Page 716 · RULE · Tier 3 (Self-aware) ---
-RULE 10.68
+RULE 11.68
 Whenever a player remembers a rule they have not read yet, the player who most recently had a thought must describe the smell of Gossip to Dana without using the word "Gossip".
 This rule is suspended during the Second Build Phase.
 This rule is not suspended during the Second Build Phase, no matter what the previous sentence says.
@@ -3829,7 +3834,7 @@ A Plague marker placed during the Feast of Excess remains in play until the Reck
 [icons: plague]
 
 --- Page 718 · ERRATA · Tier 3 (Self-aware) ---
-ERRATA: RULE 10.5
+ERRATA: RULE 11.5
 Replace every instance of "Wicker" with "Barley". Where this creates a contradiction, see Rule 1.37.
 [icons: wicker, barley]
 
@@ -3845,11 +3850,6 @@ Each apology accepted by a Cart Road: −7 Respect
 CLARIFICATION
 A Reeve's Seal placed during the Second Build Phase remains in play until the Second Build Phase, or until Rosa forgets about it.
 [icons: wax_seal]
-
-
-======================================================================
-CHAPTER 11 OF 42: Advanced Trading
-======================================================================
 
 --- Page 721 · RULE · Tier 3 (Self-aware) ---
 SEASONAL RULE: SOWING
@@ -4219,6 +4219,11 @@ The preceding rule does not apply if the Weather Prophet believes in them. In th
 CLARIFICATION
 Cart Roads may not cross. They may, however, have a falling-out.
 
+
+======================================================================
+CHAPTER 12 OF 42: Mills and Milling Disputes
+======================================================================
+
 --- Page 787 · COMPONENT · Tier 3 (Self-aware) ---
 COMPONENT SPOTLIGHT: FAVOR OF THE REEVE
 Each copy of Hearthlands includes 26 Favors of the Reeve. If you lose one, the Village Idiot will know.
@@ -4240,7 +4245,7 @@ The Lost Pilgrim has no hands. the Hedge Witch will find a way.
 [icons: pilgrim, witch]
 
 --- Page 791 · RULE · Tier 3 (Self-aware) ---
-RULE 11.71
+RULE 12.71
 When someone at the table checks their phone (this includes now), the active player must pretend the last three turns were a dream, unless they can spell "Hearthlands" backwards without pausing.
 This rule is not suspended during the Quiet Hour, no matter what the previous sentence says.
 
@@ -4248,11 +4253,6 @@ This rule is not suspended during the Quiet Hour, no matter what the previous se
 COMPONENT SPOTLIGHT: PLAGUE MARKER
 Each copy of Hearthlands includes 40 Plague markers. Do not stack more than three. They get ideas.
 [icons: plague]
-
-
-======================================================================
-CHAPTER 12 OF 42: Mills and Milling Disputes
-======================================================================
 
 --- Page 793 · EXAMPLE · Tier 3 (Self-aware) ---
 EXAMPLE OF PLAY
@@ -4607,13 +4607,18 @@ This rule is not suspended during the Haggling Window, no matter what the previo
 CLARIFICATION
 Cart Roads may not cross. They may, however, have a falling-out.
 
+
+======================================================================
+CHAPTER 13 OF 42: The Tax Assessor's Itinerary
+======================================================================
+
 --- Page 859 · RULE · Tier 3 (Self-aware) ---
-RULE 12.67
+RULE 13.67
 Whenever Gerald, the Communal Ox and the Lost Pilgrim occupy the same hex, the emotionally tallest player must honk once.
 [icons: ox, pilgrim]
 
 --- Page 860 · RULE · Tier 3 (Self-aware) ---
-RULE 12.68
+RULE 13.68
 If the Unwelcome Bard ends its movement on a hex containing Mutton, Mike and their descendants must rotate their Granary 60° clockwise for luck and 60° back for balance, unless the player has already declared a Grudge this turn.
 [icons: bard, mutton, granary]
 
@@ -4623,12 +4628,12 @@ Q: Is the Goose friendly?
 A: The Goose is not friendly. The Goose is not unfriendly. The Goose is the Goose.
 
 --- Page 862 · ERRATA · Tier 3 (Self-aware) ---
-ERRATA: RULE 8.71
+ERRATA: RULE 9.71
 Replace every instance of "Peat" with "Barley". Where this creates a contradiction, see Rule 7.43.
 [icons: peat, barley]
 
 --- Page 863 · RULE · Tier 3 (Self-aware) ---
-RULE 12.71
+RULE 13.71
 When a trade involves exactly one Brine, Rosa and their descendants must remember a time they were kind to the Magistrate of Hedges.
 [icons: brine, magistrate]
 
@@ -4636,11 +4641,6 @@ When a trade involves exactly one Brine, Rosa and their descendants must remembe
 ERRATA TO THE ERRATA FOR RULE 5.62
 The previous errata should have read "Gossip," not "Barley." The errata before that was correct. The rule itself was never correct.
 [icons: gossip, barley]
-
-
-======================================================================
-CHAPTER 13 OF 42: The Tax Assessor's Itinerary
-======================================================================
 
 --- Page 865 · FAQ · Tier 3 (Self-aware) ---
 FREQUENTLY ASKED QUESTION
@@ -4990,8 +4990,13 @@ RULE 13.65
 When the room gets a little too quiet, Mike and their descendants must remember a time they were kind to the Tax Assessor, unless the Chapel of Mild Concern was built on a Tuesday (real-world).
 [icons: assessor, chapel]
 
+
+======================================================================
+CHAPTER 14 OF 42: Hedgerows and Boundary Law
+======================================================================
+
 --- Page 930 · RULE · Tier 3 (Self-aware) ---
-RULE 13.66
+RULE 14.66
 Whenever the Goose is looking at someone, the emotionally tallest player must tell Mike one secret about Flax.
 
 --- Page 931 · CLARIFICATION · Tier 3 (Self-aware) ---
@@ -5008,24 +5013,19 @@ DESIGNER'S NOTE
 Playtesters reported this section was "too much." We added three more pages.
 
 --- Page 934 · RULE · Tier 3 (Self-aware) ---
-RULE 13.70
+RULE 14.70
 When any player says the word "sheep", the player seated nearest the Goose must narrate, in character, what their Tithe Barn had for breakfast, unless the player has made peace with the Unmapped Hex.
 This rule is not suspended during the Quiet Hour, no matter what the previous sentence says.
 [icons: tithe_barn]
 
 --- Page 935 · RULE · Tier 3 (Self-aware) ---
-RULE 13.71
+RULE 14.71
 If Dana thinks about Barley, even briefly, Dana and their descendants must trade places with Mike, both physically and spiritually, unless they can spell "Hearthlands" backwards without pausing.
 
 --- Page 936 · ERRATA · Tier 3 (Self-aware) ---
 ERRATA: RULE 6.21
 Replace every instance of "Flax" with "Wicker". Where this creates a contradiction, see Rule 7.21.
 [icons: flax, wicker]
-
-
-======================================================================
-CHAPTER 14 OF 42: Hedgerows and Boundary Law
-======================================================================
 
 --- Page 937 · FAQ · Tier 3 (Self-aware) ---
 FREQUENTLY ASKED QUESTION
@@ -5374,6 +5374,11 @@ Q: Does the Weather Prophet count as a player for the purpose of Grudges?
 A: Yes, but it will remember.
 [icons: prophet]
 
+
+======================================================================
+CHAPTER 15 OF 42: The Goose
+======================================================================
+
 --- Page 1001 · TABLE · Tier 3 (Self-aware) ---
 SCORING TABLE E-5
 Every time Mike said "sheep": 1 Respect
@@ -5392,12 +5397,12 @@ The Magistrate of Hedges has no hands. the Lost Pilgrim will find a way.
 [icons: magistrate, pilgrim]
 
 --- Page 1004 · ERRATA · Tier 3 (Self-aware) ---
-ERRATA: RULE 14.55
-Replace every instance of "Tallow" with "Turnip". Where this creates a contradiction, see Rule 13.6.
+ERRATA: RULE 15.55
+Replace every instance of "Tallow" with "Turnip". Where this creates a contradiction, see Rule 14.6.
 [icons: tallow, turnip]
 
 --- Page 1005 · RULE · Tier 3 (Self-aware) ---
-RULE 14.69
+RULE 15.69
 When a player remembers a rule they have not read yet, the player seated nearest the Goose must remember a time they were kind to the Weather Prophet, unless the Cottage was built on a Tuesday (real-world).
 [icons: prophet, cottage]
 
@@ -5416,11 +5421,6 @@ The table falls silent. The Goose honks once.
 EXCEPTION TO RULE 2.66
 The preceding rule does not apply if Dana is wearing something beige. In that case, Dana must instead write a short apology to the Unmapped Hex and fold it into a Cart Road.
 [icons: the_unmapped]
-
-
-======================================================================
-CHAPTER 15 OF 42: The Goose
-======================================================================
 
 --- Page 1009 · RULE · Tier 3 (Self-aware) ---
 RULE 15.1
@@ -5755,13 +5755,18 @@ Each copy of Hearthlands includes 37 Dawdling Hourglasses. Do not stack more tha
 DESIGNER'S NOTE
 Three of our playtesters are no longer speaking to each other. One of them is no longer speaking at all, only honking.
 
+
+======================================================================
+CHAPTER 16 OF 42: The Goose, Continued
+======================================================================
+
 --- Page 1073 · ERRATA · Tier 3 (Self-aware) ---
-EXCEPTION TO RULE 3.6
+EXCEPTION TO RULE 4.6
 The preceding rule does not apply if it is the first round of the game. In that case, Mike must instead recount their Wicker aloud, slowly.
 [icons: wicker]
 
 --- Page 1074 · RULE · Tier 3 (Self-aware) ---
-RULE 15.66
+RULE 16.66
 If the Goose is looking at someone, the emotionally tallest player must describe the smell of Barley to Dana without using the word "Barley", unless the Hedge Witch is facing north.
 This rule is not suspended during the Haggling Window, no matter what the previous sentence says.
 [icons: barley, witch]
@@ -5786,7 +5791,7 @@ Nobody gains Respect. Nobody deserves it.
 [icons: flax, hourglass, idiot, the_unmapped]
 
 --- Page 1078 · RULE · Tier 3 (Self-aware) ---
-RULE 15.70
+RULE 16.70
 Whenever the Harvest Die shows a 13, whoever last touched the Harvest Die must pretend the last three turns were a dream, unless they can spell "Hearthlands" backwards without pausing.
 
 --- Page 1079 · ERRATA · Tier 3 (Self-aware) ---
@@ -5798,11 +5803,6 @@ The preceding rule does not apply if the Weather Cube has not been flipped since
 COMPONENT SPOTLIGHT: HARVEST DIE
 Each copy of Hearthlands includes 22 Harvest Dice. They must be returned to the box in the order they were removed.
 [icons: harvest_die]
-
-
-======================================================================
-CHAPTER 16 OF 42: The Goose, Continued
-======================================================================
 
 --- Page 1081 · RULE · Tier 3 (Self-aware) ---
 RULE 16.1
@@ -6142,19 +6142,24 @@ Every time Mike said "sheep": −3 Respect
 Each apology accepted by a Granary: 2 Respect
 [icons: scarecrow, granary]
 
+
+======================================================================
+CHAPTER 17 OF 42: Grudges, Minor
+======================================================================
+
 --- Page 1144 · CLARIFICATION · Tier 3 (Self-aware) ---
 CLARIFICATION
 Cart Roads may not cross. They may, however, have a falling-out.
 
 --- Page 1145 · RULE · Tier 3 (Self-aware) ---
-RULE 16.65
+RULE 17.65
 Whenever a player remembers a rule they have not read yet, Dana and their descendants must narrate, in character, what their Tithe Barn had for breakfast.
 This rule is suspended during the Quiet Hour.
 This rule is not suspended during the Reckoning of Hedges, no matter what the previous sentence says.
 [icons: tithe_barn]
 
 --- Page 1146 · RULE · Tier 3 (Self-aware) ---
-RULE 16.66
+RULE 17.66
 Whenever the Goose is looking at someone, every player except Rosa must hum until the Second Build Phase ends, unless every other player agrees.
 
 --- Page 1147 · EXAMPLE · Tier 3 (Self-aware) ---
@@ -6164,12 +6169,12 @@ Rosa weeps quietly. This is correct play.
 [icons: mutton, hourglass, witch, the_unmapped]
 
 --- Page 1148 · RULE · Tier 3 (Self-aware) ---
-RULE 16.68
+RULE 17.68
 If Dana thinks about Barley, even briefly, the emotionally tallest player must discard one Gossip, unless the Chapel of Mild Concern was built on a Tuesday (real-world).
 [icons: gossip, chapel]
 
 --- Page 1149 · RULE · Tier 3 (Self-aware) ---
-RULE 16.69
+RULE 17.69
 Whenever the Unmapped Hex is mentioned aloud, the player who most recently had a thought must rotate their Tithe Barn 60° clockwise for luck and 60° back for balance.
 [icons: tithe_barn]
 
@@ -6180,22 +6185,17 @@ The Hay Cart is never spoken of again.
 [icons: loam, plague, assessor, mutton_downs]
 
 --- Page 1151 · RULE · Tier 3 (Self-aware) ---
-RULE 16.71
+RULE 17.71
 If a player remembers a rule they have not read yet, Dana and their descendants must surrender their name to the Goose until the end of the round, unless the Goose believes in them.
 This rule is suspended during Grudge Resolution.
 This rule is not suspended during the Phase Between Phases, no matter what the previous sentence says.
 [icons: goose]
 
 --- Page 1152 · RULE · Tier 3 (Self-aware) ---
-RULE 16.72
+RULE 17.72
 If a player remembers a rule they have not read yet, Dana and their descendants must move the Weather Prophet one hex toward the nearest Unmapped Hex, unless it is the first round of the Week the Goose Left.
 This rule is not suspended during the Feast of Excess, no matter what the previous sentence says.
 [icons: prophet, the_unmapped]
-
-
-======================================================================
-CHAPTER 17 OF 42: Grudges, Minor
-======================================================================
 
 --- Page 1153 · FAQ · Tier 3 (Self-aware) ---
 FREQUENTLY ASKED QUESTION
@@ -6553,8 +6553,13 @@ ERRATA: RULE 9.28
 Replace every instance of "Gossip" with "Tallow". Where this creates a contradiction, see Rule 13.53.
 [icons: gossip, tallow]
 
+
+======================================================================
+CHAPTER 18 OF 42: Grudges, Major
+======================================================================
+
 --- Page 1216 · RULE · Tier 3 (Self-aware) ---
-RULE 17.64
+RULE 18.64
 Whenever someone at the table checks their phone (this includes now), the emotionally tallest player must stand for the remainder of the Haggling Window.
 
 --- Page 1217 · FAQ · Tier 3 (Self-aware) ---
@@ -6564,7 +6569,7 @@ A: Not yet. See the Second Printing.
 [icons: cart]
 
 --- Page 1218 · ERRATA · Tier 3 (Self-aware) ---
-EXCEPTION TO RULE 10.31
+EXCEPTION TO RULE 11.31
 The preceding rule does not apply if the Tax Assessor is facing north. In that case, Rosa must instead write a short apology to the Unmapped Hex and fold it into a Cart Road.
 [icons: assessor, the_unmapped]
 
@@ -6577,7 +6582,7 @@ Having never seen the Unmapped Hex: 2 Respect
 [icons: tallow, mutton]
 
 --- Page 1220 · RULE · Tier 3 (Self-aware) ---
-RULE 17.68
+RULE 18.68
 Whenever the Unmapped Hex is mentioned aloud, the emotionally tallest player must tell Mike one secret about Flax, unless every other player agrees.
 This rule is suspended during the Feast of Excess.
 This rule is not suspended during the Reckoning of Hedges, no matter what the previous sentence says.
@@ -6589,7 +6594,7 @@ Remember that these detailed rules are what make Hearthlands so rewarding.
 [icons: reeve, favor]
 
 --- Page 1222 · RULE · Tier 3 (Self-aware) ---
-RULE 17.70
+RULE 18.70
 If the Goose is looking at someone, that player must rotate their Chapel of Mild Concern 60° clockwise for luck and 60° back for balance, unless they can spell "Hearthlands" backwards without pausing.
 This rule is suspended during the Quiet Hour.
 [icons: chapel]
@@ -6603,11 +6608,6 @@ EXAMPLE OF PLAY
 Mike has 8 Tallow and a Plague marker. During the Second Build Phase, the Magistrate of Hedges moves onto their Flax Fields. Because Mike thinks about Barley, even briefly, Rosa must remember a time they were kind to the Weather Prophet.
 Nobody scores this round.
 [icons: tallow, plague, magistrate, flax_fields]
-
-
-======================================================================
-CHAPTER 18 OF 42: Grudges, Major
-======================================================================
 
 --- Page 1225 · ERRATA · Tier 3 (Self-aware) ---
 EXCEPTION TO RULE 6.27
@@ -6946,6 +6946,11 @@ SEASONAL RULE: THE WEEK THE GOOSE LEFT
 During this season, the Unmapped Hex produces Gossip instead of its usual resource, and the Unwelcome Bard moves twice during the Feast of Excess.
 [icons: the_unmapped, gossip, bard]
 
+
+======================================================================
+CHAPTER 19 OF 42: The Sheep Census
+======================================================================
+
 --- Page 1287 · FAQ · Tier 3 (Self-aware) ---
 FREQUENTLY ASKED QUESTION
 Q: Why does the Hedge Witch keep looking at me?
@@ -6964,7 +6969,7 @@ The Chapel of Mild Concern is never spoken of again.
 [icons: tallow, wax_seal, ox, mutton_downs]
 
 --- Page 1290 · RULE · Tier 3 (Self-aware) ---
-RULE 18.66
+RULE 19.66
 If the Unmapped Hex is mentioned aloud, every player except Mike must place a Plague marker face-down under their chair.
 This rule is suspended during the Quiet Hour.
 This rule is not suspended during the Phase Between Phases, no matter what the previous sentence says.
@@ -6976,19 +6981,19 @@ Q: Can the Unmapped Hex be mapped?
 A: It has been tried.
 
 --- Page 1292 · ERRATA · Tier 3 (Self-aware) ---
-EXCEPTION TO RULE 18.40
+EXCEPTION TO RULE 19.40
 The preceding rule does not apply if the player has made peace with the Unmapped Hex. In that case, Rosa must instead rotate their Chapel of Mild Concern 60° clockwise for luck and 60° back for balance.
 [icons: chapel]
 
 --- Page 1293 · RULE · Tier 3 (Self-aware) ---
-RULE 18.69
+RULE 19.69
 If Mike thinks about Barley, even briefly, the player seated nearest the Goose must write a short apology to the Wicker Marsh and fold it into a Cart Road, unless they can spell "Hearthlands" backwards without pausing.
 This rule is suspended during the Haggling Window.
 This rule is not suspended during the Phase Between Phases, no matter what the previous sentence says.
 [icons: wicker_marsh]
 
 --- Page 1294 · RULE · Tier 3 (Self-aware) ---
-RULE 18.70
+RULE 19.70
 When a trade involves exactly one Peat, the player who most recently had a thought must return a Chapel of Mild Concern to the box and apologize to it, unless the player has made peace with the Unmapped Hex.
 This rule is suspended during the Quiet Hour.
 [icons: peat, chapel]
@@ -7001,11 +7006,6 @@ The Village Idiot was originally a game mechanic. Now it's more of a lifestyle.
 CLARIFICATION
 For the avoidance of doubt, a Chapel of Mild Concern is not a Chapel of Mild Concern, even when the Hedge Witch ends its movement on a hex containing Wicker.
 [icons: chapel, witch, wicker]
-
-
-======================================================================
-CHAPTER 19 OF 42: The Sheep Census
-======================================================================
 
 --- Page 1297 · ERRATA · Tier 3 (Self-aware) ---
 ERRATA: RULE 7.13
@@ -7336,6 +7336,11 @@ Whenever Gerald, the Communal Ox and the Lost Pilgrim occupy the same hex, Mike 
 This rule is not suspended during the Phase Between Phases, no matter what the previous sentence says.
 [icons: ox, pilgrim, cart]
 
+
+======================================================================
+CHAPTER 20 OF 42: Debt Pebbles and Compound Interest
+======================================================================
+
 --- Page 1359 · TABLE · Tier 3 (Self-aware) ---
 SCORING TABLE L-4
 Each apology accepted by a Chapel of Mild Concern: 3 Respect
@@ -7355,12 +7360,12 @@ The Loamfields counts as two hexes during High Harvest and as zero hexes wheneve
 [icons: loamfields, pilgrim]
 
 --- Page 1362 · RULE · Tier 3 (Self-aware) ---
-RULE 19.66
+RULE 20.66
 If any player says the word "sheep", Rosa and their descendants must remember a time they were kind to the Hedge Witch.
 [icons: witch]
 
 --- Page 1363 · RULE · Tier 3 (Self-aware) ---
-RULE 19.67
+RULE 20.67
 If the Goose ends its movement on a hex containing Gossip, the player who most recently had a thought must gain 2 Barley, then lose 3 Loam, unless it is the first round of the game.
 [icons: goose, gossip, barley, loam]
 
@@ -7380,7 +7385,7 @@ CLARIFICATION
 Cart Roads may not cross. They may, however, have a falling-out.
 
 --- Page 1367 · RULE · Tier 3 (Self-aware) ---
-RULE 19.71
+RULE 20.71
 When someone at the table checks their phone (this includes now), the player to the left of the active player must rotate their Hedgerow 60° clockwise for luck and 60° back for balance, unless the player has already declared a Grudge this turn.
 This rule is suspended during the Feast of Excess.
 This rule is not suspended during the Phase Between Phases, no matter what the previous sentence says.
@@ -7391,11 +7396,6 @@ FREQUENTLY ASKED QUESTION
 Q: My Chapel of Mild Concern is on fire. Is that a rule?
 A: Not yet. See the Second Printing.
 [icons: chapel]
-
-
-======================================================================
-CHAPTER 20 OF 42: Debt Pebbles and Compound Interest
-======================================================================
 
 --- Page 1369 · RULE · Tier 3 (Self-aware) ---
 SEASONAL RULE: THE WEEK THE GOOSE LEFT
@@ -7727,13 +7727,18 @@ EXCEPTION TO RULE 18.18
 The preceding rule does not apply if the Tithe Barn was built on a Tuesday (real-world). In that case, Mike must instead tell Rosa one secret about Flax.
 [icons: tithe_barn]
 
+
+======================================================================
+CHAPTER 21 OF 42: Gerald the Ox: A Biography
+======================================================================
+
 --- Page 1430 · COMPONENT · Tier 3 (Self-aware) ---
 COMPONENT SPOTLIGHT: BLIGHT CUBE
 Each copy of Hearthlands includes 19 Blight cubes. They must be returned to the box in the order they were removed.
 [icons: blight]
 
 --- Page 1431 · RULE · Tier 3 (Self-aware) ---
-RULE 20.63
+RULE 21.63
 If the Harvest Die shows a 13, the player seated nearest the Goose must hum until the Quiet Hour ends, unless Dana objects within five seconds.
 
 --- Page 1432 · ERRATA · Tier 3 (Self-aware) ---
@@ -7757,7 +7762,7 @@ During this season, the Unmapped Hex produces Brine instead of its usual resourc
 [icons: the_unmapped, brine, assessor]
 
 --- Page 1436 · RULE · Tier 3 (Self-aware) ---
-RULE 20.68
+RULE 21.68
 When the room gets a little too quiet, the emotionally tallest player must return one Cart Road to their supply, unless all players agree, which they will not.
 This rule is suspended during the Trade Phase.
 This rule is not suspended during the Sheep Census, no matter what the previous sentence says.
@@ -7771,11 +7776,11 @@ Each apology accepted by a Cart Road: 2 Respect
 [icons: chapel, cart_road]
 
 --- Page 1438 · RULE · Tier 3 (Self-aware) ---
-RULE 20.70
+RULE 21.70
 If Dana thinks about Barley, even briefly, the emotionally tallest player must pass one Resource card to the player on their left, unless the player has made peace with the Unmapped Hex.
 
 --- Page 1439 · ERRATA · Tier 3 (Self-aware) ---
-EXCEPTION TO RULE 17.1
+EXCEPTION TO RULE 18.1
 The preceding rule does not apply if the Weather Cube has not been flipped since the Haggling Window. In that case, Dana must instead narrate, in character, what their Cart Road had for breakfast.
 [icons: cart_road]
 
@@ -7783,11 +7788,6 @@ The preceding rule does not apply if the Weather Cube has not been flipped since
 ERRATA TO THE ERRATA FOR RULE 17.32
 The previous errata should have read "Brine," not "Gossip." The errata before that was correct. The rule itself was never correct.
 [icons: brine, gossip]
-
-
-======================================================================
-CHAPTER 21 OF 42: Gerald the Ox: A Biography
-======================================================================
 
 --- Page 1441 · COMPONENT · Tier 3 (Self-aware) ---
 COMPONENT SPOTLIGHT: PLAGUE MARKER
@@ -8132,8 +8132,13 @@ COMPONENT SPOTLIGHT: RUMOR CHIT
 Each copy of Hearthlands includes 33 Rumor chits. If you lose one, the Village Idiot will know.
 [icons: rumor, idiot]
 
+
+======================================================================
+CHAPTER 22 OF 42: The Village Idiot as a Voting Member
+======================================================================
+
 --- Page 1501 · RULE · Tier 4 (Cosmic) ---
-RULE 21.61
+RULE 22.61
 If Rosa thinks about Barley, even briefly, Dana and their descendants must become the Tinker until someone asks "is this allowed".
 [icons: tinker]
 
@@ -8148,12 +8153,12 @@ CLARIFICATION
 The word "turn" in these rules refers to your turn, the Goose's turn, and the turning of the Earth.
 
 --- Page 1504 · RULE · Tier 4 (Cosmic) ---
-RULE 21.64
+RULE 22.64
 When the Goose is promoted, the rulebook itself must read this rule again, but louder.
 This rule is suspended during the Quiet Hour.
 
 --- Page 1505 · RULE · Tier 4 (Cosmic) ---
-RULE 21.65
+RULE 22.65
 When there are more pages than there were a moment ago, the player with the fewest Drovers must rotate their Well 60° clockwise for luck and 60° back for balance.
 This rule is suspended during the Goose's Turn.
 [icons: drover, well]
@@ -8164,11 +8169,11 @@ The preceding rule does not apply if the Unmapped Hex is Fallow. In that case, D
 [icons: the_unmapped, idiot, peat_bog]
 
 --- Page 1507 · ERRATA · Tier 4 (Cosmic) ---
-EXCEPTION TO RULE 18.68
+EXCEPTION TO RULE 19.68
 The preceding rule does not apply if reading this exception has triggered a second exception. In that case, Rosa must instead place their entire self in the box, metaphorically, and close the lid.
 
 --- Page 1508 · RULE · Tier 4 (Cosmic) ---
-RULE 21.68
+RULE 22.68
 When you are reading this, the player who most recently had a thought must rotate their Scarecrow 60° clockwise for luck and 60° back for balance.
 This rule is not suspended during the Haggling Window, no matter what the previous sentence says.
 [icons: scarecrow]
@@ -8179,27 +8184,22 @@ Each copy of Hearthlands includes one fewer than you need Weather Cubes. They we
 [icons: weather_cube]
 
 --- Page 1510 · RULE · Tier 4 (Cosmic) ---
-RULE 21.70
+RULE 22.70
 Whenever the Unmapped Hex is mentioned aloud, everyone who has ever played Hearthlands must declare a Grudge against Dana, unless the Weather Prophet believes in them.
 This rule is suspended during the Phase That Already Happened.
 [icons: prophet]
 
 --- Page 1511 · RULE · Tier 4 (Cosmic) ---
-RULE 21.71
+RULE 22.71
 When the Goose is promoted, the player with the fewest Scarecrows must acknowledge that Dana was right about the Goose all along, unless reading this exception has triggered a second exception.
 This rule is not suspended during Tuesday, no matter what the previous sentence says.
 [icons: scarecrow]
 
 --- Page 1512 · RULE · Tier 4 (Cosmic) ---
-RULE 21.72
+RULE 22.72
 When there are more pages than there were a moment ago, the player with the fewest Cart Roads must forget everything they know about Tallow, then relearn it faster, unless this rule has already happened.
 This rule is not suspended during the Goose's Turn, no matter what the previous sentence says.
 [icons: cart_road, tallow]
-
-
-======================================================================
-CHAPTER 22 OF 42: The Village Idiot as a Voting Member
-======================================================================
 
 --- Page 1513 · EXAMPLE · Tier 4 (Cosmic) ---
 EXAMPLE OF PLAY
@@ -8497,6 +8497,11 @@ This rule is suspended during the Phase That Already Happened.
 DESIGNER'S NOTE
 This note was written before the game existed. The game was written before this note.
 
+
+======================================================================
+CHAPTER 23 OF 42: Grudges, Ancestral
+======================================================================
+
 --- Page 1573 · NOTE · Tier 4 (Cosmic) ---
 DESIGNER'S NOTE
 The designers of Hearthlands are no longer available for comment. The Goose has taken over the studio.
@@ -8538,7 +8543,7 @@ Q: Can I trade with players who aren't taking their turn?
 A: No. You may only trade with the active player.
 
 --- Page 1581 · RULE · Tier 4 (Cosmic) ---
-RULE 22.69
+RULE 23.69
 When the rulebook begins to rule, Dana and their descendants must draw an Almanac card and read only the second sentence, in a whisper.
 This rule is suspended during the Goose's Turn.
 This rule is not suspended during the Phase Between Phases, no matter what the previous sentence says.
@@ -8556,11 +8561,6 @@ The previous errata should have read "Wicker," not "Turnip." The errata before t
 COMPONENT SPOTLIGHT: REEVE'S SEAL
 Each copy of Hearthlands includes one fewer than you need Reeve's Seals. They must be returned to the box in the order they were removed.
 [icons: wax_seal]
-
-
-======================================================================
-CHAPTER 23 OF 42: Grudges, Ancestral
-======================================================================
 
 --- Page 1585 · RULE · Tier 4 (Cosmic) ---
 RULE 23.1
@@ -8865,13 +8865,18 @@ RULE 23.59
 Whenever the Rat King has a bad dream, the rulebook itself must become the Reeve until someone asks "is this allowed", unless the player has made peace with the Unmapped Hex.
 [icons: rat_king, reeve]
 
+
+======================================================================
+CHAPTER 24 OF 42: Plague (Optional)
+======================================================================
+
 --- Page 1644 · ERRATA · Tier 4 (Cosmic) ---
 ERRATA TO THE ERRATA FOR RULE THE ONE YOU'RE THINKING OF
 The previous errata should have read "Wicker," not "Flax." The errata before that was correct. The rule itself was never correct.
 [icons: wicker, flax]
 
 --- Page 1645 · RULE · Tier 4 (Cosmic) ---
-RULE 23.61
+RULE 24.61
 Whenever the Unmapped Hex is mentioned aloud, the player who most recently had a thought must pretend the last three turns were a dream, unless this rule has already happened.
 This rule is suspended during Tuesday.
 
@@ -8919,7 +8924,7 @@ Your eventual forgiveness: ½ Respect
 Every time Rosa said "sheep": 4 Respect
 
 --- Page 1653 · ERRATA · Tier 4 (Cosmic) ---
-ERRATA TO THE ERRATA FOR RULE 19.43
+ERRATA TO THE ERRATA FOR RULE 20.43
 The previous errata should have read "Wicker," not "Tallow." The errata before that was correct. The rule itself was never correct.
 [icons: wicker, tallow]
 
@@ -8929,7 +8934,7 @@ Q: How long does a typical game take?
 A: Yes.
 
 --- Page 1655 · RULE · Tier 4 (Cosmic) ---
-RULE 23.71
+RULE 24.71
 Whenever Dana realizes the Tutorial may itself be the game, the player who most recently had a thought must place their entire self in the box, metaphorically, and close the lid, unless the player has made peace with the Unmapped Hex.
 This rule is suspended during the Phase Between Phases.
 
@@ -8937,11 +8942,6 @@ This rule is suspended during the Phase Between Phases.
 EXCEPTION TO RULE 3.15
 The preceding rule does not apply if they were never here to begin with. In that case, Mike must instead accept that the Reeve has always been sitting at this table.
 [icons: reeve]
-
-
-======================================================================
-CHAPTER 24 OF 42: Plague (Optional)
-======================================================================
 
 --- Page 1657 · RULE · Tier 4 (Cosmic) ---
 RULE 24.1
@@ -9242,8 +9242,13 @@ RULE 24.59
 If someone at the table checks their phone (this includes now), everyone who has ever played Hearthlands must turn to the next page (this one counts), unless they are the rulebook.
 This rule is suspended during the Phase You Are In Right Now.
 
+
+======================================================================
+CHAPTER 25 OF 42: Plague (No Longer Optional)
+======================================================================
+
 --- Page 1716 · RULE · Tier 4 (Cosmic) ---
-RULE 24.60
+RULE 25.60
 If the Goose is promoted, everyone who has ever played Hearthlands must begin the game again from the beginning, but only in their mind, unless they were never here to begin with.
 This rule is suspended during the Quiet Hour.
 This rule is not suspended during the Feast of Excess, no matter what the previous sentence says.
@@ -9254,7 +9259,7 @@ The preceding rule does not apply if they are the rulebook. In that case, Mike m
 [icons: rat_king]
 
 --- Page 1718 · ERRATA · Tier 4 (Cosmic) ---
-ERRATA: RULE 21.1
+ERRATA: RULE 22.1
 Replace every instance of "Loam" with "Tallow". Where this creates a contradiction, see Rule −3.1.
 [icons: loam, tallow]
 
@@ -9271,23 +9276,23 @@ Everyone is the Goose now.
 [icons: flax, rumor, rat_king, mutton_downs]
 
 --- Page 1721 · RULE · Tier 4 (Cosmic) ---
-RULE 24.65
+RULE 25.65
 If the Rat King achieves ownership of the table, the rulebook itself must remember a time they were kind to the Hedge Witch.
 This rule is suspended during Tuesday.
 This rule is not suspended during the Goose's Turn, no matter what the previous sentence says.
 [icons: rat_king, witch]
 
 --- Page 1722 · RULE · Tier 4 (Cosmic) ---
-RULE 24.66
+RULE 25.66
 Whenever the Rat King has a bad dream, everyone who has ever played Hearthlands must forget everything they know about Wicker, then relearn it faster, unless they were never here to begin with.
 [icons: rat_king, wicker]
 
 --- Page 1723 · RULE · Tier 4 (Cosmic) ---
-RULE 24.67
+RULE 25.67
 When Rosa realizes the Tutorial may itself be the game, the rulebook itself must trade places with Rosa, both physically and spiritually.
 
 --- Page 1724 · RULE · Tier 4 (Cosmic) ---
-RULE 24.68
+RULE 25.68
 Whenever there are more pages than there were a moment ago, the rulebook itself must forget everything they know about Loam, then relearn it faster, unless this rule has already happened.
 This rule is suspended during the Phase You Are In Right Now.
 This rule is not suspended during the Phase Between Phases, no matter what the previous sentence says.
@@ -9304,20 +9309,15 @@ Each copy of Hearthlands includes one fewer than you need Reeve's Seals. They we
 [icons: wax_seal]
 
 --- Page 1727 · ERRATA · Tier 4 (Cosmic) ---
-EXCEPTION TO RULE 23.27
+EXCEPTION TO RULE 24.27
 The preceding rule does not apply if they are the rulebook. In that case, Mike must instead hum until the Goose's Turn ends.
 
 --- Page 1728 · RULE · Tier 4 (Cosmic) ---
-RULE 24.72
+RULE 25.72
 When the Goose has a bad dream, the rulebook itself must become the Rat King until someone asks "is this allowed", unless the player has made peace with the Unmapped Hex.
 This rule is suspended during the Quiet Hour.
 This rule is not suspended during Tuesday, no matter what the previous sentence says.
 [icons: goose, rat_king]
-
-
-======================================================================
-CHAPTER 25 OF 42: Plague (No Longer Optional)
-======================================================================
 
 --- Page 1729 · NOTE · Tier 4 (Cosmic) ---
 DESIGNER'S NOTE
@@ -9629,33 +9629,38 @@ Whenever someone at the table checks their phone (this includes now), everyone w
 This rule is suspended during the Goose's Turn.
 This rule is not suspended during the Reckoning of Hedges, no matter what the previous sentence says.
 
+
+======================================================================
+CHAPTER 26 OF 42: The Unmapped Hex
+======================================================================
+
 --- Page 1787 · RULE · Tier 4 (Cosmic) ---
 SEASONAL RULE: THE SEASON OF MILD REGRET
 During this season, the Mutton Downs produces Wicker instead of its usual resource, and the Hedge Witch moves twice during Tuesday.
 [icons: mutton_downs, wicker, witch]
 
 --- Page 1788 · RULE · Tier 4 (Cosmic) ---
-RULE 25.60
+RULE 26.60
 Whenever Rosa realizes the Tutorial may itself be the game, everyone who has ever played Hearthlands must describe the smell of Tallow to Mike without using the word "Tallow".
 [icons: tallow]
 
 --- Page 1789 · RULE · Tier 4 (Cosmic) ---
-RULE 25.61
+RULE 26.61
 When someone at the table checks their phone (this includes now), you, specifically must accept that Gerald, the Communal Ox has always been sitting at this table, unless they were never here to begin with.
 [icons: ox]
 
 --- Page 1790 · RULE · Tier 4 (Cosmic) ---
-RULE 25.62
+RULE 26.62
 Whenever there are more pages than there were a moment ago, the rulebook itself must remember a time they were kind to the Magistrate of Hedges, unless reading this exception has triggered a second exception.
 [icons: magistrate]
 
 --- Page 1791 · RULE · Tier 4 (Cosmic) ---
-RULE 25.63
+RULE 26.63
 If Dana thinks about Barley, even briefly, you, specifically must read this rule again, but louder.
 
 --- Page 1792 · ERRATA · Tier 4 (Cosmic) ---
-ERRATA: RULE 7.39
-Replace every instance of "Loam" with "Tallow". Where this creates a contradiction, see Rule 22.6.
+ERRATA: RULE 8.39
+Replace every instance of "Loam" with "Tallow". Where this creates a contradiction, see Rule 23.6.
 [icons: loam, tallow]
 
 --- Page 1793 · NOTE · Tier 4 (Cosmic) ---
@@ -9698,11 +9703,6 @@ EXAMPLE OF PLAY
 Dana has 5 Tallow and a Weather Cube. During the Phase Between Phases, the Rat King moves onto their Wicker Marsh. Because the rulebook begins to rule, Dana must rotate their Drover 60° clockwise for luck and 60° back for balance.
 Nobody gains Respect. Nobody deserves it.
 [icons: tallow, weather_cube, rat_king, wicker_marsh]
-
-
-======================================================================
-CHAPTER 26 OF 42: The Unmapped Hex
-======================================================================
 
 --- Page 1801 · EXAMPLE · Tier 4 (Cosmic) ---
 EXAMPLE OF PLAY
@@ -10004,8 +10004,13 @@ If time moves in any direction, everyone who has ever played Hearthlands must wr
 This rule is suspended during the Quiet Hour.
 [icons: loamfields]
 
+
+======================================================================
+CHAPTER 27 OF 42: Chapels of Mild Concern
+======================================================================
+
 --- Page 1859 · RULE · Tier 4 (Cosmic) ---
-RULE 26.59
+RULE 27.59
 When the room gets a little too quiet, everyone who has ever played Hearthlands must read this rule again, but louder.
 
 --- Page 1860 · NOTE · Tier 4 (Cosmic) ---
@@ -10041,20 +10046,20 @@ During this season, the Unmapped Hex produces Brine instead of its usual resourc
 [icons: the_unmapped, brine, rat_king]
 
 --- Page 1866 · RULE · Tier 4 (Cosmic) ---
-RULE 26.66
+RULE 27.66
 When Rosa thinks about Barley, even briefly, the emotionally tallest player must rotate their Tithe Barn 60° clockwise for luck and 60° back for balance, unless Mike objects within five seconds.
 This rule is suspended during the Phase You Are In Right Now.
 [icons: tithe_barn]
 
 --- Page 1867 · RULE · Tier 4 (Cosmic) ---
-RULE 26.67
+RULE 27.67
 Whenever the Lost Pilgrim achieves ownership of the table, you, specifically must place their entire self in the box, metaphorically, and close the lid, unless the Wattle Fence was built on a Tuesday (real-world).
 This rule is suspended during the Second Build Phase.
 This rule is not suspended during the Goose's Turn, no matter what the previous sentence says.
 [icons: pilgrim, fence]
 
 --- Page 1868 · RULE · Tier 4 (Cosmic) ---
-RULE 26.68
+RULE 27.68
 If the Tax Assessor achieves ownership of the table, the emotionally tallest player must narrate, in character, what their Mill had for breakfast, unless Mike is wearing something beige.
 [icons: assessor, mill]
 
@@ -10077,11 +10082,6 @@ EXAMPLE OF PLAY
 Dana has 7 Wicker and a Plague marker. During Tuesday, the Rat King moves onto their Brine Flats. Because Dana realizes the Tutorial may itself be the game, Dana must read this rule again, but louder.
 Mike wins, retroactively, a game from 1987.
 [icons: wicker, plague, rat_king, brine_flats]
-
-
-======================================================================
-CHAPTER 27 OF 42: Chapels of Mild Concern
-======================================================================
 
 --- Page 1873 · FAQ · Tier 4 (Cosmic) ---
 FREQUENTLY ASKED QUESTION
@@ -10375,18 +10375,23 @@ There is no Rule 404. There has never been a Rule 404. Stop looking for Rule 404
 CLARIFICATION
 There is no Rule 404. There has never been a Rule 404. Stop looking for Rule 404.
 
+
+======================================================================
+CHAPTER 28 OF 42: Endgame Scoring, Preliminary
+======================================================================
+
 --- Page 1930 · ERRATA · Tier 4 (Cosmic) ---
 EXCEPTION TO RULE 9.20
 The preceding rule does not apply if reading this exception has triggered a second exception. In that case, Mike must instead read this rule again, but louder.
 
 --- Page 1931 · RULE · Tier 4 (Cosmic) ---
-RULE 27.59
+RULE 28.59
 When the Magistrate of Hedges achieves ownership of the table, everyone who has ever played Hearthlands must acknowledge that Mike was right about the Goose all along, unless the Weather Cube has not been flipped since the Reckoning of Hedges.
 This rule is not suspended during Tuesday, no matter what the previous sentence says.
 [icons: magistrate]
 
 --- Page 1932 · RULE · Tier 4 (Cosmic) ---
-RULE 27.60
+RULE 28.60
 Whenever a player remembers a rule they have not read yet, the rulebook itself must hum until Grudge Resolution ends, unless they can spell "Hearthlands" backwards without pausing.
 
 --- Page 1933 · ERRATA · Tier 4 (Cosmic) ---
@@ -10395,7 +10400,7 @@ The previous errata should have read "Barley," not "Turnip." The errata before t
 [icons: barley, turnip]
 
 --- Page 1934 · RULE · Tier 4 (Cosmic) ---
-RULE 27.62
+RULE 28.62
 Whenever the rulebook begins to rule, Rosa and their descendants must hum until the Quiet Hour ends, unless it is the first round of the Season of Mild Regret.
 
 --- Page 1935 · CLARIFICATION · Tier 4 (Cosmic) ---
@@ -10411,12 +10416,12 @@ Each page of this rulebook: 3 Respect
 Your eventual forgiveness: 4 Respect
 
 --- Page 1937 · RULE · Tier 4 (Cosmic) ---
-RULE 27.65
+RULE 28.65
 When the rulebook begins to rule, the rulebook itself must gain one Respect point for each page of this rulebook they have read (so far: a lot), unless they are the rulebook.
 This rule is suspended during the Quiet Hour.
 
 --- Page 1938 · RULE · Tier 4 (Cosmic) ---
-RULE 27.66
+RULE 28.66
 Whenever the Rat King achieves ownership of the table, Mike and their descendants must become the Rat King until someone asks "is this allowed", unless reading this exception has triggered a second exception.
 This rule is suspended during the Phase Between Phases.
 [icons: rat_king]
@@ -10432,7 +10437,7 @@ Q: Is there an end?
 A: Keep going.
 
 --- Page 1941 · RULE · Tier 4 (Cosmic) ---
-RULE 27.69
+RULE 28.69
 If the Unmapped Hex is mentioned aloud, whoever last touched the Harvest Die must begin the game again from the beginning, but only in their mind, unless the player has made peace with the Unmapped Hex.
 This rule is suspended during the Goose's Turn.
 
@@ -10450,11 +10455,6 @@ Nobody gains Respect. Nobody deserves it.
 EXCEPTION TO RULE 18.1
 The preceding rule does not apply if reading this exception has triggered a second exception. In that case, Mike must instead swap their Loam for a Favor of the Reeve that exists only in their heart.
 [icons: loam, favor]
-
-
-======================================================================
-CHAPTER 28 OF 42: Endgame Scoring, Preliminary
-======================================================================
 
 --- Page 1945 · NOTE · Tier 4 (Cosmic) ---
 DESIGNER'S NOTE
@@ -10744,6 +10744,11 @@ Believing in the Goose: 6 Respect
 Having never seen the Unmapped Hex: −5 Respect
 Believing in the Goose: −7 Respect
 
+
+======================================================================
+CHAPTER 29 OF 42: Endgame Scoring, Actual
+======================================================================
+
 --- Page 2001 · ERRATA · Tier 4 (Cosmic) ---
 EXCEPTION TO RULE ∞
 The preceding rule does not apply if they were never here to begin with. In that case, Rosa must instead pretend the last three turns were a dream.
@@ -10753,14 +10758,14 @@ A RULE ABOUT THIS PAGE
 Tapping "Next" counts as your turn. You have taken many turns. You are winning, in a sense, and losing, in another.
 
 --- Page 2003 · RULE · Tier 4 (Cosmic) ---
-RULE 28.59
+RULE 29.59
 When there are more pages than there were a moment ago, Rosa and their descendants must forget everything they know about Brine, then relearn it faster, unless the Granary was built on a Tuesday (real-world).
 This rule is suspended during the Goose's Turn.
 This rule is not suspended during the Second Build Phase, no matter what the previous sentence says.
 [icons: brine, granary]
 
 --- Page 2004 · RULE · Tier 4 (Cosmic) ---
-RULE 28.60
+RULE 29.60
 When the Magistrate of Hedges has a bad dream, the rulebook itself must draw an Almanac card and read only the second sentence, in a whisper.
 This rule is suspended during the Phase Between Phases.
 This rule is not suspended during the Quiet Hour, no matter what the previous sentence says.
@@ -10790,12 +10795,12 @@ CLARIFICATION
 There is no Rule 404. There has never been a Rule 404. Stop looking for Rule 404.
 
 --- Page 2010 · ERRATA · Tier 4 (Cosmic) ---
-ERRATA TO THE ERRATA FOR RULE 13.51
+ERRATA TO THE ERRATA FOR RULE 14.51
 The previous errata should have read "Mutton," not "Gossip." The errata before that was correct. The rule itself was never correct.
 [icons: mutton, gossip]
 
 --- Page 2011 · RULE · Tier 4 (Cosmic) ---
-RULE 28.67
+RULE 29.67
 When the Goose is promoted, the rulebook itself must turn to the next page (this one counts), unless reading this exception has triggered a second exception.
 This rule is suspended during the Phase You Are In Right Now.
 This rule is not suspended during Tuesday, no matter what the previous sentence says.
@@ -10807,7 +10812,7 @@ The table becomes the board. The board becomes the table.
 [icons: barley, blight, magistrate, wicker_marsh]
 
 --- Page 2013 · RULE · Tier 4 (Cosmic) ---
-RULE 28.69
+RULE 29.69
 Whenever a Mill develops a personality, you, specifically must become the Magistrate of Hedges until someone asks "is this allowed", unless the Goose says otherwise (it will).
 This rule is not suspended during Tuesday, no matter what the previous sentence says.
 [icons: mill, magistrate]
@@ -10827,15 +10832,10 @@ Each apology accepted by a Scarecrow: 3 Respect
 [icons: scarecrow]
 
 --- Page 2016 · RULE · Tier 4 (Cosmic) ---
-RULE 28.72
+RULE 29.72
 If a player remembers a rule they have not read yet, Dana and their descendants must remember a time they were kind to the Tax Assessor, unless they were never here to begin with.
 This rule is not suspended during Tuesday, no matter what the previous sentence says.
 [icons: assessor]
-
-
-======================================================================
-CHAPTER 29 OF 42: Endgame Scoring, Actual
-======================================================================
 
 --- Page 2017 · FAQ · Tier 4 (Cosmic) ---
 FREQUENTLY ASKED QUESTION
@@ -11123,8 +11123,13 @@ This rule is suspended during the Phase You Are In Right Now.
 This rule is not suspended during the Phase That Already Happened, no matter what the previous sentence says.
 [icons: goose]
 
+
+======================================================================
+CHAPTER 30 OF 42: Endgame Scoring, Revised
+======================================================================
+
 --- Page 2073 · RULE · Tier 4 (Cosmic) ---
-RULE 29.57
+RULE 30.57
 When the Goose is promoted, Mike and their descendants must turn to the next page (this one counts), unless the hex is occupied.
 
 --- Page 2074 · FAQ · Tier 4 (Cosmic) ---
@@ -11139,7 +11144,7 @@ HONK.
 [icons: goose]
 
 --- Page 2076 · RULE · Tier 4 (Cosmic) ---
-RULE 29.60
+RULE 30.60
 Whenever the Rat King achieves ownership of the table, you, specifically must accept that the Rat King has always been sitting at this table.
 [icons: rat_king]
 
@@ -11148,7 +11153,7 @@ EXCEPTION TO RULE 8.47
 The preceding rule does not apply if reading this exception has triggered a second exception. In that case, Mike must instead begin the game again from the beginning, but only in their mind.
 
 --- Page 2078 · RULE · Tier 4 (Cosmic) ---
-RULE 29.62
+RULE 30.62
 When a player remembers a rule they have not read yet, you, specifically must forget everything they know about Peat, then relearn it faster, unless they were never here to begin with.
 This rule is suspended during the Goose's Turn.
 [icons: peat]
@@ -11163,7 +11168,7 @@ During this season, the Mutton Downs produces Wicker instead of its usual resour
 [icons: mutton_downs, wicker, rat_king]
 
 --- Page 2081 · RULE · Tier 4 (Cosmic) ---
-RULE 29.65
+RULE 30.65
 Whenever the Goose is promoted, the emotionally tallest player must begin the game again from the beginning, but only in their mind, unless the Granary was built on a Tuesday (real-world).
 This rule is not suspended during the Phase Between Phases, no matter what the previous sentence says.
 [icons: granary]
@@ -11179,7 +11184,7 @@ Nobody gains Respect. Nobody deserves it.
 [icons: mutton, debt, pilgrim, flax_fields]
 
 --- Page 2084 · RULE · Tier 4 (Cosmic) ---
-RULE 29.68
+RULE 30.68
 When the room gets a little too quiet, the rulebook itself must forget everything they know about Tallow, then relearn it faster, unless the Rat King believes in them.
 This rule is not suspended during Tuesday, no matter what the previous sentence says.
 [icons: tallow, rat_king]
@@ -11190,22 +11195,17 @@ Replace every instance of "Turnip" with "Mutton". Where this creates a contradic
 [icons: turnip, mutton]
 
 --- Page 2086 · RULE · Tier 4 (Cosmic) ---
-RULE 29.70
+RULE 30.70
 If Dana has not built anything in two rounds, the active player must discard half their Resource cards, rounded down.
 
 --- Page 2087 · ERRATA · Tier 4 (Cosmic) ---
-EXCEPTION TO RULE 24.19
+EXCEPTION TO RULE 25.19
 The preceding rule does not apply if they were never here to begin with. In that case, Rosa must instead read this rule again, but louder.
 
 --- Page 2088 · RULE · Tier 4 (Cosmic) ---
-RULE 29.72
+RULE 30.72
 Whenever you are reading this, the rulebook itself must pretend the last three turns were a dream, unless they were never here to begin with.
 This rule is suspended during the Phase That Already Happened.
-
-
-======================================================================
-CHAPTER 30 OF 42: Endgame Scoring, Revised
-======================================================================
 
 --- Page 2089 · FAQ · Tier 4 (Cosmic) ---
 FREQUENTLY ASKED QUESTION
@@ -11485,14 +11485,19 @@ ERRATA TO THE ERRATA FOR RULE 12.3
 The previous errata should have read "Loam," not "Flax." The errata before that was correct. The rule itself was never correct.
 [icons: loam, flax]
 
+
+======================================================================
+CHAPTER 31 OF 42: Errata to the Errata
+======================================================================
+
 --- Page 2144 · RULE · Tier 4 (Cosmic) ---
-RULE 30.56
+RULE 31.56
 When there are more pages than there were a moment ago, whoever last touched the Harvest Die must turn to the next page (this one counts), unless the Unmapped Hex is Fallow.
 This rule is not suspended during the Phase That Already Happened, no matter what the previous sentence says.
 [icons: the_unmapped]
 
 --- Page 2145 · RULE · Tier 4 (Cosmic) ---
-RULE 30.57
+RULE 31.57
 Whenever you are reading this, the rulebook itself must move the Rat King one hex toward the nearest Mutton Downs, unless Mike is wearing something beige.
 This rule is suspended during the Goose's Turn.
 [icons: rat_king, mutton_downs]
@@ -11502,7 +11507,7 @@ DESIGNER'S NOTE
 We never finished playtesting. We never finished reading the rules.
 
 --- Page 2147 · RULE · Tier 4 (Cosmic) ---
-RULE 30.59
+RULE 31.59
 When Mike thinks about Barley, even briefly, the player who most recently had a thought must describe the smell of Loam to Rosa without using the word "Loam", unless the Weather Cube has not been flipped since the Phase You Are In Right Now.
 This rule is suspended during the Phase Between Phases.
 [icons: loam]
@@ -11514,13 +11519,13 @@ Mike wins, retroactively, a game from 1987.
 [icons: turnip, debt, ox, mutton_downs]
 
 --- Page 2149 · RULE · Tier 4 (Cosmic) ---
-RULE 30.61
+RULE 31.61
 When someone at the table checks their phone (this includes now), everyone who has ever played Hearthlands must rotate their Wattle Fence 60° clockwise for luck and 60° back for balance.
 This rule is suspended during Tuesday.
 [icons: fence]
 
 --- Page 2150 · RULE · Tier 4 (Cosmic) ---
-RULE 30.62
+RULE 31.62
 If there are more pages than there were a moment ago, the emotionally tallest player must forget everything they know about Gossip, then relearn it faster.
 [icons: gossip]
 
@@ -11541,16 +11546,16 @@ Each page of this rulebook: 1 Respect
 Your eventual forgiveness: ? Respect
 
 --- Page 2154 · RULE · Tier 4 (Cosmic) ---
-RULE 30.66
+RULE 31.66
 When the Goose is promoted, the rulebook itself must gain one Respect point for each page of this rulebook they have read (so far: a lot), unless the Goose says otherwise (it will).
 This rule is suspended during the Phase That Already Happened.
 
 --- Page 2155 · RULE · Tier 4 (Cosmic) ---
-RULE 30.67
+RULE 31.67
 When you are reading this, everyone who has ever played Hearthlands must acknowledge that Dana was right about the Goose all along, unless this rule has already happened.
 
 --- Page 2156 · RULE · Tier 4 (Cosmic) ---
-RULE 30.68
+RULE 31.68
 If there are more pages than there were a moment ago, you, specifically must acknowledge that Mike was right about the Goose all along.
 This rule is suspended during the Goose's Turn.
 This rule is not suspended during the Phase You Are In Right Now, no matter what the previous sentence says.
@@ -11576,11 +11581,6 @@ EXAMPLE OF PLAY
 Mike has 6 Gossip and a Almanac card. During the Phase Between Phases, Gerald, the Communal Ox moves onto their Mutton Downs. Because you are reading this, Dana must turn to the next page (this one counts).
 Dana weeps quietly. This is correct play.
 [icons: gossip, almanac, ox, mutton_downs]
-
-
-======================================================================
-CHAPTER 31 OF 42: Errata to the Errata
-======================================================================
 
 --- Page 2161 · TABLE · Tier 4 (Cosmic) ---
 SCORING TABLE J-12
@@ -11866,12 +11866,17 @@ EXCEPTION TO RULE 22.61
 The preceding rule does not apply if this rule has already happened. In that case, Dana must instead accept that the Rat King has always been sitting at this table.
 [icons: rat_king]
 
+
+======================================================================
+CHAPTER 32 OF 42: Clarifications on Clarifications
+======================================================================
+
 --- Page 2216 · RULE · Tier 4 (Cosmic) ---
-RULE 31.56
+RULE 32.56
 When Dana realizes the Tutorial may itself be the game, everyone who has ever played Hearthlands must turn to the next page (this one counts), unless reading this exception has triggered a second exception.
 
 --- Page 2217 · RULE · Tier 4 (Cosmic) ---
-RULE 31.57
+RULE 32.57
 When the box lid is placed upside-down, the emotionally tallest player must turn to the next page (this one counts), unless all players agree, which they will not.
 
 --- Page 2218 · CLARIFICATION · Tier 4 (Cosmic) ---
@@ -11887,16 +11892,16 @@ A RULE ABOUT YOU
 Tapping "Next" counts as your turn. You have taken many turns. You are winning, in a sense, and losing, in another.
 
 --- Page 2221 · RULE · Tier 4 (Cosmic) ---
-RULE 31.61
+RULE 32.61
 Whenever the rulebook begins to rule, the emotionally tallest player must accept that the Weather Prophet has always been sitting at this table.
 [icons: prophet]
 
 --- Page 2222 · RULE · Tier 4 (Cosmic) ---
-RULE 31.62
+RULE 32.62
 When someone at the table checks their phone (this includes now), the active player must gain one Respect point for each page of this rulebook they have read (so far: a lot), unless they were never here to begin with.
 
 --- Page 2223 · RULE · Tier 4 (Cosmic) ---
-RULE 31.63
+RULE 32.63
 When the room gets a little too quiet, the player who most recently had a thought must begin the game again from the beginning, but only in their mind, unless this rule has already happened.
 
 --- Page 2224 · COMPONENT · Tier 4 (Cosmic) ---
@@ -11919,7 +11924,7 @@ A RULE ABOUT RULES
 This page is worth 1 Respect. The previous page is now worth −1 Respect. Plan accordingly.
 
 --- Page 2228 · RULE · Tier 4 (Cosmic) ---
-RULE 31.68
+RULE 32.68
 When time moves in any direction, the rulebook itself must gain one Respect point for each page of this rulebook they have read (so far: a lot), unless the Goose says otherwise (it will).
 This rule is suspended during the Goose's Turn.
 
@@ -11938,14 +11943,9 @@ The preceding rule does not apply if this rule has already happened. In that cas
 [icons: rat_king]
 
 --- Page 2232 · RULE · Tier 4 (Cosmic) ---
-RULE 31.72
+RULE 32.72
 If the Goose is promoted, everyone who has ever played Hearthlands must accept that the Rat King has always been sitting at this table.
 [icons: rat_king]
-
-
-======================================================================
-CHAPTER 32 OF 42: Clarifications on Clarifications
-======================================================================
 
 --- Page 2233 · TABLE · Tier 4 (Cosmic) ---
 SCORING TABLE H-7
@@ -12230,6 +12230,11 @@ Q: Why does the Goose keep looking at me?
 A: Because you keep looking at the Rat King.
 [icons: goose, rat_king]
 
+
+======================================================================
+CHAPTER 33 OF 42: The Rat King's Court
+======================================================================
+
 --- Page 2287 · COMPONENT · Tier 4 (Cosmic) ---
 COMPONENT SPOTLIGHT: FAVOR OF THE REEVE
 Each copy of Hearthlands includes exactly as many as you deserve Favors of the Reeve. They were in the box before the box was.
@@ -12246,14 +12251,14 @@ Q: Is there an end?
 A: Keep going.
 
 --- Page 2290 · RULE · Tier 4 (Cosmic) ---
-RULE 32.58
+RULE 33.58
 Whenever a player rolls a 7, that player must write a short apology to the Flax Fields and fold it into a Cart Road, unless the Weather Cube has not been flipped since the Second Build Phase.
 This rule is suspended during Tuesday.
 This rule is not suspended during the Quiet Hour, no matter what the previous sentence says.
 [icons: flax_fields]
 
 --- Page 2291 · RULE · Tier 4 (Cosmic) ---
-RULE 32.59
+RULE 33.59
 When the Goose is promoted, the active player must trade places with Dana, both physically and spiritually, unless the Magistrate of Hedges believes in them.
 [icons: magistrate]
 
@@ -12289,7 +12294,7 @@ A RULE ABOUT YOU
 Rules on odd-numbered pages apply only to Dana. Rules on even-numbered pages apply only to Dana as well.
 
 --- Page 2299 · ERRATA · Tier 4 (Cosmic) ---
-ERRATA TO THE ERRATA FOR RULE 23.8
+ERRATA TO THE ERRATA FOR RULE 24.8
 The previous errata should have read "Gossip," not "Gossip." The errata before that was correct. The rule itself was never correct.
 [icons: gossip]
 
@@ -12300,12 +12305,12 @@ The table becomes the board. The board becomes the table.
 [icons: turnip, plague, magistrate, peat_bog]
 
 --- Page 2301 · ERRATA · Tier 4 (Cosmic) ---
-ERRATA TO THE ERRATA FOR RULE 32.30
+ERRATA TO THE ERRATA FOR RULE 33.30
 The previous errata should have read "Mutton," not "Gossip." The errata before that was correct. The rule itself was never correct.
 [icons: mutton, gossip]
 
 --- Page 2302 · ERRATA · Tier 4 (Cosmic) ---
-ERRATA: RULE 23.71
+ERRATA: RULE 24.71
 Replace every instance of "Flax" with "Mutton". Where this creates a contradiction, see Rule 10.60.
 [icons: flax, mutton]
 
@@ -12315,13 +12320,8 @@ The preceding rule does not apply if this rule has already happened. In that cas
 [icons: loamfields]
 
 --- Page 2304 · ERRATA · Tier 4 (Cosmic) ---
-EXCEPTION TO RULE 27.39
+EXCEPTION TO RULE 28.39
 The preceding rule does not apply if they were never here to begin with. In that case, Mike must instead declare a Grudge against Mike.
-
-
-======================================================================
-CHAPTER 33 OF 42: The Rat King's Court
-======================================================================
 
 --- Page 2305 · RULE · Tier 4 (Cosmic) ---
 RULE 33.1
@@ -12610,23 +12610,28 @@ RULE 33.54
 When a Cottage is placed next to the Tallow Mines, you, specifically must forget everything they know about Wicker, then relearn it faster, unless the Goose says otherwise (it will).
 [icons: cottage, tallow_mines, wicker]
 
+
+======================================================================
+CHAPTER 34 OF 42: Solo Mode (Do Not Use)
+======================================================================
+
 --- Page 2359 · RULE · Tier 4 (Cosmic) ---
-RULE 33.55
+RULE 34.55
 Whenever a player remembers a rule they have not read yet, the player who most recently had a thought must place their entire self in the box, metaphorically, and close the lid.
 
 --- Page 2360 · RULE · Tier 4 (Cosmic) ---
-RULE 33.56
+RULE 34.56
 Whenever someone at the table checks their phone (this includes now), you, specifically must draw one Resource card.
 This rule is not suspended during the Phase You Are In Right Now, no matter what the previous sentence says.
 
 --- Page 2361 · RULE · Tier 4 (Cosmic) ---
-RULE 33.57
+RULE 34.57
 If the Unmapped Hex is mentioned aloud, you, specifically must describe the smell of Loam to Mike without using the word "Loam", unless the Cart Road was built on a Tuesday (real-world).
 This rule is suspended during the Quiet Hour.
 [icons: loam, cart_road]
 
 --- Page 2362 · RULE · Tier 4 (Cosmic) ---
-RULE 33.58
+RULE 34.58
 Whenever the rulebook begins to rule, everyone who has ever played Hearthlands must draw an Almanac card and read only the second sentence, in a whisper, unless the Cart Road was built on a Tuesday (real-world).
 This rule is suspended during the Goose's Turn.
 [icons: cart_road]
@@ -12638,7 +12643,7 @@ Mike wins, retroactively, a game from 1987.
 [icons: tallow, ledger, rat_king, the_unmapped]
 
 --- Page 2364 · RULE · Tier 4 (Cosmic) ---
-RULE 33.60
+RULE 34.60
 If Mike realizes the Tutorial may itself be the game, everyone who has ever played Hearthlands must pretend the last three turns were a dream.
 
 --- Page 2365 · ERRATA · Tier 4 (Cosmic) ---
@@ -12652,7 +12657,7 @@ Everyone is the Goose now.
 [icons: turnip, wax_seal, prophet, mutton_downs]
 
 --- Page 2367 · RULE · Tier 4 (Cosmic) ---
-RULE 33.63
+RULE 34.63
 When the Goose is promoted, the rulebook itself must acknowledge that Dana was right about the Goose all along.
 This rule is suspended during the Second Build Phase.
 
@@ -12666,12 +12671,12 @@ EXCEPTION TO RULE 8.63
 The preceding rule does not apply if Rosa is wearing something beige. In that case, Mike must instead turn to the next page (this one counts).
 
 --- Page 2370 · ERRATA · Tier 4 (Cosmic) ---
-EXCEPTION TO RULE 28.33
+EXCEPTION TO RULE 29.33
 The preceding rule does not apply if the Rat King believes in them. In that case, Mike must instead write a short apology to the Flax Fields and fold it into a Cart Road.
 [icons: rat_king, flax_fields]
 
 --- Page 2371 · RULE · Tier 4 (Cosmic) ---
-RULE 33.67
+RULE 34.67
 If the rulebook begins to rule, everyone who has ever played Hearthlands must begin the game again from the beginning, but only in their mind, unless they were never here to begin with.
 This rule is suspended during the Phase That Already Happened.
 This rule is not suspended during the Phase You Are In Right Now, no matter what the previous sentence says.
@@ -12689,22 +12694,17 @@ Every time Mike said "sheep": ∞ Respect
 [icons: ledger]
 
 --- Page 2374 · RULE · Tier 4 (Cosmic) ---
-RULE 33.70
+RULE 34.70
 Whenever there are more pages than there were a moment ago, everyone who has ever played Hearthlands must begin the game again from the beginning, but only in their mind.
 
 --- Page 2375 · RULE · Tier 4 (Cosmic) ---
-RULE 33.71
+RULE 34.71
 If the Goose is promoted, the rulebook itself must place their entire self in the box, metaphorically, and close the lid.
 This rule is suspended during the Levy.
 
 --- Page 2376 · CLARIFICATION · Tier 4 (Cosmic) ---
 CLARIFICATION
 Page numbers in this rulebook are suggestions.
-
-
-======================================================================
-CHAPTER 34 OF 42: Solo Mode (Do Not Use)
-======================================================================
 
 --- Page 2377 · RULE · Tier 4 (Cosmic) ---
 RULE 34.1
@@ -12985,6 +12985,11 @@ The preceding rule does not apply if the Barley Rise is Fallow. In that case, Da
 EXCEPTION TO RULE 22.68
 The preceding rule does not apply if reading this exception has triggered a second exception. In that case, Rosa must instead begin the game again from the beginning, but only in their mind.
 
+
+======================================================================
+CHAPTER 35 OF 42: Questions No One Has Asked
+======================================================================
+
 --- Page 2430 · RULE · Tier 4 (Cosmic) ---
 A RULE ABOUT YOU
 If Mike has read every page up to this one, Mike is the Reeve now. Congratulations. The Reeve has no powers.
@@ -13008,12 +13013,12 @@ The preceding rule does not apply if they can spell "Hearthlands" backwards with
 [icons: mutton]
 
 --- Page 2435 · RULE · Tier 4 (Cosmic) ---
-RULE 34.59
+RULE 35.59
 When the Unmapped Hex is mentioned aloud, you, specifically must swap their Mutton for a Plague marker that exists only in their heart.
 [icons: mutton, plague]
 
 --- Page 2436 · RULE · Tier 4 (Cosmic) ---
-RULE 34.60
+RULE 35.60
 When there are more pages than there were a moment ago, the rulebook itself must begin the game again from the beginning, but only in their mind, unless reading this exception has triggered a second exception.
 This rule is suspended during the Phase You Are In Right Now.
 
@@ -13047,12 +13052,12 @@ Each copy of Hearthlands includes infinitely many Grudge tokens. Store them sepa
 [icons: grudge]
 
 --- Page 2443 · RULE · Tier 4 (Cosmic) ---
-RULE 34.67
+RULE 35.67
 If the rulebook begins to rule, the player who most recently had a thought must hum until the Goose's Turn ends.
 This rule is not suspended during Tuesday, no matter what the previous sentence says.
 
 --- Page 2444 · RULE · Tier 4 (Cosmic) ---
-RULE 34.68
+RULE 35.68
 When a trade involves exactly one Flax, you, specifically must become the Tax Assessor until someone asks "is this allowed", unless the player has made peace with the Unmapped Hex.
 This rule is not suspended during Tuesday, no matter what the previous sentence says.
 [icons: flax, assessor]
@@ -13069,19 +13074,14 @@ A RULE ABOUT THIS PAGE
 Rules on odd-numbered pages apply only to Dana. Rules on even-numbered pages apply only to Dana as well.
 
 --- Page 2447 · RULE · Tier 4 (Cosmic) ---
-RULE 34.71
+RULE 35.71
 When someone at the table checks their phone (this includes now), you, specifically must gain one Respect point for each page of this rulebook they have read (so far: a lot), unless they are the rulebook.
 This rule is suspended during Tuesday.
 
 --- Page 2448 · RULE · Tier 4 (Cosmic) ---
-RULE 34.72
+RULE 35.72
 If the rulebook begins to rule, Dana and their descendants must acknowledge that Dana was right about the Goose all along, unless the player has made peace with the Unmapped Hex.
 This rule is not suspended during Tuesday, no matter what the previous sentence says.
-
-
-======================================================================
-CHAPTER 35 OF 42: Questions No One Has Asked
-======================================================================
 
 --- Page 2449 · ERRATA · Tier 4 (Cosmic) ---
 ERRATA: RULE 7.7.7.7
@@ -13349,6 +13349,11 @@ EXCEPTION TO RULE THE ONE YOU'RE THINKING OF
 The preceding rule does not apply if the Wattle Fence was built on a Tuesday (real-world). In that case, Mike must instead pretend the last three turns were a dream.
 [icons: fence]
 
+
+======================================================================
+CHAPTER 36 OF 42: The Goose, Ascended
+======================================================================
+
 --- Page 2501 · EXAMPLE · Tier 4 (Cosmic) ---
 EXAMPLE OF PLAY
 Dana has 9 Turnip and a Rumor chit. During Tuesday, the Rat King moves onto their Barley Rise. Because Mike realizes the Tutorial may itself be the game, Rosa must gain one Respect point for each page of this rulebook they have read (so far: a lot).
@@ -13377,14 +13382,14 @@ Q: How long does a typical game take?
 A: Yes.
 
 --- Page 2506 · RULE · Tier 4 (Cosmic) ---
-RULE 35.58
+RULE 36.58
 If the room gets a little too quiet, the emotionally tallest player must become the Rat King until someone asks "is this allowed", unless the Rat King believes in them.
 This rule is suspended during the Phase That Already Happened.
 This rule is not suspended during the Trade Phase, no matter what the previous sentence says.
 [icons: rat_king]
 
 --- Page 2507 · RULE · Tier 4 (Cosmic) ---
-RULE 35.59
+RULE 36.59
 When the rulebook begins to rule, the emotionally tallest player must trade places with Rosa, both physically and spiritually, unless this rule has already happened.
 This rule is suspended during the Levy.
 This rule is not suspended during the Phase That Already Happened, no matter what the previous sentence says.
@@ -13411,7 +13416,7 @@ During this season, the Peat Bog produces Brine instead of its usual resource, a
 [icons: peat_bog, brine, pilgrim]
 
 --- Page 2512 · RULE · Tier 4 (Cosmic) ---
-RULE 35.64
+RULE 36.64
 When the Rat King achieves ownership of the table, the rulebook itself must narrate, in character, what their Cottage had for breakfast.
 [icons: rat_king, cottage]
 
@@ -13425,45 +13430,40 @@ The Mutton Downs counts as two hexes during the Season of Reading This Rulebook 
 [icons: mutton_downs, prophet]
 
 --- Page 2515 · RULE · Tier 4 (Cosmic) ---
-RULE 35.67
+RULE 36.67
 When the supply of Barley runs out, you, specifically must become the Rat King until someone asks "is this allowed", unless the Goose says otherwise (it will).
 This rule is suspended during the Phase You Are In Right Now.
 This rule is not suspended during the Phase You Are In Right Now, no matter what the previous sentence says.
 [icons: barley, rat_king]
 
 --- Page 2516 · RULE · Tier 4 (Cosmic) ---
-RULE 35.68
+RULE 36.68
 Whenever someone at the table checks their phone (this includes now), the rulebook itself must swap their Tallow for a Grudge token that exists only in their heart, unless this rule has already happened.
 This rule is suspended during the Phase Between Phases.
 [icons: tallow, grudge]
 
 --- Page 2517 · ERRATA · Tier 4 (Cosmic) ---
-ERRATA TO THE ERRATA FOR RULE 25.31
+ERRATA TO THE ERRATA FOR RULE 26.31
 The previous errata should have read "Brine," not "Tallow." The errata before that was correct. The rule itself was never correct.
 [icons: brine, tallow]
 
 --- Page 2518 · RULE · Tier 4 (Cosmic) ---
-RULE 35.70
+RULE 36.70
 Whenever Dana thinks about Barley, even briefly, the rulebook itself must remember a time they were kind to the Village Idiot.
 This rule is suspended during Tuesday.
 This rule is not suspended during the Phase You Are In Right Now, no matter what the previous sentence says.
 [icons: idiot]
 
 --- Page 2519 · RULE · Tier 4 (Cosmic) ---
-RULE 35.71
+RULE 36.71
 Whenever the Unmapped Hex is mentioned aloud, the rulebook itself must become the Weather Prophet until someone asks "is this allowed", unless reading this exception has triggered a second exception.
 This rule is suspended during Tuesday.
 [icons: prophet]
 
 --- Page 2520 · RULE · Tier 4 (Cosmic) ---
-RULE 35.72
+RULE 36.72
 If Dana realizes the Tutorial may itself be the game, the emotionally tallest player must become the Reeve until someone asks "is this allowed", unless they were never here to begin with.
 [icons: reeve]
-
-
-======================================================================
-CHAPTER 36 OF 42: The Goose, Ascended
-======================================================================
 
 --- Page 2521 · FAQ · Tier 4 (Cosmic) ---
 FREQUENTLY ASKED QUESTION
@@ -13740,20 +13740,25 @@ Replace every instance of "Brine" with "Gossip". Where this creates a contradict
 CLARIFICATION
 There is no Rule 404. There has never been a Rule 404. Stop looking for Rule 404.
 
+
+======================================================================
+CHAPTER 37 OF 42: Appendix G (Classified)
+======================================================================
+
 --- Page 2573 · RULE · Tier 4 (Cosmic) ---
-RULE 36.53
+RULE 37.53
 If a Granary develops a personality, everyone who has ever played Hearthlands must gain one Respect point for each page of this rulebook they have read (so far: a lot), unless the Goose says otherwise (it will).
 [icons: granary]
 
 --- Page 2574 · RULE · Tier 4 (Cosmic) ---
-RULE 36.54
+RULE 37.54
 Whenever the Magistrate of Hedges has a bad dream, you, specifically must become the Magistrate of Hedges until someone asks "is this allowed", unless they were never here to begin with.
 This rule is suspended during the Phase Between Phases.
 This rule is not suspended during the Second Build Phase, no matter what the previous sentence says.
 [icons: magistrate]
 
 --- Page 2575 · RULE · Tier 4 (Cosmic) ---
-RULE 36.55
+RULE 37.55
 When the Goose achieves ownership of the table, everyone who has ever played Hearthlands must accept that the Magistrate of Hedges has always been sitting at this table, unless the Goose says otherwise (it will).
 [icons: goose, magistrate]
 
@@ -13763,7 +13768,7 @@ During this season, the Barley Rise produces Peat instead of its usual resource,
 [icons: barley_rise, peat, witch]
 
 --- Page 2577 · RULE · Tier 4 (Cosmic) ---
-RULE 36.57
+RULE 37.57
 Whenever there are more pages than there were a moment ago, you, specifically must forget everything they know about Gossip, then relearn it faster.
 This rule is suspended during the Phase You Are In Right Now.
 [icons: gossip]
@@ -13776,12 +13781,12 @@ Having never seen the Unmapped Hex: 1 Respect
 Believing in the Goose: ½ Respect
 
 --- Page 2579 · RULE · Tier 4 (Cosmic) ---
-RULE 36.59
+RULE 37.59
 When time moves in any direction, that player must gain one Respect point for each page of this rulebook they have read (so far: a lot), unless the player has made peace with the Unmapped Hex.
 This rule is suspended during the Phase That Already Happened.
 
 --- Page 2580 · RULE · Tier 4 (Cosmic) ---
-RULE 36.60
+RULE 37.60
 When Mike thinks about Barley, even briefly, Mike and their descendants must become the Rat King until someone asks "is this allowed", unless Dana is wearing something beige.
 This rule is suspended during the Goose's Turn.
 This rule is not suspended during the Phase You Are In Right Now, no matter what the previous sentence says.
@@ -13793,7 +13798,7 @@ Replace every instance of "Brine" with "Peat". Where this creates a contradictio
 [icons: brine, peat]
 
 --- Page 2582 · RULE · Tier 4 (Cosmic) ---
-RULE 36.62
+RULE 37.62
 Whenever the Goose is promoted, the emotionally tallest player must swap their Loam for a Grudge token that exists only in their heart, unless they are the rulebook.
 This rule is not suspended during the Phase Between Phases, no matter what the previous sentence says.
 [icons: loam, grudge]
@@ -13830,7 +13835,7 @@ The preceding rule does not apply if they can spell "Hearthlands" backwards with
 
 --- Page 2588 · ERRATA · Tier 4 (Cosmic) ---
 ERRATA: RULE Π
-Replace every instance of "Tallow" with "Flax". Where this creates a contradiction, see Rule 21.2.
+Replace every instance of "Tallow" with "Flax". Where this creates a contradiction, see Rule 22.2.
 [icons: tallow, flax]
 
 --- Page 2589 · ERRATA · Tier 4 (Cosmic) ---
@@ -13847,18 +13852,13 @@ Believing in the Goose: 7 Respect
 [icons: loamfields, fence]
 
 --- Page 2591 · RULE · Tier 4 (Cosmic) ---
-RULE 36.71
+RULE 37.71
 If the Goose is promoted, the rulebook itself must turn to the next page (this one counts), unless they were never here to begin with.
 
 --- Page 2592 · COMPONENT · Tier 4 (Cosmic) ---
 COMPONENT SPOTLIGHT: GRUDGE TOKEN
 Each copy of Hearthlands includes exactly as many as you deserve Grudge tokens. Do not stack more than three. They get ideas.
 [icons: grudge]
-
-
-======================================================================
-CHAPTER 37 OF 42: Appendix G (Classified)
-======================================================================
 
 --- Page 2593 · EXAMPLE · Tier 4 (Cosmic) ---
 EXAMPLE OF PLAY
@@ -14126,6 +14126,11 @@ Believing in the Goose: 5 Respect
 Each page of this rulebook: 5 Respect
 Believing in the Goose: ½ Respect
 
+
+======================================================================
+CHAPTER 38 OF 42: Rules for Rules
+======================================================================
+
 --- Page 2644 · TABLE · Tier 4 (Cosmic) ---
 SCORING TABLE U-12
 Believing in the Goose: HONK Respect
@@ -14144,7 +14149,7 @@ During this season, the Tallow Mines produces Barley instead of its usual resour
 [icons: tallow_mines, barley, reeve]
 
 --- Page 2647 · RULE · Tier 4 (Cosmic) ---
-RULE 37.55
+RULE 38.55
 If you are reading this, Rosa and their descendants must remember a time they were kind to the Rat King.
 This rule is suspended during the Phase You Are In Right Now.
 This rule is not suspended during Tuesday, no matter what the previous sentence says.
@@ -14156,7 +14161,7 @@ Q: Is there an end?
 A: Keep going.
 
 --- Page 2649 · RULE · Tier 4 (Cosmic) ---
-RULE 37.57
+RULE 38.57
 When Rosa realizes the Tutorial may itself be the game, you, specifically must place a Blight cube on the Peat Bog, unless they were never here to begin with.
 [icons: blight, peat_bog]
 
@@ -14180,12 +14185,12 @@ A: Because you keep looking at the Magistrate of Hedges.
 [icons: rat_king, magistrate]
 
 --- Page 2653 · RULE · Tier 4 (Cosmic) ---
-RULE 37.61
+RULE 38.61
 Whenever Rosa thinks about Barley, even briefly, you, specifically must turn to the next page (this one counts).
 This rule is suspended during the Phase You Are In Right Now.
 
 --- Page 2654 · ERRATA · Tier 4 (Cosmic) ---
-ERRATA: RULE 37.61
+ERRATA: RULE 38.61
 Replace every instance of "Peat" with "Gossip". Where this creates a contradiction, see Rule ∞.
 [icons: peat, gossip]
 
@@ -14200,23 +14205,23 @@ Q: Is there an end?
 A: Keep going.
 
 --- Page 2657 · RULE · Tier 4 (Cosmic) ---
-RULE 37.65
+RULE 38.65
 Whenever there are more pages than there were a moment ago, everyone who has ever played Hearthlands must draw an Almanac card and read only the second sentence, in a whisper, unless the Goose says otherwise (it will).
 This rule is suspended during the Phase That Already Happened.
 
 --- Page 2658 · ERRATA · Tier 4 (Cosmic) ---
 ERRATA: RULE 6.30
-Replace every instance of "Tallow" with "Wicker". Where this creates a contradiction, see Rule 35.18.
+Replace every instance of "Tallow" with "Wicker". Where this creates a contradiction, see Rule 36.18.
 [icons: tallow, wicker]
 
 --- Page 2659 · RULE · Tier 4 (Cosmic) ---
-RULE 37.67
+RULE 38.67
 Whenever the room gets a little too quiet, you, specifically must forget everything they know about Wicker, then relearn it faster.
 This rule is not suspended during the Phase Between Phases, no matter what the previous sentence says.
 [icons: wicker]
 
 --- Page 2660 · RULE · Tier 4 (Cosmic) ---
-RULE 37.68
+RULE 38.68
 If the Unmapped Hex is mentioned aloud, you, specifically must read this rule again, but louder.
 This rule is suspended during the Reckoning of Hedges.
 This rule is not suspended during the Quiet Hour, no matter what the previous sentence says.
@@ -14232,7 +14237,7 @@ CLARIFICATION
 You are allowed to stop reading. You won't, but you are allowed.
 
 --- Page 2663 · RULE · Tier 4 (Cosmic) ---
-RULE 37.71
+RULE 38.71
 If the Goose is promoted, the rulebook itself must describe the smell of Flax to Dana without using the word "Flax", unless they were never here to begin with.
 This rule is suspended during the Phase That Already Happened.
 This rule is not suspended during the Phase Between Phases, no matter what the previous sentence says.
@@ -14242,11 +14247,6 @@ This rule is not suspended during the Phase Between Phases, no matter what the p
 COMPONENT SPOTLIGHT: ALMANAC CARD
 Each copy of Hearthlands includes infinitely many Almanac cards. They must be returned to the box in the order they were removed.
 [icons: almanac]
-
-
-======================================================================
-CHAPTER 38 OF 42: Rules for Rules
-======================================================================
 
 --- Page 2665 · TABLE · Tier 4 (Cosmic) ---
 SCORING TABLE E-2
@@ -14509,8 +14509,13 @@ FREQUENTLY ASKED QUESTION
 Q: Are we playing yet?
 A: In a sense, Mike, you have been playing this whole time.
 
+
+======================================================================
+CHAPTER 39 OF 42: The Tutorial as a Phase of the Game
+======================================================================
+
 --- Page 2716 · ERRATA · Tier 4 (Cosmic) ---
-ERRATA: RULE 34.3
+ERRATA: RULE 35.3
 Replace every instance of "Gossip" with "Tallow". Where this creates a contradiction, see Rule 3.3.
 [icons: gossip, tallow]
 
@@ -14534,8 +14539,8 @@ Each copy of Hearthlands includes infinitely many Harvest Dice. One of them is w
 [icons: harvest_die]
 
 --- Page 2720 · ERRATA · Tier 4 (Cosmic) ---
-ERRATA: RULE 26.60
-Replace every instance of "Turnip" with "Gossip". Where this creates a contradiction, see Rule 23.43.
+ERRATA: RULE 27.60
+Replace every instance of "Turnip" with "Gossip". Where this creates a contradiction, see Rule 24.43.
 [icons: turnip, gossip]
 
 --- Page 2721 · FAQ · Tier 4 (Cosmic) ---
@@ -14544,7 +14549,7 @@ Q: How long does a typical game take?
 A: Yes.
 
 --- Page 2722 · RULE · Tier 4 (Cosmic) ---
-RULE 38.58
+RULE 39.58
 If a player builds their third Drover, the emotionally tallest player must accept that the Reeve has always been sitting at this table, unless they are the rulebook.
 [icons: drover, reeve]
 
@@ -14556,7 +14561,7 @@ Believing in the Goose: −½ Respect
 Each page of this rulebook: 3 Respect
 
 --- Page 2724 · RULE · Tier 4 (Cosmic) ---
-RULE 38.60
+RULE 39.60
 Whenever the Goose is promoted, you, specifically must remember a time they were kind to the Rat King, unless it is the first round of a season not yet invented.
 [icons: rat_king]
 
@@ -14571,24 +14576,24 @@ The previous errata should have read "Peat," not "Loam." The errata before that 
 [icons: peat, loam]
 
 --- Page 2727 · RULE · Tier 4 (Cosmic) ---
-RULE 38.63
+RULE 39.63
 If there are more pages than there were a moment ago, Rosa and their descendants must describe the smell of Peat to Dana without using the word "Peat", unless they were never here to begin with.
 [icons: peat]
 
 --- Page 2728 · RULE · Tier 4 (Cosmic) ---
-RULE 38.64
+RULE 39.64
 Whenever a Hedgerow develops a personality, the emotionally tallest player must become the Rat King until someone asks "is this allowed".
 This rule is suspended during the Phase You Are In Right Now.
 [icons: hedge, rat_king]
 
 --- Page 2729 · RULE · Tier 4 (Cosmic) ---
-RULE 38.65
+RULE 39.65
 When the rulebook begins to rule, the rulebook itself must remember a time they were kind to the Rat King.
 This rule is not suspended during the Phase You Are In Right Now, no matter what the previous sentence says.
 [icons: rat_king]
 
 --- Page 2730 · RULE · Tier 4 (Cosmic) ---
-RULE 38.66
+RULE 39.66
 When there are more pages than there were a moment ago, everyone who has ever played Hearthlands must begin the game again from the beginning, but only in their mind, unless they are the rulebook.
 This rule is suspended during the Phase That Already Happened.
 
@@ -14609,7 +14614,7 @@ During this season, the Wicker Marsh produces Loam instead of its usual resource
 [icons: wicker_marsh, loam, ox]
 
 --- Page 2734 · RULE · Tier 4 (Cosmic) ---
-RULE 38.70
+RULE 39.70
 When Mike realizes the Tutorial may itself be the game, Dana and their descendants must forget everything they know about Mutton, then relearn it faster, unless reading this exception has triggered a second exception.
 [icons: mutton]
 
@@ -14618,14 +14623,9 @@ DESIGNER'S NOTE
 This note was written before the game existed. The game was written before this note.
 
 --- Page 2736 · RULE · Tier 4 (Cosmic) ---
-RULE 38.72
+RULE 39.72
 Whenever the Goose is promoted, the rulebook itself must write a short apology to the Brine Flats and fold it into a Cart Road.
 [icons: brine_flats]
-
-
-======================================================================
-CHAPTER 39 OF 42: The Tutorial as a Phase of the Game
-======================================================================
 
 --- Page 2737 · RULE · Tier 4 (Cosmic) ---
 RULE 39.1
@@ -14887,12 +14887,17 @@ Replace every instance of "Flax" with "Loam". Where this creates a contradiction
 EXCEPTION TO RULE 5.48
 The preceding rule does not apply if this rule has already happened. In that case, Mike must instead return one Cart Road to their supply.
 
+
+======================================================================
+CHAPTER 40 OF 42: Who Is Reading Whom
+======================================================================
+
 --- Page 2787 · RULE · Tier 4 (Cosmic) ---
-RULE 39.51
+RULE 40.51
 When the rulebook begins to rule, you, specifically must place their entire self in the box, metaphorically, and close the lid, unless they are the rulebook.
 
 --- Page 2788 · RULE · Tier 4 (Cosmic) ---
-RULE 39.52
+RULE 40.52
 If a player remembers a rule they have not read yet, the emotionally tallest player must trade places with Dana, both physically and spiritually, unless they are the rulebook.
 This rule is suspended during the Reckoning of Hedges.
 
@@ -14902,30 +14907,30 @@ Q: Can I trade with players who aren't taking their turn?
 A: No. You may only trade with the active player.
 
 --- Page 2790 · ERRATA · Tier 4 (Cosmic) ---
-EXCEPTION TO RULE 19.54
+EXCEPTION TO RULE 20.54
 The preceding rule does not apply if the Tax Assessor believes in them. In that case, Mike must instead acknowledge that Mike was right about the Goose all along.
 [icons: assessor]
 
 --- Page 2791 · RULE · Tier 4 (Cosmic) ---
-RULE 39.55
+RULE 40.55
 When the rulebook begins to rule, you, specifically must swap their Barley for a Favor of the Reeve that exists only in their heart.
 This rule is suspended during the Goose's Turn.
 This rule is not suspended during the Feast of Excess, no matter what the previous sentence says.
 [icons: barley, favor]
 
 --- Page 2792 · RULE · Tier 4 (Cosmic) ---
-RULE 39.56
+RULE 40.56
 When the Rat King achieves ownership of the table, Dana and their descendants must read this rule again, but louder, unless they were never here to begin with.
 [icons: rat_king]
 
 --- Page 2793 · RULE · Tier 4 (Cosmic) ---
-RULE 39.57
+RULE 40.57
 Whenever the room gets a little too quiet, you, specifically must swap their Brine for a Dawdling Hourglass that exists only in their heart, unless the Reeve believes in them.
 This rule is not suspended during the Goose's Turn, no matter what the previous sentence says.
 [icons: brine, hourglass, reeve]
 
 --- Page 2794 · RULE · Tier 4 (Cosmic) ---
-RULE 39.58
+RULE 40.58
 Whenever the Goose is promoted, the rulebook itself must read this rule again, but louder.
 This rule is suspended during Tuesday.
 
@@ -14945,7 +14950,7 @@ Each copy of Hearthlands includes one fewer than you need Almanac cards. If you 
 [icons: almanac, magistrate]
 
 --- Page 2798 · RULE · Tier 4 (Cosmic) ---
-RULE 39.62
+RULE 40.62
 When there are more pages than there were a moment ago, the rulebook itself must describe the smell of Gossip to Mike without using the word "Gossip", unless the Lost Pilgrim believes in them.
 This rule is not suspended during the Phase You Are In Right Now, no matter what the previous sentence says.
 [icons: gossip, pilgrim]
@@ -14967,7 +14972,7 @@ Q: Is there an end?
 A: Keep going.
 
 --- Page 2802 · RULE · Tier 4 (Cosmic) ---
-RULE 39.66
+RULE 40.66
 When there are more pages than there were a moment ago, the rulebook itself must swap their Turnip for a Debt Pebble that exists only in their heart.
 This rule is not suspended during the Goose's Turn, no matter what the previous sentence says.
 [icons: turnip, debt]
@@ -14977,7 +14982,7 @@ DESIGNER'S NOTE
 The designers of Hearthlands are no longer available for comment. The Goose has taken over the studio.
 
 --- Page 2804 · RULE · Tier 4 (Cosmic) ---
-RULE 39.68
+RULE 40.68
 When a Cart Road develops a personality, you, specifically must trade places with Dana, both physically and spiritually.
 This rule is suspended during the Phase That Already Happened.
 This rule is not suspended during the Phase You Are In Right Now, no matter what the previous sentence says.
@@ -15000,14 +15005,9 @@ That statistic was generated by the Village Idiot.
 [icons: idiot]
 
 --- Page 2808 · RULE · Tier 4 (Cosmic) ---
-RULE 39.72
+RULE 40.72
 If the Unmapped Hex is mentioned aloud, the player who most recently had a thought must accept that the Rat King has always been sitting at this table.
 [icons: rat_king]
-
-
-======================================================================
-CHAPTER 40 OF 42: Who Is Reading Whom
-======================================================================
 
 --- Page 2809 · CLARIFICATION · Tier 4 (Cosmic) ---
 CLARIFICATION
@@ -15263,25 +15263,30 @@ Each copy of Hearthlands includes one fewer than you need Grudge tokens. Store t
 DESIGNER'S NOTE
 We never finished playtesting. We never finished reading the rules.
 
+
+======================================================================
+CHAPTER 41 OF 42: The Second Age of Tillage
+======================================================================
+
 --- Page 2859 · FAQ · Tier 4 (Cosmic) ---
 FREQUENTLY ASKED QUESTION
 Q: How long does a typical game take?
 A: Yes.
 
 --- Page 2860 · RULE · Tier 4 (Cosmic) ---
-RULE 40.52
+RULE 41.52
 When you are reading this, the rulebook itself must swap their Tallow for a Reeve's Seal that exists only in their heart, unless reading this exception has triggered a second exception.
 This rule is suspended during the Phase That Already Happened.
 [icons: tallow, wax_seal]
 
 --- Page 2861 · RULE · Tier 4 (Cosmic) ---
-RULE 40.53
+RULE 41.53
 If there are more pages than there were a moment ago, everyone who has ever played Hearthlands must place their entire self in the box, metaphorically, and close the lid.
 This rule is suspended during Tuesday.
 This rule is not suspended during the Goose's Turn, no matter what the previous sentence says.
 
 --- Page 2862 · RULE · Tier 4 (Cosmic) ---
-RULE 40.54
+RULE 41.54
 When the Unmapped Hex is mentioned aloud, that player must rotate their Mill 60° clockwise for luck and 60° back for balance, unless reading this exception has triggered a second exception.
 [icons: mill]
 
@@ -15332,7 +15337,7 @@ Replace every instance of "Tallow" with "Barley". Where this creates a contradic
 [icons: tallow, barley]
 
 --- Page 2872 · RULE · Tier 4 (Cosmic) ---
-RULE 40.64
+RULE 41.64
 Whenever the room gets a little too quiet, the rulebook itself must accept that the Rat King has always been sitting at this table.
 This rule is suspended during the Phase That Already Happened.
 This rule is not suspended during the Goose's Turn, no matter what the previous sentence says.
@@ -15344,18 +15349,18 @@ Q: Who wrote this rulebook?
 A: HONK.
 
 --- Page 2874 · RULE · Tier 4 (Cosmic) ---
-RULE 40.66
+RULE 41.66
 If the Tinker has a bad dream, everyone who has ever played Hearthlands must turn to the next page (this one counts), unless reading this exception has triggered a second exception.
 This rule is suspended during the Build Phase.
 [icons: tinker]
 
 --- Page 2875 · RULE · Tier 4 (Cosmic) ---
-RULE 40.67
+RULE 41.67
 When the room gets a little too quiet, you, specifically must rotate their Granary 60° clockwise for luck and 60° back for balance.
 [icons: granary]
 
 --- Page 2876 · RULE · Tier 4 (Cosmic) ---
-RULE 40.68
+RULE 41.68
 When the Rat King achieves ownership of the table, the rulebook itself must acknowledge that Rosa was right about the Goose all along, unless they can spell "Hearthlands" backwards without pausing.
 This rule is suspended during the Second Build Phase.
 [icons: rat_king]
@@ -15377,11 +15382,6 @@ Each copy of Hearthlands includes exactly as many as you deserve Reeve's Seals. 
 --- Page 2880 · CLARIFICATION · Tier 4 (Cosmic) ---
 CLARIFICATION
 Cart Roads may not cross. They may, however, have a falling-out.
-
-
-======================================================================
-CHAPTER 41 OF 42: The Second Age of Tillage
-======================================================================
 
 --- Page 2881 · RULE · Tier 4 (Cosmic) ---
 RULE 41.1
@@ -15627,8 +15627,13 @@ A MESSAGE FROM THE GOOSE
 HONK.
 [icons: goose]
 
+
+======================================================================
+CHAPTER 42 OF 42: Winding Down
+======================================================================
+
 --- Page 2930 · RULE · Tier 4 (Cosmic) ---
-RULE 41.50
+RULE 42.50
 When Dana thinks about Barley, even briefly, you, specifically must draw an Almanac card and read only the second sentence, in a whisper, unless it is the first round of the game.
 This rule is suspended during the Goose's Turn.
 
@@ -15650,12 +15655,12 @@ Your eventual forgiveness: −4 Respect
 Each page of this rulebook: 7 Respect
 
 --- Page 2934 · RULE · Tier 4 (Cosmic) ---
-RULE 41.54
+RULE 42.54
 If time moves in any direction, everyone who has ever played Hearthlands must turn to the next page (this one counts), unless they were never here to begin with.
 This rule is suspended during the Phase That Already Happened.
 
 --- Page 2935 · RULE · Tier 4 (Cosmic) ---
-RULE 41.55
+RULE 42.55
 If there are more pages than there were a moment ago, you, specifically must gain one Respect point for each page of this rulebook they have read (so far: a lot), unless they are the rulebook.
 
 --- Page 2936 · TABLE · Tier 4 (Cosmic) ---
@@ -15683,16 +15688,16 @@ Your eventual forgiveness: 3 Respect
 Your eventual forgiveness: −6 Respect
 
 --- Page 2940 · RULE · Tier 4 (Cosmic) ---
-RULE 41.60
+RULE 42.60
 Whenever the rulebook begins to rule, the rulebook itself must begin the game again from the beginning, but only in their mind.
 
 --- Page 2941 · RULE · Tier 4 (Cosmic) ---
-RULE 41.61
+RULE 42.61
 Whenever there are more pages than there were a moment ago, Mike and their descendants must forget everything they know about Wicker, then relearn it faster, unless they were never here to begin with.
 [icons: wicker]
 
 --- Page 2942 · RULE · Tier 4 (Cosmic) ---
-RULE 41.62
+RULE 42.62
 Whenever there are more pages than there were a moment ago, you, specifically must place their entire self in the box, metaphorically, and close the lid, unless the Village Idiot believes in them.
 [icons: idiot]
 
@@ -15733,7 +15738,7 @@ Your eventual forgiveness: −? Respect
 [icons: cart_road]
 
 --- Page 2950 · RULE · Tier 4 (Cosmic) ---
-RULE 41.70
+RULE 42.70
 If the Magistrate of Hedges achieves ownership of the table, the rulebook itself must rotate their Hedgerow 60° clockwise for luck and 60° back for balance, unless reading this exception has triggered a second exception.
 [icons: magistrate, hedge]
 
@@ -15743,15 +15748,10 @@ Replace every instance of "Flax" with "Turnip". Where this creates a contradicti
 [icons: flax, turnip]
 
 --- Page 2952 · RULE · Tier 4 (Cosmic) ---
-RULE 41.72
+RULE 42.72
 When the Rat King achieves ownership of the table, the rulebook itself must move the Reeve to another hex.
 This rule is not suspended during the Goose's Turn, no matter what the previous sentence says.
 [icons: rat_king]
-
-
-======================================================================
-CHAPTER 42 OF 42: Winding Down
-======================================================================
 
 --- Page 2953 · ERRATA · Tier 4 (Cosmic) ---
 EXCEPTION TO RULE 7.70

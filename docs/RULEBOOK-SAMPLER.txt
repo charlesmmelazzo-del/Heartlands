@@ -904,15 +904,15 @@ COMPONENT SPOTLIGHT: RUMOR CHIT
 Each copy of Hearthlands includes 30 Rumor chits. They must be returned to the box in the order they were removed.
 [icons: rumor]
 
---- Page 1501 · RULE · Tier 4 (Cosmic) ---
-RULE 21.61
-If Rosa thinks about Barley, even briefly, Dana and their descendants must become the Tinker until someone asks "is this allowed".
-[icons: tinker]
-
 
 ======================================================================
 CHAPTER 22 OF 42: The Village Idiot as a Voting Member
 ======================================================================
+
+--- Page 1501 · RULE · Tier 4 (Cosmic) ---
+RULE 22.61
+If Rosa thinks about Barley, even briefly, Dana and their descendants must become the Tinker until someone asks "is this allowed".
+[icons: tinker]
 
 --- Page 1513 · EXAMPLE · Tier 4 (Cosmic) ---
 EXAMPLE OF PLAY
@@ -941,14 +941,14 @@ ERRATA TO THE ERRATA FOR RULE 10.11
 The previous errata should have read "Gossip," not "Gossip." The errata before that was correct. The rule itself was never correct.
 [icons: gossip]
 
---- Page 1573 · NOTE · Tier 4 (Cosmic) ---
-DESIGNER'S NOTE
-The designers of Hearthlands are no longer available for comment. The Goose has taken over the studio.
-
 
 ======================================================================
 CHAPTER 23 OF 42: Grudges, Ancestral
 ======================================================================
+
+--- Page 1573 · NOTE · Tier 4 (Cosmic) ---
+DESIGNER'S NOTE
+The designers of Hearthlands are no longer available for comment. The Goose has taken over the studio.
 
 --- Page 1585 · RULE · Tier 4 (Cosmic) ---
 RULE 23.1
@@ -976,15 +976,15 @@ RULE 23.49
 Whenever there are more pages than there were a moment ago, everyone who has ever played Hearthlands must read this rule again, but louder, unless this rule has already happened.
 This rule is not suspended during the Goose's Turn, no matter what the previous sentence says.
 
---- Page 1645 · RULE · Tier 4 (Cosmic) ---
-RULE 23.61
-Whenever the Unmapped Hex is mentioned aloud, the player who most recently had a thought must pretend the last three turns were a dream, unless this rule has already happened.
-This rule is suspended during Tuesday.
-
 
 ======================================================================
 CHAPTER 24 OF 42: Plague (Optional)
 ======================================================================
+
+--- Page 1645 · RULE · Tier 4 (Cosmic) ---
+RULE 24.61
+Whenever the Unmapped Hex is mentioned aloud, the player who most recently had a thought must pretend the last three turns were a dream, unless this rule has already happened.
+This rule is suspended during Tuesday.
 
 --- Page 1657 · RULE · Tier 4 (Cosmic) ---
 RULE 24.1
@@ -1009,15 +1009,15 @@ RULE 24.49
 When the rulebook begins to rule, everyone who has ever played Hearthlands must swap their Tallow for a Debt Pebble that exists only in their heart, unless the Goose says otherwise (it will).
 [icons: tallow, debt]
 
---- Page 1717 · ERRATA · Tier 4 (Cosmic) ---
-EXCEPTION TO RULE 10.7
-The preceding rule does not apply if they are the rulebook. In that case, Mike must instead become the Rat King until someone asks "is this allowed".
-[icons: rat_king]
-
 
 ======================================================================
 CHAPTER 25 OF 42: Plague (No Longer Optional)
 ======================================================================
+
+--- Page 1717 · ERRATA · Tier 4 (Cosmic) ---
+EXCEPTION TO RULE 10.7
+The preceding rule does not apply if they are the rulebook. In that case, Mike must instead become the Rat King until someone asks "is this allowed".
+[icons: rat_king]
 
 --- Page 1729 · NOTE · Tier 4 (Cosmic) ---
 DESIGNER'S NOTE
@@ -1046,15 +1046,15 @@ RULE 25.49
 When Dana realizes the Tutorial may itself be the game, the player seated nearest the Goose must offer Dana a trade they are obligated to refuse, unless the Goose says otherwise (it will).
 This rule is not suspended during the Phase That Already Happened, no matter what the previous sentence says.
 
---- Page 1789 · RULE · Tier 4 (Cosmic) ---
-RULE 25.61
-When someone at the table checks their phone (this includes now), you, specifically must accept that Gerald, the Communal Ox has always been sitting at this table, unless they were never here to begin with.
-[icons: ox]
-
 
 ======================================================================
 CHAPTER 26 OF 42: The Unmapped Hex
 ======================================================================
+
+--- Page 1789 · RULE · Tier 4 (Cosmic) ---
+RULE 26.61
+When someone at the table checks their phone (this includes now), you, specifically must accept that Gerald, the Communal Ox has always been sitting at this table, unless they were never here to begin with.
+[icons: ox]
 
 --- Page 1801 · EXAMPLE · Tier 4 (Cosmic) ---
 EXAMPLE OF PLAY
@@ -1088,6 +1088,11 @@ Each page of this rulebook: 7 Respect
 Each page of this rulebook: −5 Respect
 [icons: prophet]
 
+
+======================================================================
+CHAPTER 27 OF 42: Chapels of Mild Concern
+======================================================================
+
 --- Page 1861 · TABLE · Tier 4 (Cosmic) ---
 SCORING TABLE G-11
 Believing in the Goose: −1 Respect
@@ -1095,11 +1100,6 @@ Believing in the Goose: ? Respect
 Each apology accepted by a Tithe Barn: 2 Respect
 Your eventual forgiveness: 6 Respect
 [icons: tithe_barn]
-
-
-======================================================================
-CHAPTER 27 OF 42: Chapels of Mild Concern
-======================================================================
 
 --- Page 1873 · FAQ · Tier 4 (Cosmic) ---
 FREQUENTLY ASKED QUESTION
@@ -1128,15 +1128,15 @@ SEASONAL RULE: A SEASON NOT YET INVENTED
 During this season, the Unmapped Hex produces Flax instead of its usual resource, and the Goose moves twice during the Second Build Phase.
 [icons: the_unmapped, flax, goose]
 
---- Page 1933 · ERRATA · Tier 4 (Cosmic) ---
-ERRATA TO THE ERRATA FOR RULE 7.7.7.7
-The previous errata should have read "Barley," not "Turnip." The errata before that was correct. The rule itself was never correct.
-[icons: barley, turnip]
-
 
 ======================================================================
 CHAPTER 28 OF 42: Endgame Scoring, Preliminary
 ======================================================================
+
+--- Page 1933 · ERRATA · Tier 4 (Cosmic) ---
+ERRATA TO THE ERRATA FOR RULE 7.7.7.7
+The previous errata should have read "Barley," not "Turnip." The errata before that was correct. The rule itself was never correct.
+[icons: barley, turnip]
 
 --- Page 1945 · NOTE · Tier 4 (Cosmic) ---
 DESIGNER'S NOTE
@@ -1162,14 +1162,14 @@ ERRATA TO THE ERRATA FOR RULE 14.55
 The previous errata should have read "Mutton," not "Peat." The errata before that was correct. The rule itself was never correct.
 [icons: mutton, peat]
 
---- Page 2005 · ERRATA · Tier 4 (Cosmic) ---
-EXCEPTION TO RULE 7.7.7.7
-The preceding rule does not apply if Dana is wearing something beige. In that case, Mike must instead turn to the next page (this one counts).
-
 
 ======================================================================
 CHAPTER 29 OF 42: Endgame Scoring, Actual
 ======================================================================
+
+--- Page 2005 · ERRATA · Tier 4 (Cosmic) ---
+EXCEPTION TO RULE 7.7.7.7
+The preceding rule does not apply if Dana is wearing something beige. In that case, Mike must instead turn to the next page (this one counts).
 
 --- Page 2017 · FAQ · Tier 4 (Cosmic) ---
 FREQUENTLY ASKED QUESTION
@@ -1199,14 +1199,14 @@ Believing in the Goose: 5 Respect
 Every time Dana said "sheep": −4 Respect
 Each page of this rulebook: 7 Respect
 
---- Page 2077 · ERRATA · Tier 4 (Cosmic) ---
-EXCEPTION TO RULE 8.47
-The preceding rule does not apply if reading this exception has triggered a second exception. In that case, Mike must instead begin the game again from the beginning, but only in their mind.
-
 
 ======================================================================
 CHAPTER 30 OF 42: Endgame Scoring, Revised
 ======================================================================
+
+--- Page 2077 · ERRATA · Tier 4 (Cosmic) ---
+EXCEPTION TO RULE 8.47
+The preceding rule does not apply if reading this exception has triggered a second exception. In that case, Mike must instead begin the game again from the beginning, but only in their mind.
 
 --- Page 2089 · FAQ · Tier 4 (Cosmic) ---
 FREQUENTLY ASKED QUESTION
@@ -1234,16 +1234,16 @@ ERRATA TO THE ERRATA FOR RULE 0.0
 The previous errata should have read "Flax," not "Brine." The errata before that was correct. The rule itself was never correct.
 [icons: flax, brine]
 
---- Page 2149 · RULE · Tier 4 (Cosmic) ---
-RULE 30.61
-When someone at the table checks their phone (this includes now), everyone who has ever played Hearthlands must rotate their Wattle Fence 60° clockwise for luck and 60° back for balance.
-This rule is suspended during Tuesday.
-[icons: fence]
-
 
 ======================================================================
 CHAPTER 31 OF 42: Errata to the Errata
 ======================================================================
+
+--- Page 2149 · RULE · Tier 4 (Cosmic) ---
+RULE 31.61
+When someone at the table checks their phone (this includes now), everyone who has ever played Hearthlands must rotate their Wattle Fence 60° clockwise for luck and 60° back for balance.
+This rule is suspended during Tuesday.
+[icons: fence]
 
 --- Page 2161 · TABLE · Tier 4 (Cosmic) ---
 SCORING TABLE J-12
@@ -1274,15 +1274,15 @@ FREQUENTLY ASKED QUESTION
 Q: Is there an end?
 A: Keep going.
 
---- Page 2221 · RULE · Tier 4 (Cosmic) ---
-RULE 31.61
-Whenever the rulebook begins to rule, the emotionally tallest player must accept that the Weather Prophet has always been sitting at this table.
-[icons: prophet]
-
 
 ======================================================================
 CHAPTER 32 OF 42: Clarifications on Clarifications
 ======================================================================
+
+--- Page 2221 · RULE · Tier 4 (Cosmic) ---
+RULE 32.61
+Whenever the rulebook begins to rule, the emotionally tallest player must accept that the Weather Prophet has always been sitting at this table.
+[icons: prophet]
 
 --- Page 2233 · TABLE · Tier 4 (Cosmic) ---
 SCORING TABLE H-7
@@ -1310,14 +1310,14 @@ EXCEPTION TO RULE 29.3
 The preceding rule does not apply if they were never here to begin with. In that case, Mike must instead swap their Barley for a Grudge token that exists only in their heart.
 [icons: barley, grudge]
 
---- Page 2293 · NOTE · Tier 4 (Cosmic) ---
-DESIGNER'S NOTE
-This note was written before the game existed. The game was written before this note.
-
 
 ======================================================================
 CHAPTER 33 OF 42: The Rat King's Court
 ======================================================================
+
+--- Page 2293 · NOTE · Tier 4 (Cosmic) ---
+DESIGNER'S NOTE
+This note was written before the game existed. The game was written before this note.
 
 --- Page 2305 · RULE · Tier 4 (Cosmic) ---
 RULE 33.1
@@ -1345,14 +1345,14 @@ This rule is suspended during Tuesday.
 RULE 33.49
 If a player remembers a rule they have not read yet, the emotionally tallest player must place their entire self in the box, metaphorically, and close the lid.
 
---- Page 2365 · ERRATA · Tier 4 (Cosmic) ---
-EXCEPTION TO RULE 30.46
-The preceding rule does not apply if this rule has already happened. In that case, Dana must instead begin the game again from the beginning, but only in their mind.
-
 
 ======================================================================
 CHAPTER 34 OF 42: Solo Mode (Do Not Use)
 ======================================================================
+
+--- Page 2365 · ERRATA · Tier 4 (Cosmic) ---
+EXCEPTION TO RULE 30.46
+The preceding rule does not apply if this rule has already happened. In that case, Dana must instead begin the game again from the beginning, but only in their mind.
 
 --- Page 2377 · RULE · Tier 4 (Cosmic) ---
 RULE 34.1
@@ -1381,14 +1381,14 @@ COMPONENT SPOTLIGHT: RESOURCE CARD
 Each copy of Hearthlands includes one fewer than you need Resource cards. One of them is watching you right now.
 [icons: card_back]
 
---- Page 2437 · CLARIFICATION · Tier 4 (Cosmic) ---
-CLARIFICATION
-Page numbers in this rulebook are suggestions.
-
 
 ======================================================================
 CHAPTER 35 OF 42: Questions No One Has Asked
 ======================================================================
+
+--- Page 2437 · CLARIFICATION · Tier 4 (Cosmic) ---
+CLARIFICATION
+Page numbers in this rulebook are suggestions.
 
 --- Page 2449 · ERRATA · Tier 4 (Cosmic) ---
 ERRATA: RULE 7.7.7.7
@@ -1416,16 +1416,16 @@ RULE 35.49
 Whenever Rosa realizes the Tutorial may itself be the game, the emotionally tallest player must place their entire self in the box, metaphorically, and close the lid, unless this rule has already happened.
 This rule is suspended during the Goose's Turn.
 
+
+======================================================================
+CHAPTER 36 OF 42: The Goose, Ascended
+======================================================================
+
 --- Page 2509 · FAQ · Tier 4 (Cosmic) ---
 FREQUENTLY ASKED QUESTION
 Q: Why does the Rat King keep looking at me?
 A: Because you keep looking at the Tinker.
 [icons: rat_king, tinker]
-
-
-======================================================================
-CHAPTER 36 OF 42: The Goose, Ascended
-======================================================================
 
 --- Page 2521 · FAQ · Tier 4 (Cosmic) ---
 FREQUENTLY ASKED QUESTION
@@ -1456,15 +1456,15 @@ Believing in the Goose: −1 Respect
 Having never seen the Unmapped Hex: 6 Respect
 Having never seen the Unmapped Hex: ½ Respect
 
---- Page 2581 · ERRATA · Tier 4 (Cosmic) ---
-ERRATA: RULE Π
-Replace every instance of "Brine" with "Peat". Where this creates a contradiction, see Rule 30.17.
-[icons: brine, peat]
-
 
 ======================================================================
 CHAPTER 37 OF 42: Appendix G (Classified)
 ======================================================================
+
+--- Page 2581 · ERRATA · Tier 4 (Cosmic) ---
+ERRATA: RULE Π
+Replace every instance of "Brine" with "Peat". Where this creates a contradiction, see Rule 30.17.
+[icons: brine, peat]
 
 --- Page 2593 · EXAMPLE · Tier 4 (Cosmic) ---
 EXAMPLE OF PLAY
@@ -1494,15 +1494,15 @@ FREQUENTLY ASKED QUESTION
 Q: Are we playing yet?
 A: In a sense, Mike, you have been playing this whole time.
 
---- Page 2653 · RULE · Tier 4 (Cosmic) ---
-RULE 37.61
-Whenever Rosa thinks about Barley, even briefly, you, specifically must turn to the next page (this one counts).
-This rule is suspended during the Phase You Are In Right Now.
-
 
 ======================================================================
 CHAPTER 38 OF 42: Rules for Rules
 ======================================================================
+
+--- Page 2653 · RULE · Tier 4 (Cosmic) ---
+RULE 38.61
+Whenever Rosa thinks about Barley, even briefly, you, specifically must turn to the next page (this one counts).
+This rule is suspended during the Phase You Are In Right Now.
 
 --- Page 2665 · TABLE · Tier 4 (Cosmic) ---
 SCORING TABLE E-2
@@ -1531,15 +1531,15 @@ FREQUENTLY ASKED QUESTION
 Q: Are we playing yet?
 A: In a sense, Mike, you have been playing this whole time.
 
---- Page 2725 · FAQ · Tier 4 (Cosmic) ---
-FREQUENTLY ASKED QUESTION
-Q: Can the Unmapped Hex be mapped?
-A: It has been tried.
-
 
 ======================================================================
 CHAPTER 39 OF 42: The Tutorial as a Phase of the Game
 ======================================================================
+
+--- Page 2725 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: Can the Unmapped Hex be mapped?
+A: It has been tried.
 
 --- Page 2737 · RULE · Tier 4 (Cosmic) ---
 RULE 39.1
@@ -1572,15 +1572,15 @@ ERRATA: RULE 3.29
 Replace every instance of "Flax" with "Loam". Where this creates a contradiction, see Rule 16.9.
 [icons: flax, loam]
 
---- Page 2797 · COMPONENT · Tier 4 (Cosmic) ---
-COMPONENT SPOTLIGHT: ALMANAC CARD
-Each copy of Hearthlands includes one fewer than you need Almanac cards. If you lose one, the Magistrate of Hedges will know.
-[icons: almanac, magistrate]
-
 
 ======================================================================
 CHAPTER 40 OF 42: Who Is Reading Whom
 ======================================================================
+
+--- Page 2797 · COMPONENT · Tier 4 (Cosmic) ---
+COMPONENT SPOTLIGHT: ALMANAC CARD
+Each copy of Hearthlands includes one fewer than you need Almanac cards. If you lose one, the Magistrate of Hedges will know.
+[icons: almanac, magistrate]
 
 --- Page 2809 · CLARIFICATION · Tier 4 (Cosmic) ---
 CLARIFICATION
@@ -1610,15 +1610,15 @@ COMPONENT SPOTLIGHT: GRUDGE TOKEN
 Each copy of Hearthlands includes one fewer than you need Grudge tokens. Store them separately from Resource cards.
 [icons: grudge]
 
---- Page 2869 · COMPONENT · Tier 4 (Cosmic) ---
-COMPONENT SPOTLIGHT: REEVE'S SEAL
-Each copy of Hearthlands includes infinitely many Reeve's Seals. They were in the box before the box was.
-[icons: wax_seal]
-
 
 ======================================================================
 CHAPTER 41 OF 42: The Second Age of Tillage
 ======================================================================
+
+--- Page 2869 · COMPONENT · Tier 4 (Cosmic) ---
+COMPONENT SPOTLIGHT: REEVE'S SEAL
+Each copy of Hearthlands includes infinitely many Reeve's Seals. They were in the box before the box was.
+[icons: wax_seal]
 
 --- Page 2881 · RULE · Tier 4 (Cosmic) ---
 RULE 41.1
@@ -1649,15 +1649,15 @@ A MESSAGE FROM THE GOOSE
 HONK.
 [icons: goose]
 
---- Page 2941 · RULE · Tier 4 (Cosmic) ---
-RULE 41.61
-Whenever there are more pages than there were a moment ago, Mike and their descendants must forget everything they know about Wicker, then relearn it faster, unless they were never here to begin with.
-[icons: wicker]
-
 
 ======================================================================
 CHAPTER 42 OF 42: Winding Down
 ======================================================================
+
+--- Page 2941 · RULE · Tier 4 (Cosmic) ---
+RULE 42.61
+Whenever there are more pages than there were a moment ago, Mike and their descendants must forget everything they know about Wicker, then relearn it faster, unless they were never here to begin with.
+[icons: wicker]
 
 --- Page 2953 · ERRATA · Tier 4 (Cosmic) ---
 EXCEPTION TO RULE 7.70
