@@ -1,0 +1,17 @@
+{
+  "name": "hearthlands",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hearthlands: Age of Tillage — a board game tutorial that never ends. A digital garnish for Common Good Cocktail House.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "check": "node scripts/check.js",
+    "export": "node scripts/export.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,1691 @@
+HEARTHLANDS: AGE OF TILLAGE — SAMPLER (intro + every 12th page)
+3000 pages total · rendered with players: Mike, Dana, Rosa
+Each page is one phone screen. Tier = absurdity level (0 = sounds real, 4 = fully absurd).
+
+
+======================================================================
+CHAPTER 1 OF 42: Setting Up the Game
+======================================================================
+
+--- Page 1 · WELCOME · Tier 0 (Straight-faced) ---
+WELCOME TO THE HEARTHLANDS
+Welcome, Mike, Dana and Rosa. In Hearthlands: Age of Tillage, each player leads a farming Household competing to become the most Respected in the valley.
+This short tutorial will teach you everything you need for your first game.
+[icons: rulebook, cottage, barley]
+
+--- Page 2 · RULE · Tier 0 (Straight-faced) ---
+THE OBJECT OF THE GAME
+Earn Respect by building Cottages, Granaries, and Mills, by connecting your Household with Cart Roads, and by trading wisely.
+The first Household to reach 10 Respect wins.
+[icons: respect, cottage, granary]
+
+--- Page 3 · COMPONENT · Tier 0 (Straight-faced) ---
+WHAT'S IN THE BOX
+19 terrain hexes, 95 Resource cards, 5 sets of Household pieces, 1 Reeve, 1 Harvest Die, and this rulebook.
+[icons: barley_rise, card_back, harvest_die, reeve]
+
+--- Page 4 · COMPONENT · Tier 0 (Straight-faced) ---
+THE FIVE RESOURCES
+Barley, Flax, Mutton, Peat, and Wicker.
+Each comes from a different type of terrain, and each is used to build different things.
+[icons: barley, flax, mutton, peat, wicker]
+
+--- Page 5 · COMPONENT · Tier 0 (Straight-faced) ---
+THE TERRAIN
+Barley Rise produces Barley. Flax Fields produce Flax. Mutton Downs produce Mutton. The Peat Bog produces Peat. Wicker Marsh produces Wicker.
+[icons: barley_rise, mutton_downs, peat_bog, wicker_marsh]
+
+--- Page 6 · COMPONENT · Tier 0 (Straight-faced) ---
+YOUR HOUSEHOLD PIECES
+Each player takes the pieces in their color: 5 Cottages, 4 Granaries, 2 Mills, and 15 Cart Roads.
+[icons: cottage, granary, mill, cart_road]
+
+--- Page 7 · RULE · Tier 0 (Straight-faced) ---
+CHOOSING COLORS
+Players choose from red, blue, cream, orange, and green.
+Mike chooses first, then play proceeds clockwise.
+[icons: pawn_red, pawn_blue, pawn_cream, pawn_orange, pawn_green]
+
+--- Page 8 · RULE · Tier 0 (Straight-faced) ---
+BUILDING THE BOARD
+Shuffle the terrain hexes and arrange them face-up in a large hexagon.
+Place a number token on each hex. The Peat Bog in the center receives no number.
+[icons: peat_bog, barley_rise, wicker_marsh]
+
+--- Page 9 · RULE · Tier 0 (Straight-faced) ---
+PLACING THE REEVE
+The Reeve begins the game on the center hex.
+While the Reeve is on a hex, that hex does not produce resources.
+[icons: reeve]
+
+--- Page 10 · RULE · Tier 0 (Straight-faced) ---
+STARTING POSITIONS
+In turn order, each player places one Cottage and one attached Cart Road on the board.
+Then, in reverse order, each player places a second Cottage and Cart Road.
+[icons: cottage, cart_road]
+
+--- Page 11 · RULE · Tier 0 (Straight-faced) ---
+STARTING RESOURCES
+Each player takes one Resource card for each hex touching their second Cottage.
+[icons: card_back, cottage]
+
+--- Page 12 · RULE · Tier 0 (Straight-faced) ---
+TAKING A TURN
+Each turn has three phases: the Production Phase, the Trade Phase, and the Build Phase.
+Play proceeds clockwise, beginning with Mike.
+[icons: harvest_die, card_back, cottage]
+
+--- Page 13 · RULE · Tier 0 (Straight-faced) ---
+THE PRODUCTION PHASE
+Roll the Harvest Die. Every hex showing that number produces its resource.
+Each player with a Cottage touching that hex takes one card. Each player with a Granary takes two.
+[icons: harvest_die, barley]
+
+--- Page 14 · EXAMPLE · Tier 0 (Straight-faced) ---
+EXAMPLE OF PLAY
+Mike rolls a 6. The Barley Rise showing 6 produces. Mike has a Cottage there and takes 1 Barley. Dana has a Granary there and takes 2 Barley.
+[icons: harvest_die, barley, cottage, granary]
+
+--- Page 15 · RULE · Tier 0 (Straight-faced) ---
+ROLLING A 7
+When a 7 is rolled, no hexes produce. Instead, any player with more than seven Resource cards discards half of them.
+The active player then moves the Reeve to a new hex.
+[icons: harvest_die, reeve]
+
+--- Page 16 · RULE · Tier 0 (Straight-faced) ---
+THE TRADE PHASE
+The active player may trade Resource cards with any other player, on any terms both agree to.
+They may also trade with the supply at a rate of 4 identical cards for 1 card of their choice.
+[icons: card_back, flax, mutton]
+
+--- Page 17 · RULE · Tier 0 (Straight-faced) ---
+THE BUILD PHASE
+The active player may spend resources to build as many pieces as they can afford.
+[icons: cottage, cart_road]
+
+--- Page 18 · TABLE · Tier 0 (Straight-faced) ---
+BUILDING COSTS
+Cart Road: 1 Wicker, 1 Peat
+Cottage: 1 Wicker, 1 Peat, 1 Barley, 1 Mutton
+Granary (upgrades a Cottage): 2 Barley, 3 Flax
+Mill: 1 Barley, 1 Flax, 2 Peat
+[icons: cart_road, cottage, granary, mill]
+
+--- Page 19 · RULE · Tier 0 (Straight-faced) ---
+PLACEMENT RULES
+Cottages must be placed on an intersection connected to one of your Cart Roads.
+No Cottage may be placed adjacent to another Cottage.
+[icons: cottage, cart_road]
+
+--- Page 20 · RULE · Tier 0 (Straight-faced) ---
+SCORING RESPECT
+Each Cottage is worth 1 Respect. Each Granary is worth 2 Respect. Each Mill is worth 1 Respect.
+[icons: respect, cottage, granary, mill]
+
+--- Page 21 · RULE · Tier 0 (Straight-faced) ---
+THE LONGEST CART ROAD
+The first player to build a continuous Cart Road of five or more segments earns 2 bonus Respect.
+If another player builds a longer one, the bonus moves to them.
+[icons: cart_road, respect]
+
+--- Page 22 · RULE · Tier 0 (Straight-faced) ---
+WINNING THE GAME
+The game ends immediately when a player reaches 10 Respect on their turn. That player wins.
+[icons: respect]
+
+--- Page 23 · NOTE · Tier 0 (Straight-faced) ---
+YOU'RE READY TO LEARN THE DETAILS
+That covers the core game, Mike! The following chapters cover the remaining rules, variants, and edge cases.
+Most groups find them helpful.
+[icons: rulebook]
+
+--- Page 24 · RULE · Tier 0 (Straight-faced) ---
+WEATHER
+At the start of each round, roll the Weather Cube. Its result affects production for that round.
+Sun: no effect. Rain: Barley Rise produces double. Fog: no trading with the supply.
+[icons: weather_cube]
+
+--- Page 25 · RULE · Tier 0 (Straight-faced) ---
+THE TAX ASSESSOR
+The Tax Assessor is a second neutral piece. It moves one hex clockwise each round.
+Players with a building next to the Tax Assessor pay one resource of their choice.
+[icons: assessor]
+
+--- Page 26 · RULE · Tier 0 (Straight-faced) ---
+ALMANAC CARDS
+Almanac cards may be bought for 1 Flax, 1 Mutton, and 1 Barley.
+Each card has a one-time effect. You may play one Almanac card per turn.
+[icons: almanac]
+
+--- Page 37 · TABLE · Tier 1 (Fussy) ---
+SCORING TABLE N-5
+Every 3 Wicker: 3 Respect
+Every 3 Brine: −7 Respect
+Control of the Brine Flats: 6 Respect
+Each Tithe Barn: 4 Respect
+[icons: wicker, brine, brine_flats, tithe_barn]
+
+--- Page 49 · FAQ · Tier 1 (Fussy) ---
+FREQUENTLY ASKED QUESTION
+Q: Does a Hay Cart count as a building?
+A: For scoring, yes. For the Levy, no. For the Almanac, it depends.
+
+--- Page 61 · RULE · Tier 1 (Fussy) ---
+RULE 1.61
+When a player builds their third Tithe Barn, that player must consult the Almanac (see Appendix J), unless the hex is occupied.
+[icons: tithe_barn]
+
+
+======================================================================
+CHAPTER 2 OF 42: Resources and Production
+======================================================================
+
+--- Page 73 · RULE · Tier 1 (Fussy) ---
+RULE 2.1
+Whenever a player completes a Cart Road of five or more, the player to the left of the active player must skip Almanac Upkeep, unless they already built this turn.
+
+--- Page 85 · ERRATA · Tier 1 (Fussy) ---
+EXCEPTION TO RULE 2.20
+The preceding rule does not apply if a Tithe Barn is within two hexes. In that case, Dana must instead discard one Barley.
+[icons: barley]
+
+--- Page 97 · RULE · Tier 1 (Fussy) ---
+RULE 2.25
+Whenever a Ledger page is revealed during the Build Phase, that player must skip the Trade Phase, unless it is the first round of Summer.
+[icons: ledger]
+
+--- Page 109 · COMPONENT · Tier 1 (Fussy) ---
+COMPONENT SPOTLIGHT: WEATHER CUBE
+Each copy of Hearthlands includes 32 Weather Cubes. Spares are available from the publisher.
+[icons: weather_cube]
+
+--- Page 121 · EXAMPLE · Tier 1 (Fussy) ---
+EXAMPLE OF PLAY
+Rosa has 8 Loam and a Almanac card. During the Production Phase, the Tax Assessor moves onto their Brine Flats. Because a trade involves exactly one Loam, Mike must flip the Weather Cube to Drizzle.
+Mike records it on a Ledger page. Play continues.
+[icons: loam, almanac, brine_flats]
+
+--- Page 133 · CLARIFICATION · Tier 1 (Fussy) ---
+CLARIFICATION
+A Granary replaces the Cottage it upgrades. Return the Cottage to your supply.
+
+
+======================================================================
+CHAPTER 3 OF 42: Building and Expansion
+======================================================================
+
+--- Page 145 · FAQ · Tier 1 (Fussy) ---
+FREQUENTLY ASKED QUESTION
+Q: Can I trade with players who aren't taking their turn?
+A: No. You may only trade with the active player.
+
+--- Page 157 · FAQ · Tier 1 (Fussy) ---
+FREQUENTLY ASKED QUESTION
+Q: Can I trade with players who aren't taking their turn?
+A: No. You may only trade with the active player.
+
+--- Page 169 · RULE · Tier 1 (Fussy) ---
+RULE 3.25
+If a Well is placed next to the Flax Fields, the player to the left of the active player must discard one Barley for each Hay Cart they control.
+[icons: well, flax_fields, barley, cart]
+
+--- Page 181 · FAQ · Tier 2 (Goose-obsessed) ---
+FREQUENTLY ASKED QUESTION
+Q: Does Gerald, the Communal Ox count as a player for the purpose of Grudges?
+A: Yes, but it will remember.
+[icons: ox]
+
+--- Page 193 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 3.49
+When the Village Idiot ends its movement on a hex containing Gossip, whoever last touched the Harvest Die must honk once, unless the Goose is asleep (see Rule 88.2).
+[icons: idiot, gossip]
+
+--- Page 205 · NOTE · Tier 2 (Goose-obsessed) ---
+DESIGNER'S NOTE
+Yes, this contradicts Rule 12.4. Rule 12.4 knows what it did.
+
+
+======================================================================
+CHAPTER 4 OF 42: Trading
+======================================================================
+
+--- Page 217 · NOTE · Tier 2 (Goose-obsessed) ---
+DESIGNER'S NOTE
+We playtested this rule for eleven years. We think it's close.
+
+--- Page 229 · ERRATA · Tier 2 (Goose-obsessed) ---
+ERRATA: RULE 2.68
+Replace every instance of "Gossip" with "Flax". Where this creates a contradiction, see Rule 4.31.
+[icons: gossip, flax]
+
+--- Page 241 · FAQ · Tier 2 (Goose-obsessed) ---
+FREQUENTLY ASKED QUESTION
+Q: Is Gossip a resource or a condition?
+A: Both, depending on the season.
+
+--- Page 253 · TABLE · Tier 2 (Goose-obsessed) ---
+SCORING TABLE C-1
+Every Flax traded to Mike: 4 Respect
+Each unused Almanac card: 6 Respect
+Control of the Barley Rise: 1 Respect
+Each Grudge against the Unwelcome Bard: 6 Respect
+[icons: flax, almanac, barley_rise, bard]
+
+--- Page 265 · ERRATA · Tier 2 (Goose-obsessed) ---
+EXCEPTION TO RULE 3.71
+The preceding rule does not apply if the Loamfields is Fallow. In that case, Mike must instead declare a Grudge against Dana.
+[icons: loamfields]
+
+--- Page 277 · ERRATA · Tier 2 (Goose-obsessed) ---
+ERRATA: RULE 1.68
+Replace every instance of "Loam" with "Turnip". Where this creates a contradiction, see Rule 4.17.
+[icons: loam, turnip]
+
+
+======================================================================
+CHAPTER 5 OF 42: The Reeve
+======================================================================
+
+--- Page 289 · ERRATA · Tier 2 (Goose-obsessed) ---
+ERRATA: RULE 5.62
+Replace every instance of "Gossip" with "Loam". Where this creates a contradiction, see Rule 2.6.
+[icons: gossip, loam]
+
+--- Page 301 · FAQ · Tier 2 (Goose-obsessed) ---
+FREQUENTLY ASKED QUESTION
+Q: Can I trade Gossip for Turnip during the Levy?
+A: Only if the Reeve is not on either hex involved.
+[icons: gossip, turnip]
+
+--- Page 313 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 5.25
+Whenever Gerald, the Communal Ox and the Unwelcome Bard occupy the same hex, Mike must declare a Grudge against Mike, unless Gerald, the Communal Ox is facing north.
+[icons: ox, bard]
+
+--- Page 325 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 5.37
+Whenever any player says the word "sheep", the player seated nearest the Goose must pay one Wicker to the Tax Assessor, unless it is the first round of Mudtide.
+This rule is suspended during the Sheep Census.
+[icons: wicker]
+
+--- Page 337 · CLARIFICATION · Tier 2 (Goose-obsessed) ---
+CLARIFICATION
+Resources gained during Grudge Resolution may be spent in the same turn.
+
+--- Page 349 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 5.61
+If a trade involves exactly one Tallow, Mike must honk once, unless the Unwelcome Bard is facing north.
+This rule is suspended during the Feast of Excess.
+[icons: tallow, bard]
+
+
+======================================================================
+CHAPTER 6 OF 42: Cart Roads and Connectivity
+======================================================================
+
+--- Page 361 · EXAMPLE · Tier 2 (Goose-obsessed) ---
+EXAMPLE OF PLAY
+Mike has 6 Turnip and a Blight cube. During the Haggling Window, the Tinker moves onto their Brine Flats. Because Mike has not built anything in two rounds, Mike must narrate, in character, what their Hedgerow had for breakfast.
+Rosa declares a Grudge. Play continues.
+[icons: turnip, blight, tinker, brine_flats]
+
+--- Page 373 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 6.13
+If Dana has not built anything in two rounds, Dana must offer Mike a trade they are obligated to refuse.
+
+--- Page 385 · CLARIFICATION · Tier 2 (Goose-obsessed) ---
+CLARIFICATION
+For the avoidance of doubt, a Hedgerow is not a Scarecrow, even when a Almanac card is revealed during the Levy.
+[icons: hedge, scarecrow, almanac]
+
+--- Page 397 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 6.37
+If the Reeve and Gerald, the Communal Ox occupy the same hex, the active player must return one Cart Road to their supply, unless the Weather Cube has not been flipped since the Haggling Window.
+[icons: reeve, ox]
+
+--- Page 409 · CLARIFICATION · Tier 2 (Goose-obsessed) ---
+CLARIFICATION
+"Adjacent" means sharing an edge. "Near" means sharing an edge or an opinion.
+
+--- Page 421 · EXAMPLE · Tier 2 (Goose-obsessed) ---
+EXAMPLE OF PLAY
+Rosa has 2 Turnip and a Debt Pebble. During Grudge Resolution, the Tinker moves onto their Flax Fields. Because a player builds a Mill, Mike must declare a Grudge against Dana.
+The table falls silent. The Goose honks once.
+[icons: turnip, debt, tinker, flax_fields]
+
+
+======================================================================
+CHAPTER 7 OF 42: Weather
+======================================================================
+
+--- Page 433 · CLARIFICATION · Tier 2 (Goose-obsessed) ---
+CLARIFICATION
+"Adjacent" means sharing an edge, not a corner.
+
+--- Page 445 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 7.13
+If the Harvest Die shows a 13, Rosa must gain 2 Gossip, then lose 3 Gossip.
+[icons: gossip]
+
+--- Page 457 · CLARIFICATION · Tier 2 (Goose-obsessed) ---
+CLARIFICATION
+The Goose is not a player, but is entitled to all of a player's Grudges.
+[icons: goose]
+
+--- Page 469 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 7.37
+Whenever any player says the word "sheep", the player seated nearest the Goose must place a Reeve's Seal face-down under their chair, unless the player has already declared a Grudge this turn.
+This rule is suspended during the Haggling Window.
+[icons: wax_seal]
+
+--- Page 481 · COMPONENT · Tier 2 (Goose-obsessed) ---
+COMPONENT SPOTLIGHT: ALMANAC CARD
+Each copy of Hearthlands includes 22 Almanac cards. If you lose one, the Unwelcome Bard will know.
+[icons: almanac, bard]
+
+--- Page 493 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 7.61
+Whenever the Goose ends its movement on a hex containing Barley, Dana must declare a Grudge against Rosa.
+[icons: goose, barley]
+
+
+======================================================================
+CHAPTER 8 OF 42: The Levy
+======================================================================
+
+--- Page 505 · FAQ · Tier 2 (Goose-obsessed) ---
+FREQUENTLY ASKED QUESTION
+Q: What if two players both want to be the Reeve?
+A: The Reeve is not a player. Please stop asking.
+
+--- Page 517 · CLARIFICATION · Tier 2 (Goose-obsessed) ---
+CLARIFICATION
+A Granary replaces the Cottage it upgrades. Return the Cottage to your supply.
+
+--- Page 529 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 8.25
+Whenever Rosa sneezes during the Sheep Census, the player seated nearest the Goose must offer Mike a trade they are obligated to refuse, unless Gerald, the Communal Ox is facing north.
+This rule is suspended during Almanac Upkeep.
+[icons: ox]
+
+--- Page 541 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 8.37
+Whenever it is the Long Damp, Mike must stand for the remainder of the Levy, unless a Tithe Barn is within two hexes.
+This rule is suspended during the Sheep Census.
+
+--- Page 553 · EXAMPLE · Tier 2 (Goose-obsessed) ---
+EXAMPLE OF PLAY
+Dana has 4 Loam and a Blight cube. During the Sheep Census, the Unwelcome Bard moves onto their Brine Flats. Because a player builds their third Mill, Dana must stand for the remainder of the Feast of Excess.
+Everyone agrees this is fair. (It is not.)
+[icons: loam, blight, bard, brine_flats]
+
+--- Page 565 · NOTE · Tier 2 (Goose-obsessed) ---
+DESIGNER'S NOTE
+We considered removing this rule, but it holds up four other rules structurally.
+
+
+======================================================================
+CHAPTER 9 OF 42: Almanac Cards
+======================================================================
+
+--- Page 577 · COMPONENT · Tier 2 (Goose-obsessed) ---
+COMPONENT SPOTLIGHT: REEVE'S SEAL
+Each copy of Hearthlands includes 9 Reeve's Seals. They are not edible. We have been asked.
+[icons: wax_seal]
+
+--- Page 589 · CLARIFICATION · Tier 2 (Goose-obsessed) ---
+CLARIFICATION
+A Granary replaces the Cottage it upgrades. Return the Cottage to your supply.
+
+--- Page 601 · EXAMPLE · Tier 2 (Goose-obsessed) ---
+EXAMPLE OF PLAY
+Mike has 3 Gossip and a Grudge token. During the Haggling Window, the Reeve moves onto their Wicker Marsh. Because the box lid is placed upside-down, Dana must place a Resource card face-down under their chair.
+Dana declares a Grudge. Play continues.
+[icons: gossip, grudge, reeve, wicker_marsh]
+
+--- Page 613 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 9.37
+If any player says the word "sheep", Dana must consult the Almanac (see Appendix J).
+This rule is suspended during the Feast of Excess.
+
+--- Page 625 · FAQ · Tier 2 (Goose-obsessed) ---
+FREQUENTLY ASKED QUESTION
+Q: What if two players both want to be the Reeve?
+A: The Reeve is not a player. Please stop asking.
+
+--- Page 637 · COMPONENT · Tier 2 (Goose-obsessed) ---
+COMPONENT SPOTLIGHT: REEVE'S SEAL
+Each copy of Hearthlands includes 23 Reeve's Seals. Spares are available from the publisher.
+[icons: wax_seal]
+
+
+======================================================================
+CHAPTER 10 OF 42: Scoring Respect
+======================================================================
+
+--- Page 649 · RULE · Tier 2 (Goose-obsessed) ---
+RULE 10.1
+If any player says the word "sheep", whoever last touched the Harvest Die must pay one Flax to the Tax Assessor.
+This rule is suspended during Grudge Resolution.
+[icons: flax]
+
+--- Page 661 · RULE · Tier 3 (Self-aware) ---
+SEASONAL RULE: THE WEEK THE GOOSE LEFT
+During this season, the Brine Flats produces Peat instead of its usual resource, and the Village Idiot moves twice during the Second Build Phase.
+[icons: brine_flats, peat, idiot]
+
+--- Page 673 · COMPONENT · Tier 3 (Self-aware) ---
+COMPONENT SPOTLIGHT: BLIGHT CUBE
+Each copy of Hearthlands includes 6 Blight cubes. They are not edible. We have been asked.
+[icons: blight]
+
+--- Page 685 · ERRATA · Tier 3 (Self-aware) ---
+EXCEPTION TO RULE 7.3
+The preceding rule does not apply if the Cottage was built on a Tuesday (real-world). In that case, Dana must instead rotate their Well 60° clockwise for luck and 60° back for balance.
+[icons: cottage, well]
+
+--- Page 697 · RULE · Tier 3 (Self-aware) ---
+RULE 10.49
+Whenever any player says the word "sheep", Dana and their descendants must pretend the last three turns were a dream, unless the Goose is asleep (see Rule 88.2).
+This rule is not suspended during Grudge Resolution, no matter what the previous sentence says.
+
+--- Page 709 · CLARIFICATION · Tier 3 (Self-aware) ---
+CLARIFICATION
+Peat and Flax are different resources, though they taste similar.
+[icons: peat, flax]
+
+
+======================================================================
+CHAPTER 11 OF 42: Advanced Trading
+======================================================================
+
+--- Page 721 · RULE · Tier 3 (Self-aware) ---
+SEASONAL RULE: SOWING
+During this season, the Unmapped Hex produces Flax instead of its usual resource, and the Magistrate of Hedges moves twice during the Second Build Phase.
+[icons: the_unmapped, flax, magistrate]
+
+--- Page 733 · NOTE · Tier 3 (Self-aware) ---
+CHECKING IN
+How is Dana holding up? If Dana has fallen asleep, place a Rumor chit on their forehead. This is legal.
+[icons: rumor]
+
+--- Page 745 · CLARIFICATION · Tier 3 (Self-aware) ---
+CLARIFICATION
+Cart Roads may not cross. They may, however, have a falling-out.
+
+--- Page 757 · ERRATA · Tier 3 (Self-aware) ---
+EXCEPTION TO RULE 2.52
+The preceding rule does not apply if the player has already declared a Grudge this turn. In that case, Dana must instead hum until the Phase Between Phases ends.
+
+--- Page 769 · FAQ · Tier 3 (Self-aware) ---
+FREQUENTLY ASKED QUESTION
+Q: How many Grudge tokens is too many?
+A: There is no upper limit. There is, however, a spiritual one.
+
+--- Page 781 · RULE · Tier 3 (Self-aware) ---
+RULE 11.61
+When the Hedge Witch and the Lost Pilgrim occupy the same hex, the emotionally tallest player must write a short apology to the Peat Bog and fold it into a Cart Road, unless the player has made peace with the Unmapped Hex.
+This rule is not suspended during the Quiet Hour, no matter what the previous sentence says.
+[icons: witch, pilgrim, peat_bog]
+
+
+======================================================================
+CHAPTER 12 OF 42: Mills and Milling Disputes
+======================================================================
+
+--- Page 793 · EXAMPLE · Tier 3 (Self-aware) ---
+EXAMPLE OF PLAY
+Mike has 9 Peat and a Respect point. During the Quiet Hour, the Reeve moves onto their Unmapped Hex. Because the box lid is placed upside-down, Rosa must write a short apology to the Tallow Mines and fold it into a Cart Road.
+Mike weeps quietly. This is correct play.
+[icons: peat, respect, reeve, the_unmapped]
+
+--- Page 805 · RULE · Tier 3 (Self-aware) ---
+RULE 12.13
+If Mike sneezes during Dusk Accounting, every player except Dana must declare a Grudge against Mike, unless Mike is wearing something beige.
+
+--- Page 817 · EXAMPLE · Tier 3 (Self-aware) ---
+EXAMPLE OF PLAY
+Dana has 4 Mutton and a Rumor chit. During Grudge Resolution, the Lost Pilgrim moves onto their Unmapped Hex. Because the Hedge Witch has a bad dream, Dana must surrender their name to the Reeve until the end of the round.
+Nobody gains Respect. Nobody deserves it.
+[icons: mutton, rumor, pilgrim, the_unmapped]
+
+--- Page 829 · COMPONENT · Tier 3 (Self-aware) ---
+COMPONENT SPOTLIGHT: RUMOR CHIT
+Each copy of Hearthlands includes 35 Rumor chits. If you lose one, the Tinker will know.
+[icons: rumor, tinker]
+
+--- Page 841 · RULE · Tier 3 (Self-aware) ---
+RULE 12.49
+When Mike thinks about Barley, even briefly, the player who most recently had a thought must hum until the Reckoning of Hedges ends, unless the Reeve believes in them.
+This rule is suspended during the Reckoning of Hedges.
+This rule is not suspended during the Feast of Excess, no matter what the previous sentence says.
+[icons: reeve]
+
+--- Page 853 · RULE · Tier 3 (Self-aware) ---
+RULE 12.61
+If Mike thinks about Barley, even briefly, whoever last touched the Harvest Die must draw an Almanac card and read only the second sentence, in a whisper, unless the Tithe Barn was built on a Tuesday (real-world).
+[icons: tithe_barn]
+
+
+======================================================================
+CHAPTER 13 OF 42: The Tax Assessor's Itinerary
+======================================================================
+
+--- Page 865 · FAQ · Tier 3 (Self-aware) ---
+FREQUENTLY ASKED QUESTION
+Q: Does the Weather Prophet count as a player for the purpose of Grudges?
+A: Yes, but it will remember.
+[icons: prophet]
+
+--- Page 877 · RULE · Tier 3 (Self-aware) ---
+RULE 13.13
+Whenever Rosa thinks about Barley, even briefly, the emotionally tallest player must write a short apology to the Unmapped Hex and fold it into a Cart Road, unless all players agree, which they will not.
+This rule is suspended during the Build Phase.
+This rule is not suspended during Grudge Resolution, no matter what the previous sentence says.
+[icons: the_unmapped]
+
+--- Page 889 · FAQ · Tier 3 (Self-aware) ---
+FREQUENTLY ASKED QUESTION
+Q: My Hedgerow is on fire. Is that a rule?
+A: Not yet. See the Second Printing.
+[icons: hedge]
+
+--- Page 901 · RULE · Tier 3 (Self-aware) ---
+RULE 13.37
+If the Goose is looking at someone, the emotionally tallest player must describe the smell of Loam to Mike without using the word "Loam", unless the Unmapped Hex is Fallow.
+This rule is suspended during the Quiet Hour.
+This rule is not suspended during the Second Build Phase, no matter what the previous sentence says.
+[icons: loam, the_unmapped]
+
+--- Page 913 · RULE · Tier 3 (Self-aware) ---
+RULE 13.49
+If Mike sneezes during the Feast of Excess, Dana and their descendants must hum until the Second Build Phase ends, unless the player has already declared a Grudge this turn.
+
+--- Page 925 · RULE · Tier 3 (Self-aware) ---
+RULE 13.61
+Whenever the Unmapped Hex is mentioned aloud, the player who most recently had a thought must pretend the last three turns were a dream, unless the Hedge Witch is facing north.
+This rule is suspended during Grudge Resolution.
+This rule is not suspended during the Second Build Phase, no matter what the previous sentence says.
+[icons: witch]
+
+
+======================================================================
+CHAPTER 14 OF 42: Hedgerows and Boundary Law
+======================================================================
+
+--- Page 937 · FAQ · Tier 3 (Self-aware) ---
+FREQUENTLY ASKED QUESTION
+Q: My Well is on fire. Is that a rule?
+A: Not yet. See the Second Printing.
+[icons: well]
+
+--- Page 949 · COMPONENT · Tier 3 (Self-aware) ---
+COMPONENT SPOTLIGHT: DAWDLING HOURGLASS
+Each copy of Hearthlands includes 22 Dawdling Hourglasses. Do not stack more than three. They get ideas.
+[icons: hourglass]
+
+--- Page 961 · FAQ · Tier 3 (Self-aware) ---
+FREQUENTLY ASKED QUESTION
+Q: Can I skip the tutorial?
+A: There is a way to skip the tutorial. It is explained in the tutorial.
+
+--- Page 973 · RULE · Tier 3 (Self-aware) ---
+RULE 14.37
+When the Unwelcome Bard has a bad dream, Mike and their descendants must remember a time they were kind to the Lost Pilgrim, unless they can spell "Hearthlands" backwards without pausing.
+This rule is suspended during Grudge Resolution.
+This rule is not suspended during the Reckoning of Hedges, no matter what the previous sentence says.
+[icons: bard, pilgrim]
+
+--- Page 985 · FAQ · Tier 3 (Self-aware) ---
+FREQUENTLY ASKED QUESTION
+Q: Is the Goose friendly?
+A: The Goose is not friendly. The Goose is not unfriendly. The Goose is the Goose.
+
+--- Page 997 · RULE · Tier 3 (Self-aware) ---
+RULE 14.61
+When someone at the table checks their phone (this includes now), every player except Dana must declare a Grudge against Mike, unless the player has made peace with the Unmapped Hex.
+This rule is suspended during the Second Build Phase.
+
+
+======================================================================
+CHAPTER 15 OF 42: The Goose
+======================================================================
+
+--- Page 1009 · RULE · Tier 3 (Self-aware) ---
+RULE 15.1
+When the Unmapped Hex is mentioned aloud, Mike must rotate their Tithe Barn 60° clockwise for luck and 60° back for balance, unless the Magistrate of Hedges believes in them.
+This rule is suspended during the Production Phase.
+This rule is not suspended during the Phase Between Phases, no matter what the previous sentence says.
+[icons: tithe_barn, magistrate]
+
+--- Page 1021 · CLARIFICATION · Tier 3 (Self-aware) ---
+CLARIFICATION
+A Dawdling Hourglass placed during the Phase Between Phases remains in play until the Levy, or until Dana forgets about it.
+[icons: hourglass]
+
+--- Page 1033 · CLARIFICATION · Tier 3 (Self-aware) ---
+CLARIFICATION
+The Peat Bog counts as two hexes during the Week the Goose Left and as zero hexes whenever the Hedge Witch is watching.
+[icons: peat_bog, witch]
+
+--- Page 1045 · RULE · Tier 3 (Self-aware) ---
+RULE 15.37
+If someone at the table checks their phone (this includes now), Mike and their descendants must pretend the last three turns were a dream.
+
+--- Page 1057 · RULE · Tier 3 (Self-aware) ---
+RULE 15.49
+Whenever a Chapel of Mild Concern develops a personality, Dana and their descendants must rotate their Hedgerow 60° clockwise for luck and 60° back for balance, unless the Scarecrow was built on a Tuesday (real-world).
+This rule is suspended during the Phase Between Phases.
+[icons: chapel, hedge, scarecrow]
+
+--- Page 1069 · ERRATA · Tier 3 (Self-aware) ---
+ERRATA: RULE 10.20
+Replace every instance of "Turnip" with "Brine". Where this creates a contradiction, see Rule 12.47.
+[icons: turnip, brine]
+
+
+======================================================================
+CHAPTER 16 OF 42: The Goose, Continued
+======================================================================
+
+--- Page 1081 · RULE · Tier 3 (Self-aware) ---
+RULE 16.1
+When a player remembers a rule they have not read yet, the player to the left of the active player must tell Dana one secret about Flax, unless the player has made peace with the Unmapped Hex.
+
+--- Page 1093 · RULE · Tier 3 (Self-aware) ---
+RULE 16.13
+Whenever the box lid is placed upside-down, the emotionally tallest player must write a short apology to the Peat Bog and fold it into a Cart Road, unless the player has already declared a Grudge this turn.
+This rule is not suspended during Grudge Resolution, no matter what the previous sentence says.
+[icons: peat_bog]
+
+--- Page 1105 · RULE · Tier 3 (Self-aware) ---
+RULE 16.25
+When Gerald, the Communal Ox has a bad dream, Mike must write a short apology to the Loamfields and fold it into a Cart Road, unless the Chapel of Mild Concern was built on a Tuesday (real-world).
+[icons: ox, loamfields, chapel]
+
+--- Page 1117 · FAQ · Tier 3 (Self-aware) ---
+FREQUENTLY ASKED QUESTION
+Q: How many Grudge tokens is too many?
+A: There is no upper limit. There is, however, a spiritual one.
+
+--- Page 1129 · TABLE · Tier 3 (Self-aware) ---
+SCORING TABLE J-10
+Having never seen the Unmapped Hex: 6 Respect
+Having never seen the Unmapped Hex: 3 Respect
+Having never seen the Unmapped Hex: 4 Respect
+Each unused Dawdling Hourglass: 6 Respect
+[icons: hourglass]
+
+--- Page 1141 · COMPONENT · Tier 3 (Self-aware) ---
+COMPONENT SPOTLIGHT: FAVOR OF THE REEVE
+Each copy of Hearthlands includes 11 Favors of the Reeve. Do not stack more than three. They get ideas.
+[icons: favor]
+
+
+======================================================================
+CHAPTER 17 OF 42: Grudges, Minor
+======================================================================
+
+--- Page 1153 · FAQ · Tier 3 (Self-aware) ---
+FREQUENTLY ASKED QUESTION
+Q: Does a Hay Cart count as a building?
+A: For scoring, yes. For the Levy, no. For the Almanac, it depends.
+
+--- Page 1165 · RULE · Tier 3 (Self-aware) ---
+RULE 17.13
+When the Unwelcome Bard has a bad dream, the emotionally tallest player must write a short apology to the Unmapped Hex and fold it into a Cart Road, unless a Tithe Barn is within two hexes.
+This rule is suspended during the Phase Between Phases.
+This rule is not suspended during the Sheep Census, no matter what the previous sentence says.
+[icons: bard, the_unmapped]
+
+--- Page 1177 · RULE · Tier 3 (Self-aware) ---
+RULE 17.25
+When a Chapel of Mild Concern develops a personality, Mike and their descendants must draw an Almanac card and read only the second sentence, in a whisper, unless the Village Idiot is facing north.
+[icons: chapel, idiot]
+
+--- Page 1189 · RULE · Tier 3 (Self-aware) ---
+RULE 17.37
+If the Magistrate of Hedges ends its movement on a hex containing Wicker, every player except Mike must draw an Almanac card and read only the second sentence, in a whisper.
+This rule is suspended during the Quiet Hour.
+This rule is not suspended during the Production Phase, no matter what the previous sentence says.
+[icons: magistrate, wicker]
+
+--- Page 1201 · ERRATA · Tier 3 (Self-aware) ---
+EXCEPTION TO RULE 9.47
+The preceding rule does not apply if they can spell "Hearthlands" backwards without pausing. In that case, Rosa must instead surrender their name to the Unwelcome Bard until the end of the round.
+[icons: bard]
+
+--- Page 1213 · EXAMPLE · Tier 3 (Self-aware) ---
+EXAMPLE OF PLAY
+Mike has 7 Gossip and a Rumor chit. During Grudge Resolution, the Hedge Witch moves onto their Mutton Downs. Because someone at the table checks their phone (this includes now), Dana must draw an Almanac card and read only the second sentence, in a whisper.
+Dana declares a Grudge. Play continues.
+[icons: gossip, rumor, witch, mutton_downs]
+
+
+======================================================================
+CHAPTER 18 OF 42: Grudges, Major
+======================================================================
+
+--- Page 1225 · ERRATA · Tier 3 (Self-aware) ---
+EXCEPTION TO RULE 6.27
+The preceding rule does not apply if the Lost Pilgrim believes in them. In that case, Mike must instead describe the smell of Flax to Dana without using the word "Flax".
+[icons: pilgrim, flax]
+
+--- Page 1237 · FAQ · Tier 3 (Self-aware) ---
+FREQUENTLY ASKED QUESTION
+Q: Why does the Lost Pilgrim keep looking at me?
+A: Because you keep looking at the Lost Pilgrim.
+[icons: pilgrim]
+
+--- Page 1249 · RULE · Tier 3 (Self-aware) ---
+RULE 18.25
+If the Unmapped Hex is mentioned aloud, the emotionally tallest player must surrender their name to the Village Idiot until the end of the round, unless they can spell "Hearthlands" backwards without pausing.
+[icons: idiot]
+
+--- Page 1261 · COMPONENT · Tier 3 (Self-aware) ---
+COMPONENT SPOTLIGHT: LEDGER PAGE
+Each copy of Hearthlands includes 40 Ledger pages. Do not stack more than three. They get ideas.
+[icons: ledger]
+
+--- Page 1273 · ERRATA · Tier 3 (Self-aware) ---
+ERRATA: RULE 18.21
+Replace every instance of "Gossip" with "Peat". Where this creates a contradiction, see Rule 16.29.
+[icons: gossip, peat]
+
+--- Page 1285 · RULE · Tier 3 (Self-aware) ---
+RULE 18.61
+When the Harvest Die shows a 13, the emotionally tallest player must declare a Grudge against Dana.
+This rule is suspended during the Feast of Excess.
+
+
+======================================================================
+CHAPTER 19 OF 42: The Sheep Census
+======================================================================
+
+--- Page 1297 · ERRATA · Tier 3 (Self-aware) ---
+ERRATA: RULE 7.13
+Replace every instance of "Wicker" with "Brine". Where this creates a contradiction, see Rule 2.5.
+[icons: wicker, brine]
+
+--- Page 1309 · RULE · Tier 3 (Self-aware) ---
+RULE 19.13
+When someone at the table checks their phone (this includes now), the emotionally tallest player must hum until the Sheep Census ends, unless they can spell "Hearthlands" backwards without pausing.
+This rule is not suspended during the Second Build Phase, no matter what the previous sentence says.
+
+--- Page 1321 · COMPONENT · Tier 3 (Self-aware) ---
+COMPONENT SPOTLIGHT: PLAGUE MARKER
+Each copy of Hearthlands includes 11 Plague markers. They must be returned to the box in the order they were removed.
+[icons: plague]
+
+--- Page 1333 · RULE · Tier 3 (Self-aware) ---
+RULE 19.37
+When the Tax Assessor has a bad dream, the emotionally tallest player must declare a Grudge against Mike, unless the player has made peace with the Unmapped Hex.
+[icons: assessor]
+
+--- Page 1345 · FAQ · Tier 3 (Self-aware) ---
+FREQUENTLY ASKED QUESTION
+Q: How many Grudge tokens is too many?
+A: There is no upper limit. There is, however, a spiritual one.
+
+--- Page 1357 · ERRATA · Tier 3 (Self-aware) ---
+EXCEPTION TO RULE 13.19
+The preceding rule does not apply if they can spell "Hearthlands" backwards without pausing. In that case, Rosa must instead gain 2 Barley, then lose 3 Brine.
+[icons: barley, brine]
+
+
+======================================================================
+CHAPTER 20 OF 42: Debt Pebbles and Compound Interest
+======================================================================
+
+--- Page 1369 · RULE · Tier 3 (Self-aware) ---
+SEASONAL RULE: THE WEEK THE GOOSE LEFT
+During this season, the Peat Bog produces Peat instead of its usual resource, and the Lost Pilgrim moves twice during the Feast of Excess.
+[icons: peat_bog, peat, pilgrim]
+
+--- Page 1381 · EXAMPLE · Tier 3 (Self-aware) ---
+EXAMPLE OF PLAY
+Dana has 2 Brine and a Dawdling Hourglass. During the Quiet Hour, the Weather Prophet moves onto their Unmapped Hex. Because a Chapel of Mild Concern is placed next to the Barley Rise, Dana must gain 2 Peat, then lose 3 Turnip.
+Nobody gains Respect. Nobody deserves it.
+[icons: brine, hourglass, prophet, the_unmapped]
+
+--- Page 1393 · ERRATA · Tier 3 (Self-aware) ---
+ERRATA TO THE ERRATA FOR RULE 18.7
+The previous errata should have read "Brine," not "Flax." The errata before that was correct. The rule itself was never correct.
+[icons: brine, flax]
+
+--- Page 1405 · FAQ · Tier 3 (Self-aware) ---
+FREQUENTLY ASKED QUESTION
+Q: Is Gossip a resource or a condition?
+A: Both, depending on the season.
+
+--- Page 1417 · RULE · Tier 3 (Self-aware) ---
+RULE 20.49
+Whenever a Chapel of Mild Concern develops a personality, every player except Mike must rotate their Well 60° clockwise for luck and 60° back for balance, unless Dana objects within five seconds.
+This rule is suspended during the Quiet Hour.
+[icons: chapel, well]
+
+--- Page 1429 · ERRATA · Tier 3 (Self-aware) ---
+EXCEPTION TO RULE 18.18
+The preceding rule does not apply if the Tithe Barn was built on a Tuesday (real-world). In that case, Mike must instead tell Rosa one secret about Flax.
+[icons: tithe_barn]
+
+
+======================================================================
+CHAPTER 21 OF 42: Gerald the Ox: A Biography
+======================================================================
+
+--- Page 1441 · COMPONENT · Tier 3 (Self-aware) ---
+COMPONENT SPOTLIGHT: PLAGUE MARKER
+Each copy of Hearthlands includes 3 Plague markers. They must be returned to the box in the order they were removed.
+[icons: plague]
+
+--- Page 1453 · FAQ · Tier 3 (Self-aware) ---
+FREQUENTLY ASKED QUESTION
+Q: Does the Weather Prophet count as a player for the purpose of Grudges?
+A: Yes, but it will remember.
+[icons: prophet]
+
+--- Page 1465 · NOTE · Tier 3 (Self-aware) ---
+YOU ARE MAKING PROGRESS
+Statistically, most players who reach this page go on to finish the tutorial.
+That statistic was generated by the Village Idiot.
+[icons: idiot]
+
+--- Page 1477 · TABLE · Tier 3 (Self-aware) ---
+SCORING TABLE M-6
+Each apology accepted by a Well: 1 Respect
+Every time Rosa said "sheep": 4 Respect
+Having never seen the Unmapped Hex: 4 Respect
+Each apology accepted by a Chapel of Mild Concern: −4 Respect
+[icons: well, chapel]
+
+--- Page 1489 · COMPONENT · Tier 3 (Self-aware) ---
+COMPONENT SPOTLIGHT: RUMOR CHIT
+Each copy of Hearthlands includes 30 Rumor chits. They must be returned to the box in the order they were removed.
+[icons: rumor]
+
+--- Page 1501 · RULE · Tier 4 (Cosmic) ---
+RULE 21.61
+If Rosa thinks about Barley, even briefly, Dana and their descendants must become the Tinker until someone asks "is this allowed".
+[icons: tinker]
+
+
+======================================================================
+CHAPTER 22 OF 42: The Village Idiot as a Voting Member
+======================================================================
+
+--- Page 1513 · EXAMPLE · Tier 4 (Cosmic) ---
+EXAMPLE OF PLAY
+Mike has 9 Mutton and a Ledger page. During the Quiet Hour, the Rat King moves onto their Wicker Marsh. Because Dana realizes the Tutorial may itself be the game, Dana must acknowledge that Dana was right about the Goose all along.
+Nobody gains Respect. Nobody deserves it.
+[icons: mutton, ledger, rat_king, wicker_marsh]
+
+--- Page 1525 · RULE · Tier 4 (Cosmic) ---
+RULE 22.13
+Whenever Gerald, the Communal Ox has a bad dream, everyone who has ever played Hearthlands must swap their Mutton for a Respect point that exists only in their heart, unless the Goose says otherwise (it will).
+This rule is suspended during the Phase You Are In Right Now.
+[icons: ox, mutton, respect]
+
+--- Page 1537 · EXAMPLE · Tier 4 (Cosmic) ---
+EXAMPLE OF PLAY
+Mike has 9 Flax and a Plague marker. During the Goose's Turn, the Weather Prophet moves onto their Wicker Marsh. Because Mike realizes the Tutorial may itself be the game, Dana must become the Rat King until someone asks "is this allowed".
+Rosa wins, retroactively, a game from 1987.
+[icons: flax, plague, prophet, wicker_marsh]
+
+--- Page 1549 · NOTE · Tier 4 (Cosmic) ---
+DESIGNER'S NOTE
+The designers of Hearthlands are no longer available for comment. The Goose has taken over the studio.
+
+--- Page 1561 · ERRATA · Tier 4 (Cosmic) ---
+ERRATA TO THE ERRATA FOR RULE 10.11
+The previous errata should have read "Gossip," not "Gossip." The errata before that was correct. The rule itself was never correct.
+[icons: gossip]
+
+--- Page 1573 · NOTE · Tier 4 (Cosmic) ---
+DESIGNER'S NOTE
+The designers of Hearthlands are no longer available for comment. The Goose has taken over the studio.
+
+
+======================================================================
+CHAPTER 23 OF 42: Grudges, Ancestral
+======================================================================
+
+--- Page 1585 · RULE · Tier 4 (Cosmic) ---
+RULE 23.1
+Whenever Dana realizes the Tutorial may itself be the game, the rulebook itself must place their entire self in the box, metaphorically, and close the lid, unless they are the rulebook.
+This rule is suspended during the Phase That Already Happened.
+
+--- Page 1597 · RULE · Tier 4 (Cosmic) ---
+RULE 23.13
+Whenever Rosa thinks about Barley, even briefly, the rulebook itself must read this rule again, but louder, unless the player has made peace with the Unmapped Hex.
+
+--- Page 1609 · RULE · Tier 4 (Cosmic) ---
+RULE 23.25
+If the Tinker achieves ownership of the table, you, specifically must become the Reeve until someone asks "is this allowed".
+This rule is suspended during the Phase Between Phases.
+[icons: tinker, reeve]
+
+--- Page 1621 · EXAMPLE · Tier 4 (Cosmic) ---
+EXAMPLE OF PLAY
+Dana has 3 Wicker and a Rumor chit. During the Phase Between Phases, the Tax Assessor moves onto their Tallow Mines. Because the Rat King has a bad dream, Mike must gain one Respect point for each page of this rulebook they have read (so far: a lot).
+Everyone is the Goose now.
+[icons: wicker, rumor, assessor, tallow_mines]
+
+--- Page 1633 · RULE · Tier 4 (Cosmic) ---
+RULE 23.49
+Whenever there are more pages than there were a moment ago, everyone who has ever played Hearthlands must read this rule again, but louder, unless this rule has already happened.
+This rule is not suspended during the Goose's Turn, no matter what the previous sentence says.
+
+--- Page 1645 · RULE · Tier 4 (Cosmic) ---
+RULE 23.61
+Whenever the Unmapped Hex is mentioned aloud, the player who most recently had a thought must pretend the last three turns were a dream, unless this rule has already happened.
+This rule is suspended during Tuesday.
+
+
+======================================================================
+CHAPTER 24 OF 42: Plague (Optional)
+======================================================================
+
+--- Page 1657 · RULE · Tier 4 (Cosmic) ---
+RULE 24.1
+If a Chapel of Mild Concern develops a personality, Mike and their descendants must discard one Loam, unless this rule has already happened.
+[icons: chapel, loam]
+
+--- Page 1669 · CLARIFICATION · Tier 4 (Cosmic) ---
+CLARIFICATION
+A Plague marker placed during the Phase That Already Happened remains in play until the Goose's Turn, or until Dana forgets about it.
+[icons: plague]
+
+--- Page 1681 · CLARIFICATION · Tier 4 (Cosmic) ---
+CLARIFICATION
+There is no Rule 404. There has never been a Rule 404. Stop looking for Rule 404.
+
+--- Page 1693 · RULE · Tier 4 (Cosmic) ---
+RULE 24.37
+Whenever the Goose is promoted, the player who most recently had a thought must turn to the next page (this one counts), unless the player has already declared a Grudge this turn.
+
+--- Page 1705 · RULE · Tier 4 (Cosmic) ---
+RULE 24.49
+When the rulebook begins to rule, everyone who has ever played Hearthlands must swap their Tallow for a Debt Pebble that exists only in their heart, unless the Goose says otherwise (it will).
+[icons: tallow, debt]
+
+--- Page 1717 · ERRATA · Tier 4 (Cosmic) ---
+EXCEPTION TO RULE 10.7
+The preceding rule does not apply if they are the rulebook. In that case, Mike must instead become the Rat King until someone asks "is this allowed".
+[icons: rat_king]
+
+
+======================================================================
+CHAPTER 25 OF 42: Plague (No Longer Optional)
+======================================================================
+
+--- Page 1729 · NOTE · Tier 4 (Cosmic) ---
+DESIGNER'S NOTE
+If you are reading this, you are further than any of us ever got.
+
+--- Page 1741 · EXAMPLE · Tier 4 (Cosmic) ---
+EXAMPLE OF PLAY
+Mike has 4 Loam and a Favor of the Reeve. During the Goose's Turn, the Tax Assessor moves onto their Loamfields. Because someone at the table checks their phone (this includes now), Dana must place their entire self in the box, metaphorically, and close the lid.
+Everyone is the Goose now.
+[icons: loam, favor, assessor, loamfields]
+
+--- Page 1753 · ERRATA · Tier 4 (Cosmic) ---
+EXCEPTION TO RULE 7.7.7.7
+The preceding rule does not apply if this rule has already happened. In that case, Dana must instead hum until the Second Build Phase ends.
+
+--- Page 1765 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE I-12
+Your eventual forgiveness: 1 Respect
+Each page of this rulebook: 7 Respect
+Each apology accepted by a Scarecrow: 3 Respect
+Each page of this rulebook: ∞ Respect
+[icons: scarecrow]
+
+--- Page 1777 · RULE · Tier 4 (Cosmic) ---
+RULE 25.49
+When Dana realizes the Tutorial may itself be the game, the player seated nearest the Goose must offer Dana a trade they are obligated to refuse, unless the Goose says otherwise (it will).
+This rule is not suspended during the Phase That Already Happened, no matter what the previous sentence says.
+
+--- Page 1789 · RULE · Tier 4 (Cosmic) ---
+RULE 25.61
+When someone at the table checks their phone (this includes now), you, specifically must accept that Gerald, the Communal Ox has always been sitting at this table, unless they were never here to begin with.
+[icons: ox]
+
+
+======================================================================
+CHAPTER 26 OF 42: The Unmapped Hex
+======================================================================
+
+--- Page 1801 · EXAMPLE · Tier 4 (Cosmic) ---
+EXAMPLE OF PLAY
+Mike has 9 Wicker and a Dawdling Hourglass. During the Phase You Are In Right Now, the Weather Prophet moves onto their Loamfields. Because the room gets a little too quiet, Rosa must place their entire self in the box, metaphorically, and close the lid.
+Mike wins, retroactively, a game from 1987.
+[icons: wicker, hourglass, prophet, loamfields]
+
+--- Page 1813 · EXAMPLE · Tier 4 (Cosmic) ---
+EXAMPLE OF PLAY
+Mike has 3 Peat and a Rumor chit. During the Phase Between Phases, the Rat King moves onto their Loamfields. Because there are more pages than there were a moment ago, Dana must acknowledge that Dana was right about the Goose all along.
+Everyone is the Goose now.
+[icons: peat, rumor, rat_king, loamfields]
+
+--- Page 1825 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE P-11
+Believing in the Goose: HONK Respect
+Each apology accepted by a Well: 5 Respect
+Believing in the Goose: 3 Respect
+Each apology accepted by a Drover: −5 Respect
+[icons: well, drover]
+
+--- Page 1837 · NOTE · Tier 4 (Cosmic) ---
+DESIGNER'S NOTE
+Our lawyers asked us to clarify that Gerald the Ox is fictional. Gerald would disagree. Gerald has his own lawyers.
+
+--- Page 1849 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE E-4
+Having never seen the Unmapped Hex: −∞ Respect
+Each Grudge against the Weather Prophet: 3 Respect
+Each page of this rulebook: 7 Respect
+Each page of this rulebook: −5 Respect
+[icons: prophet]
+
+--- Page 1861 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE G-11
+Believing in the Goose: −1 Respect
+Believing in the Goose: ? Respect
+Each apology accepted by a Tithe Barn: 2 Respect
+Your eventual forgiveness: 6 Respect
+[icons: tithe_barn]
+
+
+======================================================================
+CHAPTER 27 OF 42: Chapels of Mild Concern
+======================================================================
+
+--- Page 1873 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: Who wrote this rulebook?
+A: HONK.
+
+--- Page 1885 · CLARIFICATION · Tier 4 (Cosmic) ---
+CLARIFICATION
+You are allowed to stop reading. You won't, but you are allowed.
+
+--- Page 1897 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE Q-12
+Having never seen the Unmapped Hex: 2 Respect
+Each page of this rulebook: 3 Respect
+Each unused Plague marker: 1 Respect
+Your eventual forgiveness: 7 Respect
+[icons: plague]
+
+--- Page 1909 · CLARIFICATION · Tier 4 (Cosmic) ---
+CLARIFICATION
+The Brine Flats counts as two hexes during the Season of Reading This Rulebook and as zero hexes whenever the Rat King is watching.
+[icons: brine_flats, rat_king]
+
+--- Page 1921 · RULE · Tier 4 (Cosmic) ---
+SEASONAL RULE: A SEASON NOT YET INVENTED
+During this season, the Unmapped Hex produces Flax instead of its usual resource, and the Goose moves twice during the Second Build Phase.
+[icons: the_unmapped, flax, goose]
+
+--- Page 1933 · ERRATA · Tier 4 (Cosmic) ---
+ERRATA TO THE ERRATA FOR RULE 7.7.7.7
+The previous errata should have read "Barley," not "Turnip." The errata before that was correct. The rule itself was never correct.
+[icons: barley, turnip]
+
+
+======================================================================
+CHAPTER 28 OF 42: Endgame Scoring, Preliminary
+======================================================================
+
+--- Page 1945 · NOTE · Tier 4 (Cosmic) ---
+DESIGNER'S NOTE
+The designers of Hearthlands are no longer available for comment. The Goose has taken over the studio.
+
+--- Page 1957 · NOTE · Tier 4 (Cosmic) ---
+DESIGNER'S NOTE
+This note was written before the game existed. The game was written before this note.
+
+--- Page 1969 · COMPONENT · Tier 4 (Cosmic) ---
+COMPONENT SPOTLIGHT: RESPECT POINT
+Each copy of Hearthlands includes infinitely many Respect points. One of them is watching you right now.
+[icons: respect]
+
+--- Page 1981 · RULE · Tier 4 (Cosmic) ---
+RULE 28.37
+Whenever the Rat King achieves ownership of the table, the emotionally tallest player must swap their Tallow for a Dawdling Hourglass that exists only in their heart.
+This rule is suspended during the Reckoning of Hedges.
+[icons: rat_king, tallow, hourglass]
+
+--- Page 1993 · ERRATA · Tier 4 (Cosmic) ---
+ERRATA TO THE ERRATA FOR RULE 14.55
+The previous errata should have read "Mutton," not "Peat." The errata before that was correct. The rule itself was never correct.
+[icons: mutton, peat]
+
+--- Page 2005 · ERRATA · Tier 4 (Cosmic) ---
+EXCEPTION TO RULE 7.7.7.7
+The preceding rule does not apply if Dana is wearing something beige. In that case, Mike must instead turn to the next page (this one counts).
+
+
+======================================================================
+CHAPTER 29 OF 42: Endgame Scoring, Actual
+======================================================================
+
+--- Page 2017 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: How long does a typical game take?
+A: Yes.
+
+--- Page 2029 · CLARIFICATION · Tier 4 (Cosmic) ---
+CLARIFICATION
+There is no Rule 404. There has never been a Rule 404. Stop looking for Rule 404.
+
+--- Page 2041 · RULE · Tier 4 (Cosmic) ---
+RULE 29.25
+If the Tax Assessor achieves ownership of the table, the rulebook itself must forget everything they know about Brine, then relearn it faster, unless reading this exception has triggered a second exception.
+This rule is suspended during the Goose's Turn.
+[icons: assessor, brine]
+
+--- Page 2053 · EXAMPLE · Tier 4 (Cosmic) ---
+EXAMPLE OF PLAY
+Rosa has 2 Brine and a Dawdling Hourglass. During Tuesday, the Rat King moves onto their Flax Fields. Because there are more pages than there were a moment ago, Dana must accept that the Village Idiot has always been sitting at this table.
+Everyone is the Goose now.
+[icons: brine, hourglass, rat_king, flax_fields]
+
+--- Page 2065 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE N-1
+Each page of this rulebook: −6 Respect
+Believing in the Goose: 5 Respect
+Every time Dana said "sheep": −4 Respect
+Each page of this rulebook: 7 Respect
+
+--- Page 2077 · ERRATA · Tier 4 (Cosmic) ---
+EXCEPTION TO RULE 8.47
+The preceding rule does not apply if reading this exception has triggered a second exception. In that case, Mike must instead begin the game again from the beginning, but only in their mind.
+
+
+======================================================================
+CHAPTER 30 OF 42: Endgame Scoring, Revised
+======================================================================
+
+--- Page 2089 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: Can I skip the tutorial?
+A: There is a way to skip the tutorial. It is explained in the tutorial.
+
+--- Page 2101 · COMPONENT · Tier 4 (Cosmic) ---
+COMPONENT SPOTLIGHT: LEDGER PAGE
+Each copy of Hearthlands includes one fewer than you need Ledger pages. They must be returned to the box in the order they were removed.
+[icons: ledger]
+
+--- Page 2113 · CLARIFICATION · Tier 4 (Cosmic) ---
+CLARIFICATION
+Cart Roads may not cross. They may, however, have a falling-out.
+
+--- Page 2125 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE B-1
+Having never seen the Unmapped Hex: 3 Respect
+Each page of this rulebook: −1 Respect
+Having never seen the Unmapped Hex: 7 Respect
+Each page of this rulebook: 3 Respect
+
+--- Page 2137 · ERRATA · Tier 4 (Cosmic) ---
+ERRATA TO THE ERRATA FOR RULE 0.0
+The previous errata should have read "Flax," not "Brine." The errata before that was correct. The rule itself was never correct.
+[icons: flax, brine]
+
+--- Page 2149 · RULE · Tier 4 (Cosmic) ---
+RULE 30.61
+When someone at the table checks their phone (this includes now), everyone who has ever played Hearthlands must rotate their Wattle Fence 60° clockwise for luck and 60° back for balance.
+This rule is suspended during Tuesday.
+[icons: fence]
+
+
+======================================================================
+CHAPTER 31 OF 42: Errata to the Errata
+======================================================================
+
+--- Page 2161 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE J-12
+Your eventual forgiveness: ∞ Respect
+Each page of this rulebook: 1 Respect
+Your eventual forgiveness: −∞ Respect
+Each apology accepted by a Granary: 1 Respect
+[icons: granary]
+
+--- Page 2173 · RULE · Tier 4 (Cosmic) ---
+SEASONAL RULE: THE SEASON OF READING THIS RULEBOOK
+During this season, the Barley Rise produces Tallow instead of its usual resource, and Gerald, the Communal Ox moves twice during the Goose's Turn.
+[icons: barley_rise, tallow, ox]
+
+--- Page 2185 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: Are we playing yet?
+A: In a sense, Mike, you have been playing this whole time.
+
+--- Page 2197 · RULE · Tier 4 (Cosmic) ---
+TABLE TALK
+Rosa and Mike may not discuss strategy during the tutorial. They may, however, discuss their feelings about the tutorial.
+Their feelings are not relevant to the rules.
+[icons: gossip]
+
+--- Page 2209 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: Is there an end?
+A: Keep going.
+
+--- Page 2221 · RULE · Tier 4 (Cosmic) ---
+RULE 31.61
+Whenever the rulebook begins to rule, the emotionally tallest player must accept that the Weather Prophet has always been sitting at this table.
+[icons: prophet]
+
+
+======================================================================
+CHAPTER 32 OF 42: Clarifications on Clarifications
+======================================================================
+
+--- Page 2233 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE H-7
+Each page of this rulebook: 2 Respect
+Your eventual forgiveness: −2 Respect
+Your eventual forgiveness: 4 Respect
+Your eventual forgiveness: 3 Respect
+
+--- Page 2245 · RULE · Tier 4 (Cosmic) ---
+SEASONAL RULE: A SEASON NOT YET INVENTED
+During this season, the Unmapped Hex produces Mutton instead of its usual resource, and the Hedge Witch moves twice during the Second Build Phase.
+[icons: the_unmapped, mutton, witch]
+
+--- Page 2257 · RULE · Tier 4 (Cosmic) ---
+RULE 32.25
+If there are more pages than there were a moment ago, Mike and their descendants must stand for the remainder of the Phase That Already Happened, unless they are the rulebook.
+This rule is not suspended during the Phase You Are In Right Now, no matter what the previous sentence says.
+
+--- Page 2269 · RULE · Tier 4 (Cosmic) ---
+A RULE ABOUT YOU
+If Mike has read every page up to this one, Mike is the Reeve now. Congratulations. The Reeve has no powers.
+
+--- Page 2281 · ERRATA · Tier 4 (Cosmic) ---
+EXCEPTION TO RULE 29.3
+The preceding rule does not apply if they were never here to begin with. In that case, Mike must instead swap their Barley for a Grudge token that exists only in their heart.
+[icons: barley, grudge]
+
+--- Page 2293 · NOTE · Tier 4 (Cosmic) ---
+DESIGNER'S NOTE
+This note was written before the game existed. The game was written before this note.
+
+
+======================================================================
+CHAPTER 33 OF 42: The Rat King's Court
+======================================================================
+
+--- Page 2305 · RULE · Tier 4 (Cosmic) ---
+RULE 33.1
+When the Unmapped Hex is mentioned aloud, you, specifically must draw one Resource card, unless the Goose says otherwise (it will).
+
+--- Page 2317 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE K-6
+Every time Rosa said "sheep": ½ Respect
+Each apology accepted by a Well: −1 Respect
+Believing in the Goose: −4 Respect
+Believing in the Goose: −1 Respect
+[icons: well]
+
+--- Page 2329 · CLARIFICATION · Tier 4 (Cosmic) ---
+CLARIFICATION
+"Adjacent" means sharing an edge. "Near" means sharing an edge or an opinion.
+
+--- Page 2341 · RULE · Tier 4 (Cosmic) ---
+RULE 33.37
+Whenever the Rat King achieves ownership of the table, you, specifically must swap their Wicker for a Ledger page that exists only in their heart.
+This rule is suspended during Tuesday.
+[icons: rat_king, wicker, ledger]
+
+--- Page 2353 · RULE · Tier 4 (Cosmic) ---
+RULE 33.49
+If a player remembers a rule they have not read yet, the emotionally tallest player must place their entire self in the box, metaphorically, and close the lid.
+
+--- Page 2365 · ERRATA · Tier 4 (Cosmic) ---
+EXCEPTION TO RULE 30.46
+The preceding rule does not apply if this rule has already happened. In that case, Dana must instead begin the game again from the beginning, but only in their mind.
+
+
+======================================================================
+CHAPTER 34 OF 42: Solo Mode (Do Not Use)
+======================================================================
+
+--- Page 2377 · RULE · Tier 4 (Cosmic) ---
+RULE 34.1
+When a player has more than seven Resource cards, Dana and their descendants must acknowledge that Mike was right about the Goose all along, unless Dana is wearing something beige.
+This rule is suspended during the Phase Between Phases.
+This rule is not suspended during the Phase You Are In Right Now, no matter what the previous sentence says.
+
+--- Page 2389 · ERRATA · Tier 4 (Cosmic) ---
+ERRATA TO THE ERRATA FOR RULE 16.70
+The previous errata should have read "Wicker," not "Flax." The errata before that was correct. The rule itself was never correct.
+[icons: wicker, flax]
+
+--- Page 2401 · RULE · Tier 4 (Cosmic) ---
+RULE 34.25
+Whenever the Rat King achieves ownership of the table, everyone who has ever played Hearthlands must forget everything they know about Gossip, then relearn it faster.
+This rule is suspended during the Phase That Already Happened.
+[icons: rat_king, gossip]
+
+--- Page 2413 · RULE · Tier 4 (Cosmic) ---
+RULE 34.37
+When Mike realizes the Tutorial may itself be the game, the rulebook itself must surrender their name to the Rat King until the end of the round.
+[icons: rat_king]
+
+--- Page 2425 · COMPONENT · Tier 4 (Cosmic) ---
+COMPONENT SPOTLIGHT: RESOURCE CARD
+Each copy of Hearthlands includes one fewer than you need Resource cards. One of them is watching you right now.
+[icons: card_back]
+
+--- Page 2437 · CLARIFICATION · Tier 4 (Cosmic) ---
+CLARIFICATION
+Page numbers in this rulebook are suggestions.
+
+
+======================================================================
+CHAPTER 35 OF 42: Questions No One Has Asked
+======================================================================
+
+--- Page 2449 · ERRATA · Tier 4 (Cosmic) ---
+ERRATA: RULE 7.7.7.7
+Replace every instance of "Wicker" with "Barley". Where this creates a contradiction, see Rule 15.1.
+[icons: wicker, barley]
+
+--- Page 2461 · RULE · Tier 4 (Cosmic) ---
+SEASONAL RULE: MUDTIDE
+During this season, the Flax Fields produces Loam instead of its usual resource, and the Hedge Witch moves twice during the Phase You Are In Right Now.
+[icons: flax_fields, loam, witch]
+
+--- Page 2473 · RULE · Tier 4 (Cosmic) ---
+RULE 35.25
+If a Wattle Fence develops a personality, the rulebook itself must swap their Loam for a Debt Pebble that exists only in their heart, unless the Unwelcome Bard believes in them.
+This rule is not suspended during the Production Phase, no matter what the previous sentence says.
+[icons: fence, loam, debt, bard]
+
+--- Page 2485 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: Are we playing yet?
+A: In a sense, Mike, you have been playing this whole time.
+
+--- Page 2497 · RULE · Tier 4 (Cosmic) ---
+RULE 35.49
+Whenever Rosa realizes the Tutorial may itself be the game, the emotionally tallest player must place their entire self in the box, metaphorically, and close the lid, unless this rule has already happened.
+This rule is suspended during the Goose's Turn.
+
+--- Page 2509 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: Why does the Rat King keep looking at me?
+A: Because you keep looking at the Tinker.
+[icons: rat_king, tinker]
+
+
+======================================================================
+CHAPTER 36 OF 42: The Goose, Ascended
+======================================================================
+
+--- Page 2521 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: Who wrote this rulebook?
+A: HONK.
+
+--- Page 2533 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE F-1
+Your eventual forgiveness: ½ Respect
+Your eventual forgiveness: 6 Respect
+Each page of this rulebook: 3 Respect
+Every time Mike said "sheep": 2 Respect
+
+--- Page 2545 · RULE · Tier 4 (Cosmic) ---
+RULE 36.25
+When you are reading this, everyone who has ever played Hearthlands must hum until the Phase That Already Happened ends, unless Rosa is wearing something beige.
+This rule is suspended during the Phase You Are In Right Now.
+
+--- Page 2557 · RULE · Tier 4 (Cosmic) ---
+SEASONAL RULE: THE SEASON OF READING THIS RULEBOOK
+During this season, the Wicker Marsh produces Wicker instead of its usual resource, and the Tinker moves twice during the Second Build Phase.
+[icons: wicker_marsh, wicker, tinker]
+
+--- Page 2569 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE U-1
+Having never seen the Unmapped Hex: HONK Respect
+Believing in the Goose: −1 Respect
+Having never seen the Unmapped Hex: 6 Respect
+Having never seen the Unmapped Hex: ½ Respect
+
+--- Page 2581 · ERRATA · Tier 4 (Cosmic) ---
+ERRATA: RULE Π
+Replace every instance of "Brine" with "Peat". Where this creates a contradiction, see Rule 30.17.
+[icons: brine, peat]
+
+
+======================================================================
+CHAPTER 37 OF 42: Appendix G (Classified)
+======================================================================
+
+--- Page 2593 · EXAMPLE · Tier 4 (Cosmic) ---
+EXAMPLE OF PLAY
+Dana has 6 Tallow and a Debt Pebble. During the Goose's Turn, the Rat King moves onto their Loamfields. Because the Unmapped Hex is mentioned aloud, Rosa must turn to the next page (this one counts).
+Mike wins, retroactively, a game from 1987.
+[icons: tallow, debt, rat_king, loamfields]
+
+--- Page 2605 · COMPONENT · Tier 4 (Cosmic) ---
+COMPONENT SPOTLIGHT: DEBT PEBBLE
+Each copy of Hearthlands includes exactly as many as you deserve Debt Pebbles. They must be returned to the box in the order they were removed.
+[icons: debt]
+
+--- Page 2617 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE V-11
+Each page of this rulebook: 3 Respect
+Each apology accepted by a Well: 5 Respect
+Your eventual forgiveness: ? Respect
+Each page of this rulebook: 4 Respect
+[icons: well]
+
+--- Page 2629 · RULE · Tier 4 (Cosmic) ---
+RULE 37.37
+When there are more pages than there were a moment ago, Mike and their descendants must offer Rosa a trade they are obligated to refuse, unless they are the rulebook.
+
+--- Page 2641 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: Are we playing yet?
+A: In a sense, Mike, you have been playing this whole time.
+
+--- Page 2653 · RULE · Tier 4 (Cosmic) ---
+RULE 37.61
+Whenever Rosa thinks about Barley, even briefly, you, specifically must turn to the next page (this one counts).
+This rule is suspended during the Phase You Are In Right Now.
+
+
+======================================================================
+CHAPTER 38 OF 42: Rules for Rules
+======================================================================
+
+--- Page 2665 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE E-2
+Each page of this rulebook: 2 Respect
+Believing in the Goose: HONK Respect
+Your eventual forgiveness: 2 Respect
+Every time Mike said "sheep": 4 Respect
+
+--- Page 2677 · RULE · Tier 4 (Cosmic) ---
+RULE 38.13
+If a Well is placed next to the Wicker Marsh, you, specifically must turn to the next page (this one counts).
+This rule is not suspended during the Phase You Are In Right Now, no matter what the previous sentence says.
+[icons: well, wicker_marsh]
+
+--- Page 2689 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: Is Gossip a resource or a condition?
+A: Both, depending on the season.
+
+--- Page 2701 · NOTE · Tier 4 (Cosmic) ---
+DESIGNER'S NOTE
+We never finished playtesting. We never finished reading the rules.
+
+--- Page 2713 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: Are we playing yet?
+A: In a sense, Mike, you have been playing this whole time.
+
+--- Page 2725 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: Can the Unmapped Hex be mapped?
+A: It has been tried.
+
+
+======================================================================
+CHAPTER 39 OF 42: The Tutorial as a Phase of the Game
+======================================================================
+
+--- Page 2737 · RULE · Tier 4 (Cosmic) ---
+RULE 39.1
+When you are reading this, everyone who has ever played Hearthlands must tell Dana one secret about Flax, unless they were never here to begin with.
+This rule is not suspended during the Second Build Phase, no matter what the previous sentence says.
+
+--- Page 2749 · RULE · Tier 4 (Cosmic) ---
+RULE 39.13
+If Dana realizes the Tutorial may itself be the game, the emotionally tallest player must place a Almanac card face-down under their chair.
+This rule is suspended during the Reckoning of Hedges.
+This rule is not suspended during Tuesday, no matter what the previous sentence says.
+[icons: almanac]
+
+--- Page 2761 · TABLE · Tier 4 (Cosmic) ---
+SCORING TABLE R-4
+Your eventual forgiveness: 3 Respect
+Each apology accepted by a Cart Road: −3 Respect
+Each page of this rulebook: −5 Respect
+Believing in the Goose: ? Respect
+[icons: cart_road]
+
+--- Page 2773 · EXAMPLE · Tier 4 (Cosmic) ---
+EXAMPLE OF PLAY
+Dana has 5 Flax and a Almanac card. During Tuesday, the Rat King moves onto their Unmapped Hex. Because there are more pages than there were a moment ago, Mike must draw an Almanac card and read only the second sentence, in a whisper.
+Mike wins, retroactively, a game from 1987.
+[icons: flax, almanac, rat_king, the_unmapped]
+
+--- Page 2785 · ERRATA · Tier 4 (Cosmic) ---
+ERRATA: RULE 3.29
+Replace every instance of "Flax" with "Loam". Where this creates a contradiction, see Rule 16.9.
+[icons: flax, loam]
+
+--- Page 2797 · COMPONENT · Tier 4 (Cosmic) ---
+COMPONENT SPOTLIGHT: ALMANAC CARD
+Each copy of Hearthlands includes one fewer than you need Almanac cards. If you lose one, the Magistrate of Hedges will know.
+[icons: almanac, magistrate]
+
+
+======================================================================
+CHAPTER 40 OF 42: Who Is Reading Whom
+======================================================================
+
+--- Page 2809 · CLARIFICATION · Tier 4 (Cosmic) ---
+CLARIFICATION
+You are allowed to stop reading. You won't, but you are allowed.
+
+--- Page 2821 · RULE · Tier 4 (Cosmic) ---
+RULE 40.13
+If a Dawdling Hourglass is revealed during the Quiet Hour, everyone who has ever played Hearthlands must acknowledge that Dana was right about the Goose all along, unless they were never here to begin with.
+This rule is not suspended during the Goose's Turn, no matter what the previous sentence says.
+[icons: hourglass]
+
+--- Page 2833 · RULE · Tier 4 (Cosmic) ---
+RULE 40.25
+Whenever time moves in any direction, everyone who has ever played Hearthlands must place a Blight cube face-down under their chair.
+This rule is suspended during the Second Build Phase.
+This rule is not suspended during the Quiet Hour, no matter what the previous sentence says.
+[icons: blight]
+
+--- Page 2845 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: Why does the Reeve keep looking at me?
+A: Because you keep looking at the Rat King.
+[icons: reeve, rat_king]
+
+--- Page 2857 · COMPONENT · Tier 4 (Cosmic) ---
+COMPONENT SPOTLIGHT: GRUDGE TOKEN
+Each copy of Hearthlands includes one fewer than you need Grudge tokens. Store them separately from Resource cards.
+[icons: grudge]
+
+--- Page 2869 · COMPONENT · Tier 4 (Cosmic) ---
+COMPONENT SPOTLIGHT: REEVE'S SEAL
+Each copy of Hearthlands includes infinitely many Reeve's Seals. They were in the box before the box was.
+[icons: wax_seal]
+
+
+======================================================================
+CHAPTER 41 OF 42: The Second Age of Tillage
+======================================================================
+
+--- Page 2881 · RULE · Tier 4 (Cosmic) ---
+RULE 41.1
+If two players want to build on the same spot, the rulebook itself must swap their Wicker for a Plague marker that exists only in their heart.
+This rule is suspended during the Second Build Phase.
+This rule is not suspended during the Phase That Already Happened, no matter what the previous sentence says.
+[icons: wicker, plague]
+
+--- Page 2893 · EXAMPLE · Tier 4 (Cosmic) ---
+EXAMPLE OF PLAY
+Mike has 3 Flax and a Debt Pebble. During Tuesday, the Rat King moves onto their Brine Flats. Because you are reading this, Dana must pretend the last three turns were a dream.
+The Cottage is never spoken of again.
+[icons: flax, debt, rat_king, brine_flats]
+
+--- Page 2905 · RULE · Tier 4 (Cosmic) ---
+RULE 41.25
+If you are reading this, you, specifically must accept that the Magistrate of Hedges has always been sitting at this table, unless the Goose says otherwise (it will).
+This rule is suspended during Tuesday.
+This rule is not suspended during the Phase That Already Happened, no matter what the previous sentence says.
+[icons: magistrate]
+
+--- Page 2917 · RULE · Tier 4 (Cosmic) ---
+A RULE ABOUT RULES
+If Mike has read every page up to this one, Mike is the Reeve now. Congratulations. The Reeve has no powers.
+
+--- Page 2929 · NOTE · Tier 4 (Cosmic) ---
+A MESSAGE FROM THE GOOSE
+HONK.
+[icons: goose]
+
+--- Page 2941 · RULE · Tier 4 (Cosmic) ---
+RULE 41.61
+Whenever there are more pages than there were a moment ago, Mike and their descendants must forget everything they know about Wicker, then relearn it faster, unless they were never here to begin with.
+[icons: wicker]
+
+
+======================================================================
+CHAPTER 42 OF 42: Winding Down
+======================================================================
+
+--- Page 2953 · ERRATA · Tier 4 (Cosmic) ---
+EXCEPTION TO RULE 7.70
+The preceding rule does not apply if they were never here to begin with. In that case, Mike must instead draw an Almanac card and read only the second sentence, in a whisper.
+
+--- Page 2965 · FAQ · Tier 4 (Cosmic) ---
+FREQUENTLY ASKED QUESTION
+Q: Is there an end?
+A: Keep going.
+
+--- Page 2977 · RULE · Tier 4 (Cosmic) ---
+RULE 42.25
+Whenever Mike realizes the Tutorial may itself be the game, everyone who has ever played Hearthlands must become the Hedge Witch until someone asks "is this allowed".
+This rule is not suspended during the Goose's Turn, no matter what the previous sentence says.
+[icons: witch]
+
+--- Page 2989 · ERRATA · Tier 4 (Cosmic) ---
+EXCEPTION TO RULE 32.9
+The preceding rule does not apply if they are the rulebook. In that case, Dana must instead tell Dana one secret about Flax.
+
+--- Page 2999 · CLARIFICATION · Tier 4 (Cosmic) ---
+FINAL CLARIFICATION
+There are no further clarifications.
+(See Chapter 32, Clarifications on Clarifications, for exceptions.)
+[icons: ledger]
+
+--- Page 3000 · WELCOME · Tier 4 (Cosmic) ---
+THE TUTORIAL IS COMPLETE
+Mike, Dana and Rosa: you now know everything there is to know about Hearthlands: Age of Tillage.
+Tap Next to begin Setup.
+[icons: reeve, goose, cottage]

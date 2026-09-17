@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "hearthlands",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["server.js"],
+      "port": 3000
+    },
+    {
+      "name": "hearthlands-short",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["server.js"],
+      "env": { "PORT": "3001", "TOTAL_SCREENS": "30", "MIN_DWELL_MS": "300" },
+      "port": 3001
+    }
+  ]
+}

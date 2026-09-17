@@ -1,0 +1,41 @@
+// Writes the whole rulebook to docs/RULEBOOK.txt for proofreading, plus a
+// shorter docs/RULEBOOK-SAMPLER.txt (intro + every 12th page) for AI reviewers.
+// Usage: node scripts/export.js [Player1 Player2 ...]
+import fs from "node:fs";
+import { renderScreen, tierAt, TOTAL_SCREENS } from "../lib/content.js";
+import { INTRO } from "../lib/handwritten.js";
+
+const players = process.argv.slice(2).length ? process.argv.slice(2) : ["Mike", "Dana", "Rosa"];
+const TIER_NAMES = ["Straight-faced", "Fussy", "Goose-obsessed", "Self-aware", "Cosmic"];
+function build(include, title) {
+  const out = [
+    `HEARTHLANDS: AGE OF TILLAGE — ${title}`,
+    `${TOTAL_SCREENS} pages total · rendered with players: ${players.join(", ")}`,
+    "Each page is one phone screen. Tier = absurdity level (0 = sounds real, 4 = fully absurd).",
+    "",
+  ];
+  let chapter = 0;
+  for (let i = 0; i < TOTAL_SCREENS; i++) {
+    if (!include(i)) continue;
+    const s = renderScreen(i, players);
+    if (s.chapter !== chapter) {
+      chapter = s.chapter;
+      out.push("", "=".repeat(70), `CHAPTER ${s.chapter} OF ${s.totalChapters}: ${s.chapterTitle}`, "=".repeat(70), "");
+    }
+    const t = tierAt(i);
+    out.push(`--- Page ${s.page} · ${s.kind.toUpperCase()} · Tier ${t} (${TIER_NAMES[t]}) ---`);
+    out.push(s.heading.toUpperCase());
+    for (const p of s.body) out.push(p);
+    if (s.sprites.length) out.push(`[icons: ${s.sprites.join(", ")}]`);
+    out.push("");
+  }
+  return out.join("\n");
+}
+
+fs.mkdirSync("docs", { recursive: true });
+fs.writeFileSync("docs/RULEBOOK.txt", build(() => true, "FULL RULES TUTORIAL"));
+fs.writeFileSync(
+  "docs/RULEBOOK-SAMPLER.txt",
+  build((i) => i < INTRO.length || i % 12 === 0 || i >= TOTAL_SCREENS - 2, "SAMPLER (intro + every 12th page)")
+);
+console.log(`Wrote docs/RULEBOOK.txt and docs/RULEBOOK-SAMPLER.txt (${TOTAL_SCREENS} pages)`);
