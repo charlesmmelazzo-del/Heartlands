@@ -199,7 +199,11 @@ body {
 .kind-faq .ribbon { background: #3c5a78; }
 .kind-note .ribbon { background: #6b4a7a; }
 .kind-example .ribbon, .kind-table .ribbon { background: #8a6420; }
-.kind-welcome .ribbon { background: var(--wood); }
+.kind-welcome .ribbon, .kind-stage .ribbon { background: var(--wood); }
+.kind-phase .ribbon { background: #3c5a78; }
+.kind-patch .ribbon { background: #6b4a7a; }
+.ribbon { max-width: calc(100% - 24px); overflow: hidden; text-overflow: ellipsis; }
+.chapter { overflow-wrap: anywhere; }
 
 .page-heading {
   font: 700 25px/1.15 var(--display);

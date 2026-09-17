@@ -6,15 +6,19 @@ const READ_DELAY_MS = 1000; // server enforces a little less than this
 const PAWNS = ["pawn_red", "pawn_blue", "pawn_cream", "pawn_orange", "pawn_green"];
 
 const KIND_LABELS = {
-  welcome: "Welcome",
-  rule: "Rule",
-  component: "Components",
-  example: "Example of Play",
+  welcome: "Hearthlands",
+  rule: "How to Play",
+  component: "Piece",
+  step: "Step",
+  stage: "Stage",
+  phase: "Phase",
+  example: "Example",
   faq: "FAQ",
   note: "Designer's Note",
   errata: "Errata",
   clarification: "Clarification",
-  table: "Scoring",
+  table: "Table",
+  patch: "Patch Notes",
 };
 
 // --- storage (never required to work) --------------------------------------
@@ -127,7 +131,7 @@ function landing() {
             "section",
             { class: "resume" },
             h("p", {}, `A tutorial is in progress for ${saved.players?.join(", ") || "your table"}.`),
-            h("p", { class: "resume-page" }, `Page ${(saved.page || 1).toLocaleString()}`),
+            h("p", { class: "resume-page" }, `Card ${(saved.page || 1).toLocaleString()}`),
             h("button", { class: "btn primary", onclick: resume }, "Resume the Tutorial"),
             h(
               "button",
@@ -147,7 +151,7 @@ function landing() {
       h(
         "p",
         { class: "fineprint" },
-        "© Hearthworks Game Co. Contains small parts, large rules, and one Goose."
+        "© Hearthworks Games. Pass-and-play on one phone. Contains one Goose."
       )
     )
   );
@@ -183,7 +187,7 @@ let current = null; // { token, screen }
 async function resume() {
   const saved = save.get();
   if (!saved?.token) return landing();
-  show(h("p", { class: "loading" }, "Finding your place in the rulebook…"));
+  show(h("p", { class: "loading" }, "Finding your place in the tutorial…"));
   const { status, data } = await api("current", { token: saved.token });
   if (status !== 200) {
     save.clear();
@@ -210,7 +214,7 @@ function tutorial(s) {
   const card = h(
     "article",
     { class: `page kind-${s.kind}` },
-    h("div", { class: "ribbon" }, KIND_LABELS[s.kind] || "Rule"),
+    h("div", { class: "ribbon" }, s.ribbon || KIND_LABELS[s.kind] || "Rule"),
     h("h2", { class: "page-heading" }, s.heading),
     s.sprites.length
       ? h("div", { class: "sprites", style: `--count:${s.sprites.length}` }, s.sprites.map((id) => spriteEl(id)))
@@ -227,9 +231,9 @@ function tutorial(s) {
       h(
         "header",
         { class: "rulebook-bar" },
-        h("span", { class: "chapter" }, `Chapter ${s.chapter}`),
-        h("span", { class: "page-no" }, `Page ${s.page.toLocaleString()}`),
-        h("span", { class: "chapter-title" }, s.chapterTitle)
+        h("span", { class: "chapter" }, s.section),
+        h("span", { class: "page-no" }, `Card ${s.page.toLocaleString()}`),
+        h("span", { class: "chapter-title" }, s.title)
       ),
       card,
       h("footer", { class: "controls" }, next, hint)
@@ -284,7 +288,7 @@ function victory(v) {
       h(
         "p",
         {},
-        `There is no game. There never was a game. Hearthlands is a ${v.pages.toLocaleString()}-page rulebook for a board game that does not exist, and you read every single page of it.`
+        `There is no game. There never was a game. Hearthlands is a ${v.pages.toLocaleString()}-card tutorial for a game that does not exist, and you tapped through every single card.`
       ),
       h("p", {}, "We are genuinely impressed, a little worried, and very grateful."),
       h(

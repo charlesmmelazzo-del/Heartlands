@@ -1,9 +1,10 @@
-// Renders every page and fails on broken placeholders. Prints samples per tier.
+// Renders every card and fails on broken placeholders, physical-game words, and "a" before vowels.
+// Prints samples per tier.
 // Usage: node scripts/check.js [samplesPerTier] [totalPages]
 import { renderScreen, tierAt, MASTER_SIZE } from "../lib/content.js";
 
 const TOTAL_SCREENS = Number(process.argv[3]) || MASTER_SIZE;
-import { SPRITES } from "../public/sprites.js";
+import fs from "node:fs";
 
 const players = ["Mike", "Dana"];
 let bad = 0;
@@ -11,11 +12,11 @@ const samples = {};
 for (let i = 0; i < TOTAL_SCREENS; i++) {
   const s = renderScreen(i, players, TOTAL_SCREENS);
   const text = [s.heading, ...s.body].join(" ");
-  if (/[{}]|undefined|NaN/.test(text)) {
+  if (/[{}]|undefined|NaN|\bbox\b|\brulebook\b|(?<!Ledger )\bpages?\b|\ba [AEIOU]/i.test(text)) {
     bad++;
     if (bad < 10) console.log("BAD", i + 1, text);
   }
-  for (const id of s.sprites) if (!SPRITES[id]) { bad++; console.log("NO SPRITE", id, "page", i + 1); }
+  for (const id of s.sprites) if (!fs.existsSync(`public/art/${id}.webp`)) { bad++; console.log("NO SPRITE", id, "page", i + 1); }
   (samples[tierAt(i, TOTAL_SCREENS)] ||= []).push(`p${s.page} [${s.kind}] ${s.heading} — ${s.body.join(" / ")}`);
 }
 const show = Number(process.argv[2] || 4);
