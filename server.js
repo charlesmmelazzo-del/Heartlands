@@ -246,14 +246,22 @@ async function serveStatic(req, res) {
   const file = path.normalize(path.join(PUBLIC, urlPath));
   if (!file.startsWith(PUBLIC)) return send(res, 404, { error: "not found" });
   try {
-    const data = await fs.readFile(file);
+    const stat = await fs.stat(file);
     const ext = path.extname(file);
-    res.writeHead(200, {
+    // Code and pages revalidate on every load (a cheap 304 when unchanged), so a
+    // deploy reaches phones immediately. Art may be reused for a day.
+    const etag = `W/"${stat.size.toString(16)}-${Math.floor(stat.mtimeMs).toString(16)}"`;
+    const headers = {
       "Content-Type": TYPES[ext] || "application/octet-stream",
-      "Cache-Control":
-        ext === ".html" ? "no-cache" : urlPath.startsWith("/art/") ? "public, max-age=604800" : "public, max-age=3600",
-    });
-    res.end(data);
+      "Cache-Control": urlPath.startsWith("/art/") ? "public, max-age=86400" : "no-cache",
+      ETag: etag,
+    };
+    if (req.headers["if-none-match"] === etag) {
+      res.writeHead(304, headers);
+      return res.end();
+    }
+    res.writeHead(200, headers);
+    res.end(await fs.readFile(file));
   } catch {
     // Unknown paths get the app, so a mistyped QR link still lands somewhere.
     const html = await fs.readFile(path.join(PUBLIC, "index.html"));

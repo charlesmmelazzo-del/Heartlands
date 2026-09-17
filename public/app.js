@@ -1,4 +1,4 @@
-import { spriteEl } from "./sprites.js";
+import { spriteEl } from "./sprites.js?v=2";
 
 const app = document.getElementById("app");
 const SAVE_KEY = "hearthlands.save.v1";
