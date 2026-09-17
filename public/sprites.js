@@ -22,21 +22,20 @@ export const SPRITES = {
   rulebook: "📖", quill: "🪶", scroll: "📜", shot_glass: "🥃", laurel: "🌿", compass: "🧭",
 };
 
-// Ids that have real art in /art. Filled in when sprite sheets are sliced.
-export const ART = new Set([]);
-
-export function spriteEl(id, size = 56) {
+// Every sprite has art in /art/<id>.webp (sliced by scripts/slice_sprites.py).
+// The emoji above are only a fallback if an image is missing.
+export function spriteEl(id, size) {
   const wrap = document.createElement("span");
   wrap.className = "sprite";
-  wrap.style.setProperty("--size", `${size}px`);
-  if (ART.has(id)) {
-    const img = document.createElement("img");
-    img.src = `/art/${id}.png`;
-    img.alt = "";
-    wrap.appendChild(img);
-  } else {
-    wrap.textContent = SPRITES[id] || "❔";
+  if (size) wrap.style.setProperty("--size", `${size}px`);
+  const img = document.createElement("img");
+  img.src = `/art/${id}.webp`;
+  img.alt = "";
+  img.decoding = "async";
+  img.onerror = () => {
+    wrap.textContent = SPRITES[id] || "";
     wrap.classList.add("emoji");
-  }
+  };
+  wrap.appendChild(img);
   return wrap;
 }

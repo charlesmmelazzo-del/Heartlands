@@ -75,32 +75,9 @@ body {
 .box {
   text-align: center;
   color: var(--parchment);
-  padding: 8px 0 20px;
+  padding: 0 0 16px;
 }
-.hexes {
-  display: grid;
-  grid-template-columns: repeat(4, 56px);
-  justify-content: center;
-  gap: 2px 4px;
-  margin: 8px auto 14px;
-}
-.hex {
-  width: 56px;
-  height: 62px;
-  clip-path: polygon(50% 0, 100% 25%, 100% 75%, 50% 100%, 0 75%, 0 25%);
-  background: linear-gradient(160deg, var(--parchment), var(--parchment-deep));
-  display: grid;
-  place-items: center;
-}
-.hex:nth-child(n + 5) { transform: translateX(30px); margin-top: -14px; }
-.hex:nth-child(1) { background: #d9b85c; }
-.hex:nth-child(2) { background: #e2c565; }
-.hex:nth-child(3) { background: #8a6a4a; }
-.hex:nth-child(4) { background: #9bb56b; }
-.hex:nth-child(5) { background: #b9cf8a; }
-.hex:nth-child(6) { background: #9ec4c9; }
-.hex:nth-child(7) { background: #c9b79c; }
-
+.box .eyebrow { margin: 6px 0 0; }
 .eyebrow {
   font: 600 13px var(--display);
   letter-spacing: 0.18em;
@@ -108,27 +85,21 @@ body {
   color: var(--gold-light);
   margin: 0 0 6px;
 }
-.logo {
-  font: 900 44px/0.95 var(--display);
-  margin: 0;
-  color: var(--gold-light);
-  text-shadow: 0 2px 0 #6b4a17, 0 6px 20px rgba(0,0,0,0.5);
-}
-.logo span {
+.logo { margin: 0 auto; max-width: 440px; }
+.logo img {
   display: block;
-  font-size: 19px;
-  font-weight: 700;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-  color: var(--parchment);
-  margin-top: 8px;
-  text-shadow: none;
+  width: 100%;
+  height: auto;
+  filter: drop-shadow(0 8px 18px rgba(0, 0, 0, 0.55));
 }
-.logo-img { width: min(100%, 420px); height: auto; display: block; margin: 0 auto; }
+.board { margin: 12px auto 0; width: min(100%, 196px); }
+.board-row { display: flex; justify-content: center; gap: 2px; }
+.board-row + .board-row { margin-top: -5.5%; }
+.board .tile { width: calc((100% - 4px) / 3); height: auto; display: block; filter: drop-shadow(0 3px 4px rgba(0, 0, 0, 0.45)); }
 .box-stats {
   list-style: none;
   padding: 0;
-  margin: 18px 0 0;
+  margin: 14px 0 0;
   display: flex;
   justify-content: center;
   gap: 10px;
@@ -180,13 +151,14 @@ body {
 
 /* ---------- sprites ---------- */
 .sprite {
+  --size: 64px;
   width: var(--size);
   height: var(--size);
   display: inline-grid;
   place-items: center;
   flex: none;
 }
-.sprite img { width: 100%; height: 100%; object-fit: contain; image-rendering: auto; }
+.sprite img { width: 100%; height: 100%; object-fit: contain; display: block; filter: drop-shadow(0 2px 2px rgba(43,29,18,0.25)); }
 .sprite.emoji { font-size: calc(var(--size) * 0.72); line-height: 1; }
 
 /* ---------- tutorial ---------- */
@@ -201,16 +173,6 @@ body {
 .chapter { font: 600 12px var(--display); letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold-light); }
 .page-no { font: 700 13px var(--display); letter-spacing: 0.08em; text-align: right; }
 .chapter-title { grid-column: 1 / -1; font-style: italic; font-size: 17px; }
-.progress {
-  grid-column: 1 / -1;
-  height: 6px;
-  background: rgba(0,0,0,0.35);
-  border-radius: 3px;
-  overflow: hidden;
-  margin-top: 8px;
-}
-.progress div { height: 100%; background: linear-gradient(90deg, var(--gold), var(--gold-light)); }
-
 .page {
   position: relative;
   padding: 34px 20px 24px;
@@ -245,15 +207,17 @@ body {
   margin: 0 0 16px;
 }
 .sprites {
-  display: flex;
+  --count: 3;
+  display: grid;
+  grid-template-columns: repeat(var(--count), minmax(0, 76px));
   justify-content: center;
-  flex-wrap: wrap;
-  gap: 8px;
+  gap: 10px;
   margin: 0 auto 18px;
-  padding: 10px;
+  padding: 12px 0;
   border-top: 1px solid rgba(90,70,50,0.25);
   border-bottom: 1px solid rgba(90,70,50,0.25);
 }
+.sprites .sprite { width: 100%; height: auto; aspect-ratio: 1; }
 .page p { margin: 0 0 14px; }
 .page p:last-child { margin-bottom: 0; }
 .kind-faq p:first-of-type { font-weight: 600; }
@@ -265,7 +229,13 @@ body {
 }
 .score-table li:last-child { border-bottom: 0; }
 
-.controls { padding-top: 22px; margin-top: auto; position: sticky; bottom: 0; }
+.controls {
+  margin: auto -16px 0;
+  padding: 18px 16px max(10px, env(safe-area-inset-bottom));
+  position: sticky;
+  bottom: 0;
+  background: linear-gradient(180deg, rgba(42,26,14,0), var(--wood-dark) 40%);
+}
 .next.reading::after {
   content: "";
   position: absolute;

@@ -109,7 +109,7 @@ function landing() {
       "ol",
       { class: "players" },
       inputs.map((input, i) =>
-        h("li", { class: i === 0 ? "player you" : "player" }, spriteEl(PAWNS[i], 30), input)
+        h("li", { class: i === 0 ? "player you" : "player" }, spriteEl(PAWNS[i], 40), input)
       )
     ),
     error
@@ -154,13 +154,18 @@ function landing() {
 }
 
 function boxArt() {
-  const hexes = ["loamfields", "barley_rise", "peat_bog", "wicker_marsh", "mutton_downs", "brine_flats", "tallow_mines"];
+  // A little 2-3-2 hex board with the Peat Bog in the middle, as the rules say.
+  const board = [["barley_rise", "flax_fields"], ["wicker_marsh", "peat_bog", "mutton_downs"], ["loamfields", "brine_flats"]];
   return h(
     "header",
     { class: "box" },
-    h("div", { class: "hexes", "aria-hidden": "true" }, hexes.map((id) => h("div", { class: "hex" }, spriteEl(id, 34)))),
+    h("h1", { class: "logo" }, h("img", { src: "/art/logo.webp", alt: "Hearthlands: Age of Tillage", width: "1080", height: "540" })),
     h("p", { class: "eyebrow" }, "A Game of Soil, Strategy & Spite"),
-    h("h1", { class: "logo" }, "Hearthlands", h("span", {}, "Age of Tillage")),
+    h(
+      "div",
+      { class: "board", "aria-hidden": "true" },
+      board.map((row) => h("div", { class: "board-row" }, row.map((id) => h("img", { src: `/art/${id}.webp`, alt: "", class: "tile" }))))
+    ),
     h(
       "ul",
       { class: "box-stats" },
@@ -199,7 +204,6 @@ function handle(data) {
 }
 
 function tutorial(s) {
-  const pct = (s.page / s.totalPages) * 100;
   const next = h("button", { class: "btn primary next", disabled: true }, "Next");
   const hint = h("p", { class: "hint", role: "status" });
 
@@ -208,7 +212,9 @@ function tutorial(s) {
     { class: `page kind-${s.kind}` },
     h("div", { class: "ribbon" }, KIND_LABELS[s.kind] || "Rule"),
     h("h2", { class: "page-heading" }, s.heading),
-    s.sprites.length ? h("div", { class: "sprites" }, s.sprites.map((id) => spriteEl(id, 60))) : null,
+    s.sprites.length
+      ? h("div", { class: "sprites", style: `--count:${s.sprites.length}` }, s.sprites.map((id) => spriteEl(id)))
+      : null,
     s.kind === "table"
       ? h("ul", { class: "score-table" }, s.body.map((line) => h("li", {}, line)))
       : s.body.map((p) => h("p", {}, p))
@@ -221,10 +227,9 @@ function tutorial(s) {
       h(
         "header",
         { class: "rulebook-bar" },
-        h("span", { class: "chapter" }, `Chapter ${s.chapter} of ${s.totalChapters}`),
+        h("span", { class: "chapter" }, `Chapter ${s.chapter}`),
         h("span", { class: "page-no" }, `Page ${s.page.toLocaleString()}`),
-        h("span", { class: "chapter-title" }, s.chapterTitle),
-        h("div", { class: "progress", "aria-hidden": "true" }, h("div", { style: `width:${Math.max(pct, 0.3)}%` }))
+        h("span", { class: "chapter-title" }, s.chapterTitle)
       ),
       card,
       h("footer", { class: "controls" }, next, hint)
@@ -273,7 +278,7 @@ function victory(v) {
     h(
       "div",
       { class: "victory" },
-      h("div", { class: "seal", "aria-hidden": "true" }, spriteEl("shot_glass", 64)),
+      h("div", { class: "seal", "aria-hidden": "true" }, spriteEl("shot_glass", 72)),
       h("p", { class: "eyebrow" }, "You finished the Rules Tutorial"),
       h("h1", {}, "Okay. You got us."),
       h(

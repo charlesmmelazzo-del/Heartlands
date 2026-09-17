@@ -66,5 +66,12 @@ Optional variables:
 
 ## Art
 
-See `docs/SPRITE_REQUEST.md`. Sheets get sliced into `public/art/<id>.png`, and ids get added to
-`ART` in `public/sprites.js`. Until then, emoji stand in.
+All art came from ChatGPT as magenta/green sprite sheets (spec: `docs/SPRITE_REQUEST.md`).
+`scripts/slice_sprites.py` cuts them into transparent WebP files in `public/art/`: 216 px sprites,
+enough for sharp icons on 3x phone screens, plus a 1080 px logo, about 1.3 MB total.
+To redo the art, replace the sheets and run:
+
+```bash
+python3 -m venv /tmp/venv && /tmp/venv/bin/pip install pillow numpy
+/tmp/venv/bin/python scripts/slice_sprites.py ~/Desktop/"Hearthlands Sprites" public/art
+```
